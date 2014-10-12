@@ -9,7 +9,7 @@ var diagonal = d3.svg.diagonal().projection(function(d)
 	return [d.y, d.x];
 });
 var svg = d3.select("body").append("svg").attr("width", width).attr("height", height).append("g");
-d3.json("oss3.json", function(error, flare)
+d3.json("data.json", function(error, flare)
 {
 	root = flare;
 	root.x0 = height / 2;
