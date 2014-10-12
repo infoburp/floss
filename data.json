@@ -2,7 +2,7 @@
   "name":".",
   "children": [
     {
-      "name": "Applied fields",
+      "name": "Computing",
       "children": [
         {"name": "Artificial intelligence", "children":
           [
@@ -355,7 +355,7 @@
             {"name": "Text2Speech"}
           ]
         },
-        {"name": "Other assistive technology", "children":
+        {"name": "Assistive technology", "children":
           [
             {"name": "Dasher"},
             {"name": "Gnopernicus"},
@@ -364,7 +364,7 @@
         }
       ]
     },
-    {"name": "Data storage and management", "children":
+    {"name": "Computer data storage", "children":
       [
         {"name": "Backup software", "children":
           [
