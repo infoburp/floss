@@ -31,7 +31,7 @@ var partition = d3.layout.partition()
     .size([width, height])
     .value(function(d) { return d.size; });
 
-d3.json("/d/4063550/flare.json", function(error, root) {
+d3.json("data.json", function(error, root) {
   var nodes = partition.nodes(root);
 
   svg.selectAll(".node")
