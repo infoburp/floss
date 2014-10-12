@@ -1,3 +1,4 @@
+var titlex = 0;
 var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0) * 0.6,
 	height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0) * 2;
 var margin = {top: 20, right: 20, bottom: 20, left: 84};
@@ -164,5 +165,10 @@ $(document).ready(function()
 	});
 });
 setInterval(function() {
-   $("img#title").css({"top": root.x0-90+"px", "left": 4+"px"});
-}, 1000);
+	if (titlex<root.x0-90)
+	{titlex++;}
+	else
+	{titlex--;}
+	
+   $("img#title").css({"top": titlex+"px", "left": 4+"px"});
+}, 100);
