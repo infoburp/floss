@@ -8,7 +8,11 @@ var diagonal = d3.svg.diagonal().projection(function(d)
 {
 	return [d.y, d.x];
 });
-var svg = d3.select("body").append("svg").attr("width", width).attr("height", height).append("g");
+var svg = d3.select("body").append("svg")
+    .attr("width", width + 16)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate("  + 16  "," + 0 + ")");
 d3.json("data.json", function(error, flare)
 {
 	root = flare;
