@@ -1,0 +1,45 @@
+body{
+overflow-y: scroll;
+overflow-x: hidden;
+}
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #191919;
+  stroke: #191919;
+  stroke-width: 4px;
+}
+
+.node text {
+  font: 12px Impact, Charcoal, sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #F8F8F8;
+  stroke-width: 4px;
+}
+svg{
+}
+#article {
+	background-color:white;
+	z-index:2;
+	position:absolute;
+	left:60%;
+	width:40%;
+	top:0px;
+	  font: 12px Impact, Charcoal, sans-serif;
+
+}
+#title {
+	position:fixed;
+	top:-10px;
+	left:10px;
+	z-index:3;
+	  font: 12px Impact, Charcoal, sans-serif;
+	  height:90px;
+	  width;90px;
+
+}
