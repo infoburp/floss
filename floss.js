@@ -12,8 +12,8 @@ var svg = d3.select("body").append("svg").attr("width", width).attr("height", he
 d3.json("data.json", function(error, flare)
 {
 	root = flare;
-	root.x0 = (height / 2)+20;
-	root.y0 = 0;
+	root.x0 = height / 2;
+	root.y0 = 16;
 
 	function collapse(d)
 	{
