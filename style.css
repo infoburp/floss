@@ -34,7 +34,6 @@ svg{
 
 }
 #title {
-position:fixed !important;
 position:absolute;
 top:50%;
 left:12px;
