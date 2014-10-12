@@ -1,5 +1,9 @@
-var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0) * 0.6,
+var titlex = 0;
+var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
 	height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0) * 2;
+var margin = {top: 20, right: 0, bottom: 20, left: 84};
+    width = width - margin.right - margin.left;
+    height = height - margin.top - margin.bottom;
 var i = 0,
 	duration = 750,
 	root;
@@ -8,13 +12,16 @@ var diagonal = d3.svg.diagonal().projection(function(d)
 {
 	return [d.y, d.x];
 });
-var svg = d3.select("body").append("svg").attr("width", width).attr("height", height).append("g");
+var svg = d3.select("body").append("svg")
+    .attr("width", width + 16)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 d3.json("data.json", function(error, flare)
 {
 	root = flare;
 	root.x0 = height / 2;
-	document.getElementById("title").style.top=height / 2;
-	root.y0 = 0;
+	root.y0 = 16;
 
 	function collapse(d)
 	{
@@ -31,13 +38,14 @@ d3.json("data.json", function(error, flare)
 
 function update(source)
 	{
+		
 		// Compute the new tree layout.
 		var nodes = tree.nodes(root).reverse(),
 			links = tree.links(nodes);
 		// Normalize for fixed-depth.
 		nodes.forEach(function(d)
 		{
-			d.y = d.depth * 200;
+			d.y = d.depth * 128;
 		});
 		// Update the nodes…
 		var node = svg.selectAll("g.node").data(nodes, function(d)
@@ -53,16 +61,12 @@ function update(source)
 		{
 			return d._children ? "#191919" : "#191919";
 		});
-		nodeEnter.append("text").attr("x", function(d)
-		{
-			return d.children || d._children ? -10 : 10;
-		}).attr("dy", ".35em").attr("text-anchor", function(d)
-		{
-			return d.children || d._children ? "end" : "start";
-		}).text(function(d)
-		{
-			return d.name;
-		}).style("fill-opacity", 1e-6);
+		nodeEnter.append("text")
+      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
+      .attr("dy", ".35em")
+      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
+      .text(function(d) { return d.name; })
+      .style("fill-opacity", 1e-6);
 		// Transition nodes to their new position.
 		var nodeUpdate = node.transition().duration(duration).attr("transform", function(d)
 		{
@@ -119,6 +123,8 @@ function update(source)
 			d.x0 = d.x;
 			d.y0 = d.y;
 		});
+			$("img#title").css({"top": root.x0+"px", "left": 4+"px"}); 
+
 	}
 	// Toggle children on click.
 function click(d)
@@ -158,3 +164,8 @@ $(document).ready(function()
 		customSelector: ''
 	});
 });
+setInterval(function() {
+	
+titlex=root.x0-90
+   $("img#title").css({"top": titlex+"px", "left": 4+"px"});
+}, 1);
