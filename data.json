@@ -19,8 +19,8 @@
             },
             {"name": "Machine learning", "children":
               [
-                {"name": "See Data Mining below"},
-                {"name": "See R programming language—packages of statistical learning and analysis tools"}
+                {"name": "Data mining"},
+                {"name": "R (programming language)"}
               ]
             },
             {"name": "Planning", "children":
