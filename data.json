@@ -1,5 +1,5 @@
 {
-  "name":".",
+  "name":"",
   "children": [
     {
       "name": "Computing",
@@ -156,7 +156,7 @@
             {"name": "AMPHORA"},
             {"name": "Anduril"},
             {"name": "AutoDock"},
-            {"name": "Biochemical Algorithms Library (BALL)"},
+            {"name": "BALL"},
             {"name": "Bioclipse"},
             {"name": "Bioconductor"},
             {"name": "BioJava"},
@@ -167,19 +167,18 @@
             {"name": "Biopython"},
             {"name": "BioRuby"},
             {"name": "EMBOSS"},
-            {"name": "Galaxy"},
+            {"name": "Galaxy (computational biology)"},
             {"name": "GenePattern"},
-            {"name": "GeWorkbench"},
-            {"name": "GMOD"},
+            {"name": "Geworkbench"},
+            {"name": "Generic Model Organism Database"},
             {"name": "GenGIS"},
-            {"name": "GenomeSpace"},
+            {"name": "Genomespace"},
             {"name": "GENtle"},
             {"name": "Integrated Genome Browser"},
             {"name": "InterMine"},
-            {"name": "LabKey"},
+            {"name": "LabKey Server"},
             {"name": "PathVisio"},
             {"name": "Staden Package"},
-            {"name": "STAMP"},
             {"name": "Taverna workbench"},
             {"name": "UGENE"}
           ]
@@ -188,7 +187,7 @@
           [
             {"name": "Chemistry Development Kit"},
             {"name": "JOELib"},
-            {"name": "OpenBabel"}
+            {"name": "Open Babel"}
           ]
         },
         {"name": "Geographic information system", "children": 
@@ -572,7 +571,7 @@
           [
             {"name": "OpenAFS"},
             {"name": "Tahoe-LAFS"},
-            {"name": "CephFS"}
+            {"name": "Ceph (software)"}
           ]
         }
       ]
