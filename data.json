@@ -1780,7 +1780,7 @@
                     },
                     {"name": "Player", "children":
                         [
-                            {"name": "Audio players without Database", "children":
+                            {"name": "Comparison of audio player software", "children":
                                 [
                                     {"name": "AlsaPlayer"},
                                     {"name": "Aqualung"},
@@ -1793,11 +1793,7 @@
                                     {"name": "DeaDBeeFdbeef"},
                                     {"name": "qmmp"},
                                     {"name": "XiXMusicPlayer"},
-                                    {"name": "XMMS"}
-                                ]
-                            },
-                            {"name": "Audio players with Database", "children":
-                                [
+                                    {"name": "XMMS"},
                                     {"name": "Amarok"},
                                     {"name": "aTunes"},
                                     {"name": "Banshee"},
@@ -1820,7 +1816,7 @@
                             }
                         ]
                     },
-                    {"name": "Programming language", "children":
+                    {"name": "Audio programming language", "children":
                         [
                             {"name": "Csound"},
                             {"name": "SuperCollider"},
@@ -1881,7 +1877,7 @@
                             {"name": "VideoLAN"}
                         ]
                     },
-                    {"name": "Technology", "children":
+                    {"name": "Sound recording and reproduction", "children":
                         [
                             {"name": "Advanced Linux Sound Architecture (ALSA)"},
                             {"name": "DSSI"},
@@ -1902,7 +1898,7 @@
                             {"name": "SoundTracker"}
                         ]
                     },
-                    {"name": "Other", "children":
+                    {"name": "Audio", "children":
                         [
                             {"name": "Aria"},
                             {"name": "Cythar Sequencer"},
@@ -1919,7 +1915,7 @@
                     }
                 ]
             },
-            {"name": "CD/USB-writing software", "children":
+            {"name": "Optical disc authoring", "children":
                 [
                     {"name": "AcetoneISO"},
                     {"name": "Brasero (software)"},
@@ -2046,7 +2042,7 @@
                     {"name": "ZoneMinder"}
                 ]
             },
-            {"name": "Video converter", "children":
+            {"name": "Transcoding", "children":
                 [
                     {"name": "Dr. DivX"},
                     {"name": "FFmpeg"},
@@ -2060,7 +2056,7 @@
                     {"name": "Transcode (software)"}
                 ]
             },
-            {"name": "Video editing", "children":
+            {"name": "Video editing software", "children":
                 [  
                     {"name": "Avidemux"},
                     {"name": "AviSynth"},
@@ -2085,7 +2081,7 @@
                     {"name": "HandBrake"}
                 ]
             },
-            {"name": "Media player#Video players", "children":
+            {"name": "Media player", "children":
                 [  
                     {"name": "VLC media player"},
                     {"name": "Media Player Classic"}
@@ -2462,7 +2458,7 @@
     },
     {"name": "Security", "children":
         [
-            {"name": "Anti-virus", "children":
+            {"name": "Antivirus software", "children":
                 [
                     {"name": "ClamAV"},
                     {"name": "ClamWin"},
@@ -2470,7 +2466,7 @@
                     {"name": "Lynis"}
                 ]
             },
-            {"name": "Data loss prevention", "children":
+            {"name": "Data loss prevention software", "children":
                 [
                     {"name": "MyDLP"}
                 ]
@@ -2531,7 +2527,7 @@
                     {"name": "Vyatta"}
                 ]
             },
-            {"name": "Network and security monitoring", "children":
+            {"name": "Network security", "children":
                 [  
                     {"name": "Admon"},
                     {"name": "Argus (monitoring software)"},
@@ -2617,7 +2613,7 @@
                 {"name": "PuTTY"}
               ]
             },
-            {"name": "Other security programs", "children":
+            {"name": "Security software", "children":
               [
                 {"name": "ACARM-ng"},
                 {"name": "Aircrack-ng"},
