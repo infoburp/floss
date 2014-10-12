@@ -122,7 +122,7 @@ function update(source)
 			d.x0 = d.x;
 			d.y0 = d.y;
 		});
-			$("img#title").css({"top": height/2+"px", "left": 4+"px"}); 
+			$("img#title").css({"top": root.x0+"px", "left": 4+"px"}); 
 
 	}
 	// Toggle children on click.
