@@ -18,7 +18,7 @@ overflow-x: hidden;
 
 .link {
   fill: none;
-  stroke: black;
+  stroke: gray;
   stroke-width: 1px;
 }
 svg{
