@@ -34,12 +34,9 @@ svg{
 
 }
 #title {
-	position:fixed;
-	top:10px;
-	left:10px;
-	z-index:3;
-	  font: 12px Impact, Charcoal, sans-serif;
-	  height:90px;
-	  width;90px;
+position:absolute;
+top:85%;
+left:12px;
+z-index:3;
 
 }
