@@ -2,7 +2,7 @@
   "name":".",
   "children": [
     {
-      "name": "Computing",
+      "name": "Applied fields",
       "children": [
         {"name": "Artificial intelligence", "children":
           [
@@ -19,8 +19,8 @@
             },
             {"name": "Machine learning", "children":
               [
-                {"name": "Data mining"},
-                {"name": "R (programming language)"}
+                {"name": "See Data Mining below"},
+                {"name": "See R programming language—packages of statistical learning and analysis tools"}
               ]
             },
             {"name": "Planning", "children":
@@ -149,155 +149,158 @@
         },
         {"name": "Mathematics"},
         {"name": "Reference management software"},
-        {"name": "Science"},
-        {"name": "Bioinformatics", "children": 
+        {"name": "Science, "children":
           [
-            {"name": "AMPHORA"},
-            {"name": "Anduril"},
-            {"name": "AutoDock"},
-            {"name": "Biochemical Algorithms Library (BALL)"},
-            {"name": "Bioclipse"},
-            {"name": "Bioconductor"},
-            {"name": "BioJava"},
-            {"name": "BioJS"},
-            {"name": "BioMOBY"},
-            {"name": "BioPerl"},
-            {"name": "BioPHP"},
-            {"name": "Biopython"},
-            {"name": "BioRuby"},
-            {"name": "EMBOSS"},
-            {"name": "Galaxy"},
-            {"name": "GenePattern"},
-            {"name": "GeWorkbench"},
-            {"name": "GMOD"},
-            {"name": "GenGIS"},
-            {"name": "GenomeSpace"},
-            {"name": "GENtle"},
-            {"name": "Integrated Genome Browser"},
-            {"name": "InterMine"},
-            {"name": "LabKey"},
-            {"name": "PathVisio"},
-            {"name": "Staden Package"},
-            {"name": "STAMP"},
-            {"name": "Taverna workbench"},
-            {"name": "UGENE"}
-          ]
-        },
-        {"name": "Cheminformatics", "children": 
-          [
-            {"name": "Chemistry Development Kit"},
-            {"name": "JOELib"},
-            {"name": "OpenBabel"}
-          ]
-        },
-        {"name": "Geographic information system", "children": 
-          [
-            {"name": "Capaware"},
-            {"name": "Chameleon (GIS)"},
-            {"name": "Deegree"},
-            {"name": "FWTools"},
-            {"name": "GDAL"},
-            {"name": "Generic Mapping Tools"},
-            {"name": "GeoDA"},
-            {"name": "Geomajas"},
-            {"name": "GeoNetwork opensource"},
-            {"name": "GeoServer"},
-            {"name": "GeoTools"},
-            {"name": "GPSBabel"},
-            {"name": "GRASS GIS"},
-            {"name": "GvSIG"},
-            {"name": "ILWIS"},
-            {"name": "JOSM"},
-            {"name": "JUMP GIS"},
-            {"name": "Kosmo"},
-            {"name": "Leaflet (software)"},
-            {"name": "LibLAS"},
-            {"name": "Mapbender"},
-            {"name": "MapGuide Open Source"},
-            {"name": "Mapnik"},
-            {"name": "MapServer"},
-            {"name": "MapWindow GIS"},
-            {"name": "Open Source Geospatial Foundation"},
-            {"name": "OpenEV"},
-            {"name": "OpenLayers"},
-            {"name": "PostGIS"},
-            {"name": "Potlatch (software)"},
-            {"name": "Pycsw"},
-            {"name": "QGIS"},
-            {"name": "R.sun"},
-            {"name": "SAGA GIS"},
-            {"name": "TerraAmazon"},
-            {"name": "TerraLib"},
-            {"name": "TerraView"},
-            {"name": "UDig"},
-            {"name": "Whitebox Geospatial Analysis Tools"}
-          ]
-        },
-        {"name": "Microscope image processing", "children": 
-          [
-            {"name": "CellProfiler"},
-            {"name": "Endrov"},
-            {"name": "FIJI (software)"},
-            {"name": "ImageJ"}
-          ]
-        },
-        {"name": "Molecular dynamics", "children": 
-          [
-            {"name": "Ascalaph Designer"},
-            {"name": "GROMACS"},
-            {"name": "LAMMPS"},
-            {"name": "MDynaMix"},
-            {"name": "NAMD"}
-          ]
-        },
-        {"name": "Molecule editor", "children": 
-          [
-            {"name": "Avogadro"},
-            {"name": "BALLView"},
-            {"name": "Jmol"},
-            {"name": "Molekel"},
-            {"name": "MeshLab"},
-            {"name": "PyMOL"},
-            {"name": "QuteMol"},
-            {"name": "RasMol"}
-          ]
-        },
-        {"name": "Nanotechnology", "children": 
-          [
-            {"name": "Ninithi"}
-          ]
-        },
-        {"name": "Plot (graphics)", "children": 
-          [
-            {"name": "Descartes (plotting tool)"},
-            {"name": "EpsTk"},
-            {"name": "Fityk"},
-            {"name": "GGobi"},
-            {"name": "Ggplot2"},
-            {"name": "Gnuplot"},
-            {"name": "Grace (plotting tool)"},
-            {"name": "GraphCalc"},
-            {"name": "Graphics Layout Engine"},
-            {"name": "Gretl"},
-            {"name": "HippoDraw"},
-            {"name": "IDPS Software"},
-            {"name": "JavaGnuplotHybrid"},
-            {"name": "JFreeChart"},
-            {"name": "Kst (software)"},
-            {"name": "LabPlot"},
-            {"name": "Matplotlib"},
-            {"name": "MayaVi"},
-            {"name": "OpenPlaG"},
-            {"name": "OpenScientist"},
-            {"name": "Ploticus"},
-            {"name": "Plotutils"},
-            {"name": "PLplot"},
-            {"name": "QtiPlot"},
-            {"name": "R (programming language)"},
-            {"name": "ROOT"},
-            {"name": "SciDAVis"},
-            {"name": "Veusz"},
-            {"name": "VisIt"}
+            {"name": "Bioinformatics", "children": 
+              [
+                {"name": "AMPHORA"},
+                {"name": "Anduril"},
+                {"name": "AutoDock"},
+                {"name": "Biochemical Algorithms Library (BALL)"},
+                {"name": "Bioclipse"},
+                {"name": "Bioconductor"},
+                {"name": "BioJava"},
+                {"name": "BioJS"},
+                {"name": "BioMOBY"},
+                {"name": "BioPerl"},
+                {"name": "BioPHP"},
+                {"name": "Biopython"},
+                {"name": "BioRuby"},
+                {"name": "EMBOSS"},
+                {"name": "Galaxy"},
+                {"name": "GenePattern"},
+                {"name": "GeWorkbench"},
+                {"name": "GMOD"},
+                {"name": "GenGIS"},
+                {"name": "GenomeSpace"},
+                {"name": "GENtle"},
+                {"name": "Integrated Genome Browser"},
+                {"name": "InterMine"},
+                {"name": "LabKey"},
+                {"name": "PathVisio"},
+                {"name": "Staden Package"},
+                {"name": "STAMP"},
+                {"name": "Taverna workbench"},
+                {"name": "UGENE"}
+              ]
+            },
+            {"name": "Cheminformatics", "children": 
+              [
+                {"name": "Chemistry Development Kit"},
+                {"name": "JOELib"},
+                {"name": "OpenBabel"}
+              ]
+            },
+            {"name": "Geographic information system", "children": 
+              [
+                {"name": "Capaware"},
+                {"name": "Chameleon (GIS)"},
+                {"name": "Deegree"},
+                {"name": "FWTools"},
+                {"name": "GDAL"},
+                {"name": "Generic Mapping Tools"},
+                {"name": "GeoDA"},
+                {"name": "Geomajas"},
+                {"name": "GeoNetwork opensource"},
+                {"name": "GeoServer"},
+                {"name": "GeoTools"},
+                {"name": "GPSBabel"},
+                {"name": "GRASS GIS"},
+                {"name": "GvSIG"},
+                {"name": "ILWIS"},
+                {"name": "JOSM"},
+                {"name": "JUMP GIS"},
+                {"name": "Kosmo"},
+                {"name": "Leaflet (software)"},
+                {"name": "LibLAS"},
+                {"name": "Mapbender"},
+                {"name": "MapGuide Open Source"},
+                {"name": "Mapnik"},
+                {"name": "MapServer"},
+                {"name": "MapWindow GIS"},
+                {"name": "Open Source Geospatial Foundation"},
+                {"name": "OpenEV"},
+                {"name": "OpenLayers"},
+                {"name": "PostGIS"},
+                {"name": "Potlatch (software)"},
+                {"name": "Pycsw"},
+                {"name": "QGIS"},
+                {"name": "R.sun"},
+                {"name": "SAGA GIS"},
+                {"name": "TerraAmazon"},
+                {"name": "TerraLib"},
+                {"name": "TerraView"},
+                {"name": "UDig"},
+                {"name": "Whitebox Geospatial Analysis Tools"}
+              ]
+            },
+            {"name": "Microscope image processing", "children": 
+              [
+                {"name": "CellProfiler"},
+                {"name": "Endrov"},
+                {"name": "FIJI (software)"},
+                {"name": "ImageJ"}
+              ]
+            },
+            {"name": "Molecular dynamics", "children": 
+              [
+                {"name": "Ascalaph Designer"},
+                {"name": "GROMACS"},
+                {"name": "LAMMPS"},
+                {"name": "MDynaMix"},
+                {"name": "NAMD"}
+              ]
+            },
+            {"name": "Molecule editor", "children": 
+              [
+                {"name": "Avogadro"},
+                {"name": "BALLView"},
+                {"name": "Jmol"},
+                {"name": "Molekel"},
+                {"name": "MeshLab"},
+                {"name": "PyMOL"},
+                {"name": "QuteMol"},
+                {"name": "RasMol"}
+              ]
+            },
+            {"name": "Nanotechnology", "children": 
+              [
+                {"name": "Ninithi"}
+              ]
+            },
+            {"name": "Plot (graphics)", "children": 
+              [
+                {"name": "Descartes (plotting tool)"},
+                {"name": "EpsTk"},
+                {"name": "Fityk"},
+                {"name": "GGobi"},
+                {"name": "Ggplot2"},
+                {"name": "Gnuplot"},
+                {"name": "Grace (plotting tool)"},
+                {"name": "GraphCalc"},
+                {"name": "Graphics Layout Engine"},
+                {"name": "Gretl"},
+                {"name": "HippoDraw"},
+                {"name": "IDPS Software"},
+                {"name": "JavaGnuplotHybrid"},
+                {"name": "JFreeChart"},
+                {"name": "Kst (software)"},
+                {"name": "LabPlot"},
+                {"name": "Matplotlib"},
+                {"name": "MayaVi"},
+                {"name": "OpenPlaG"},
+                {"name": "OpenScientist"},
+                {"name": "Ploticus"},
+                {"name": "Plotutils"},
+                {"name": "PLplot"},
+                {"name": "QtiPlot"},
+                {"name": "R (programming language)"},
+                {"name": "ROOT"},
+                {"name": "SciDAVis"},
+                {"name": "Veusz"},
+                {"name": "VisIt"}
+              ]
+            }
           ]
         },
         {"name": "Statistics", "children": 
@@ -355,7 +358,7 @@
             {"name": "Text2Speech"}
           ]
         },
-        {"name": "Assistive technology", "children":
+        {"name": "Other assistive technology", "children":
           [
             {"name": "Dasher"},
             {"name": "Gnopernicus"},
@@ -364,7 +367,7 @@
         }
       ]
     },
-    {"name": "Computer data storage", "children":
+    {"name": "Data storage and management", "children":
       [
         {"name": "Backup software", "children":
           [
@@ -1780,7 +1783,7 @@
                     },
                     {"name": "Player", "children":
                         [
-                            {"name": "Comparison of audio player software", "children":
+                            {"name": "Audio players without Database", "children":
                                 [
                                     {"name": "AlsaPlayer"},
                                     {"name": "Aqualung"},
@@ -1793,7 +1796,11 @@
                                     {"name": "DeaDBeeFdbeef"},
                                     {"name": "qmmp"},
                                     {"name": "XiXMusicPlayer"},
-                                    {"name": "XMMS"},
+                                    {"name": "XMMS"}
+                                ]
+                            },
+                            {"name": "Audio players with Database", "children":
+                                [
                                     {"name": "Amarok"},
                                     {"name": "aTunes"},
                                     {"name": "Banshee"},
@@ -1816,7 +1823,7 @@
                             }
                         ]
                     },
-                    {"name": "Audio programming language", "children":
+                    {"name": "Programming language", "children":
                         [
                             {"name": "Csound"},
                             {"name": "SuperCollider"},
@@ -1877,7 +1884,7 @@
                             {"name": "VideoLAN"}
                         ]
                     },
-                    {"name": "Sound recording and reproduction", "children":
+                    {"name": "Technology", "children":
                         [
                             {"name": "Advanced Linux Sound Architecture (ALSA)"},
                             {"name": "DSSI"},
@@ -1898,7 +1905,7 @@
                             {"name": "SoundTracker"}
                         ]
                     },
-                    {"name": "Audio", "children":
+                    {"name": "Other", "children":
                         [
                             {"name": "Aria"},
                             {"name": "Cythar Sequencer"},
@@ -1915,7 +1922,7 @@
                     }
                 ]
             },
-            {"name": "Optical disc authoring", "children":
+            {"name": "CD/USB-writing software", "children":
                 [
                     {"name": "AcetoneISO"},
                     {"name": "Brasero (software)"},
@@ -2042,7 +2049,7 @@
                     {"name": "ZoneMinder"}
                 ]
             },
-            {"name": "Transcoding", "children":
+            {"name": "Video converter", "children":
                 [
                     {"name": "Dr. DivX"},
                     {"name": "FFmpeg"},
@@ -2056,7 +2063,7 @@
                     {"name": "Transcode (software)"}
                 ]
             },
-            {"name": "Video editing software", "children":
+            {"name": "Video editing", "children":
                 [  
                     {"name": "Avidemux"},
                     {"name": "AviSynth"},
@@ -2081,7 +2088,7 @@
                     {"name": "HandBrake"}
                 ]
             },
-            {"name": "Media player", "children":
+            {"name": "Media player#Video players", "children":
                 [  
                     {"name": "VLC media player"},
                     {"name": "Media Player Classic"}
@@ -2458,7 +2465,7 @@
     },
     {"name": "Security", "children":
         [
-            {"name": "Antivirus software", "children":
+            {"name": "Anti-virus", "children":
                 [
                     {"name": "ClamAV"},
                     {"name": "ClamWin"},
@@ -2466,7 +2473,7 @@
                     {"name": "Lynis"}
                 ]
             },
-            {"name": "Data loss prevention software", "children":
+            {"name": "Data loss prevention", "children":
                 [
                     {"name": "MyDLP"}
                 ]
@@ -2527,7 +2534,7 @@
                     {"name": "Vyatta"}
                 ]
             },
-            {"name": "Network security", "children":
+            {"name": "Network and security monitoring", "children":
                 [  
                     {"name": "Admon"},
                     {"name": "Argus (monitoring software)"},
@@ -2613,7 +2620,7 @@
                 {"name": "PuTTY"}
               ]
             },
-            {"name": "Security software", "children":
+            {"name": "Other security programs", "children":
               [
                 {"name": "ACARM-ng"},
                 {"name": "Aircrack-ng"},
