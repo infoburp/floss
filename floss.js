@@ -13,6 +13,7 @@ d3.json("data.json", function(error, flare)
 {
 	root = flare;
 	root.x0 = height / 2;
+	document.getElementById("title").style.top=height / 2;
 	root.y0 = 0;
 
 	function collapse(d)
