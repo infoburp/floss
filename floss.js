@@ -45,7 +45,7 @@ function update(source)
 		// Normalize for fixed-depth.
 		nodes.forEach(function(d)
 		{
-			d.y = d.depth * 200;
+			d.y = d.depth * 128;
 		});
 		// Update the nodes…
 		var node = svg.selectAll("g.node").data(nodes, function(d)
