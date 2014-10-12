@@ -1,6 +1,6 @@
 var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0) * 0.6,
 	height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0) * 2;
-var margin = {top: 20, right: 20, bottom: 20, left: 80};
+var margin = {top: 20, right: 20, bottom: 20, left: 42};
     width = width - margin.right - margin.left;
     height = height - margin.top - margin.bottom;
 var i = 0,
