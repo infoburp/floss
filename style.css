@@ -18,8 +18,8 @@ overflow-x: hidden;
 
 .link {
   fill: none;
-  stroke: #F8F8F8;
-  stroke-width: 4px;
+  stroke: black;
+  stroke-width: 1px;
 }
 svg{
 }
@@ -34,9 +34,12 @@ svg{
 
 }
 #title {
-position:absolute;
-top:85%;
-left:12px;
-z-index:3;
+	position:fixed;
+	top:10px;
+	left:10px;
+	z-index:3;
+	  font: 12px Impact, Charcoal, sans-serif;
+	  height:90px;
+	  width;90px;
 
 }
