@@ -12,7 +12,7 @@ var svg = d3.select("body").append("svg")
     .attr("width", width + 16)
     .attr("height", height)
   .append("g")
-    .attr("transform", "translate("  + 16  "," + 0 + ")");
+    .attr("transform", "translate('16','0')");
 d3.json("data.json", function(error, flare)
 {
 	root = flare;
