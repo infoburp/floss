@@ -35,7 +35,7 @@ svg{
 }
 #title {
 	position:fixed;
-	top:-10px;
+	top:10px;
 	left:10px;
 	z-index:3;
 	  font: 12px Impact, Charcoal, sans-serif;
