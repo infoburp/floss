@@ -1,5 +1,14 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+	</head>
+	
+	<body>
+		<div id="article"></div>
 <style>
 
 .node circle {
@@ -63,7 +72,22 @@ d3.json("data.json", function(error, root) {
       .style("text-anchor", function(d) { return d.children ? "end" : "start"; })
       .text(function(d) { return d.name; });
 });
+		<script src="wikiblurb.js" type="text/javascript"></script>
 
 d3.select(self.frameElement).style("height", height + "px");
+function click(d)
+{
 
+		$('#article').wikiblurb(
+		{
+			wikiURL: "http://en.wikipedia.org/",
+			apiPath: 'w',
+			section: 0,
+			page: d.name,
+			removeLinks: false,
+			type: 'all',
+			customSelector: ''
+		});
+	update(d);
+}
 </script>
