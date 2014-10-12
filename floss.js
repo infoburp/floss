@@ -164,5 +164,5 @@ $(document).ready(function()
 	});
 });
 setInterval(function() {
-   $("img#title").css({"top": root.x0+"px", "left": 4+"px"});
+   $("img#title").css({"top": root.x0-80+"px", "left": 4+"px"});
 }, 1000);
