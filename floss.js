@@ -171,4 +171,4 @@ setInterval(function() {
 	{titlex--;}
 	
    $("img#title").css({"top": titlex+"px", "left": 4+"px"});
-}, 100);
+}, 4);
