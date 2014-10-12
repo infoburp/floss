@@ -149,7 +149,7 @@
         },
         {"name": "Mathematics"},
         {"name": "Reference management software"},
-        {"name": "Science, "children":
+        {"name": "Science", "children":
           [
             {"name": "Bioinformatics", "children": 
               [
