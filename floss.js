@@ -163,3 +163,6 @@ $(document).ready(function()
 		customSelector: ''
 	});
 });
+setInterval(function() {
+   $("img#title").css({"top": root.x0+"px", "left": 4+"px"});
+}, 1000);
