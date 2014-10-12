@@ -165,12 +165,7 @@ $(document).ready(function()
 	});
 });
 setInterval(function() {
-	if (titlex<root.x0-92 || titlex>root.x0-88)
-{	
-	if (titlex<root.x0-90)
-	{titlex++;}
-	else
-	{titlex--;}}
 	
+titlex=root.x0-90
    $("img#title").css({"top": titlex+"px", "left": 4+"px"});
 }, 1);
