@@ -1,5 +1,8 @@
 var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0) * 0.6,
 	height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0) * 2;
+var margin = {top: 20, right: 60, bottom: 20, left: 20};
+    width = width - margin.right - margin.left;
+    height = height - margin.top - margin.bottom;
 var i = 0,
 	duration = 750,
 	root;
@@ -12,7 +15,7 @@ var svg = d3.select("body").append("svg")
     .attr("width", width + 16)
     .attr("height", height)
   .append("g")
-    .attr("transform", "translate('16','0')");
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 d3.json("data.json", function(error, flare)
 {
 	root = flare;
