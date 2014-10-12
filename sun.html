@@ -39,7 +39,7 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, y(d.y)); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
-d3.json("/d/4063550/flare.json", function(error, root) {
+d3.json("data.json", function(error, root) {
   var path = svg.selectAll("path")
       .data(partition.nodes(root))
     .enter().append("path")
