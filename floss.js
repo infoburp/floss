@@ -20,7 +20,6 @@ d3.json("data.json", function(error, flare)
 {
 	root = flare;
 	root.x0 = height / 2;
-	document.getElementById("title").style.top=height / 2;
 	root.y0 = 16;
 
 	function collapse(d)
@@ -38,6 +37,7 @@ d3.json("data.json", function(error, flare)
 
 function update(source)
 	{
+		
 		// Compute the new tree layout.
 		var nodes = tree.nodes(root).reverse(),
 			links = tree.links(nodes);
@@ -122,6 +122,8 @@ function update(source)
 			d.x0 = d.x;
 			d.y0 = d.y;
 		});
+			document.getElementById("title").style.top=height / 2;
+
 	}
 	// Toggle children on click.
 function click(d)
