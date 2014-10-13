@@ -1,7 +1,5 @@
-{
-  "name":"free and open source software",
-  "children": [
-    {
+[
+  {
       "name": "Computing",
       "children": [
         {"name": "Artificial intelligence", "children":
@@ -2722,4 +2720,5 @@
       ]
     }
   ]
-}
+
+
