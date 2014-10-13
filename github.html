@@ -104,6 +104,8 @@ function color(d) {
 
 // Toggle children on click.
 function click(d) {
+  var usernamegithub = d.name;
+  document.getElementById("githubpage").innerHTML = '<iframe src="https://github.com/' + usernamegithub + '></iframe>';
   if (d3.event.defaultPrevented) return; // ignore drag
   if (d.children) {
     d._children = d.children;
@@ -118,7 +120,6 @@ function click(d) {
 // Returns a list of all nodes under the root.
 function flatten(root) {
   var nodes = [], i = 0;
-
   function recurse(node) {
     if (node.children) node.children.forEach(recurse);
     if (!node.id) node.id = ++i;
@@ -130,3 +131,4 @@ function flatten(root) {
 }
 
 </script>
+<div id="githubpage"></div>
