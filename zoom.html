@@ -33,7 +33,8 @@
 <script>
 
 var margin = 20,
-    diameter = 960;
+    diameter = Math.min(Math.max(document.documentElement.clientWidth, window.innerWidth || 0), Math.max(document.documentElement.clientHeight, window.innerHeight || 0));
+
 
 var color = d3.scale.linear()
     .domain([-1, 5])
