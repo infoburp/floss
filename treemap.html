@@ -37,7 +37,7 @@ var svg = d3.select("body").append("svg:svg")
   .append("svg:g")
     .attr("transform", "translate(" + w / 2 + "," + h / 2 + ")");
 
-d3.json("readme.json", function(root) {
+d3.json("datasized.json", function(root) {
   path = svg.data([root]).selectAll("path")
       .data(partition.nodes)
     .enter().append("svg:path")
