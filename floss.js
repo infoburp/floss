@@ -166,6 +166,6 @@ $(document).ready(function()
 });
 setInterval(function() {
 	
-titlex=root.x0-90
+titlex=root.x0-70
    $("img#title").css({"top": titlex+"px", "left": 4+"px"});
 }, 1);
