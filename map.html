@@ -32,9 +32,9 @@ form {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var margin = {top: 40, right: 10, bottom: 10, left: 10},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+
+var    width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
+	height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
 
 var color = d3.scale.category20c();
 
@@ -45,8 +45,8 @@ var treemap = d3.layout.treemap()
 
 var div = d3.select("body").append("div")
     .style("position", "relative")
-    .style("width", (width + margin.left + margin.right) + "px")
-    .style("height", (height + margin.top + margin.bottom) + "px")
+    .style("width", width + "px")
+    .style("height", height) + "px")
     .style("left", margin.left + "px")
     .style("top", margin.top + "px");
 
