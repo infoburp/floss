@@ -32,8 +32,7 @@
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var margin = 20,
-    diameter = Math.min(Math.max(document.documentElement.clientWidth, window.innerWidth || 0), Math.max(document.documentElement.clientHeight, window.innerHeight || 0));
+var diameter = Math.min(Math.max(document.documentElement.clientWidth, window.innerWidth || 0), Math.max(document.documentElement.clientHeight, window.innerHeight || 0));
 
 
 var color = d3.scale.linear()
@@ -80,7 +79,7 @@ d3.json("datasized.json", function(error, root) {
       .style("background", color(-1))
       .on("click", function() { zoom(root); });
 
-  zoomTo([root.x, root.y, root.r * 2 + margin]);
+  zoomTo([root.x, root.y, root.r * 2]);
 
   function zoom(d) {
     var focus0 = focus; focus = d;
@@ -88,7 +87,7 @@ d3.json("datasized.json", function(error, root) {
     var transition = d3.transition()
         .duration(d3.event.altKey ? 7500 : 750)
         .tween("zoom", function(d) {
-          var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
+          var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2]);
           return function(t) { zoomTo(i(t)); };
         });
 
