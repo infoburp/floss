@@ -53,13 +53,13 @@ var div = d3.select("body").append("div")
 d3.json("flare.json", function(error, root) {
   var node = div.datum(root).selectAll(".node")
       .data(treemap.nodes)
-    .enter().append("div")
-      .attr("class", "node")
-      .call(position)
-      .style("background", function(d) { return d.children ? color(d.size) : null; })
-      .text(function(d) { return d.children ? null : d.size; })
+    .enter().append("rect")
+      .attr("x", function(d) { return x(d.x); })
+      .attr("y", function(d) { return y(d.y); })
+      .attr("width", function(d) { return x(d.dx); })
+      .attr("height", function(d) { return y(d.dy); })
+      .attr("fill", function(d) { return color((d.children ? d : d.parent).key); })
       .on("click", clicked);
-      ;
 
   d3.selectAll("input").on("change", function change() {
     var value = this.value === "count"
