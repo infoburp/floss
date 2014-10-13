@@ -20,6 +20,10 @@ line.link {
   stroke-width: 8px;
 }
 
+#gp {
+  width: 100%;
+  height:100%;
+}
 </style>
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -105,7 +109,7 @@ function color(d) {
 // Toggle children on click.
 function click(d) {
   var usernamegithub = d.name;
-  document.getElementById("githubpage").innerHTML = '<iframe src="https://github.com/' + usernamegithub + '"></iframe>';
+  document.getElementById("githubpage").innerHTML = '<iframe id="gp" src="https://github.com/' + usernamegithub + '"></iframe>';
   if (d3.event.defaultPrevented) return; // ignore drag
   if (d.children) {
     d._children = d.children;
