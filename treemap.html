@@ -56,8 +56,10 @@ d3.json("flare.json", function(error, root) {
     .enter().append("div")
       .attr("class", "node")
       .call(position)
-      .style("background", function(d) { return d.children ? color(d.name) : null; })
-      .text(function(d) { return d.children ? null : d.size; });
+      .style("background", function(d) { return d.children ? color(d.size) : null; })
+      .text(function(d) { return d.children ? null : d.size; })
+      .on("click", clicked);
+      ;
 
   d3.selectAll("input").on("change", function change() {
     var value = this.value === "count"
@@ -71,6 +73,9 @@ d3.json("flare.json", function(error, root) {
         .call(position);
   });
 });
+function clicked(d) {
+  d.size--;
+}
 
 function position() {
   this.style("left", function(d) { return d.x + "px"; })
