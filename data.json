@@ -351,12 +351,12 @@
             {"name": "Festival Speech Synthesis System"},
             {"name": "Modular Audio Recognition Framework"},
             {"name": "NonVisual Desktop Access"},
-            {"name": "Text2Speech"}
+            {"name": "Speech synthesis"}
           ]
         },
         {"name": "Assistive technology", "children":
           [
-            {"name": "Dasher"},
+            {"name": "Dasher (software)"},
             {"name": "Gnopernicus"},
             {"name": "Virtual Magnifying Glass"}
           ]
