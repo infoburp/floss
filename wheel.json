@@ -1,0 +1,2725 @@
+{
+  "name":"free and open source software",
+  "children": [
+    {
+      "name": "Computing",
+      "children": [
+        {"name": "Artificial intelligence", "children":
+          [
+            {"name": "Artificial general intelligence", "children": 
+              [
+                {"name": "OpenCog", "colour": "#dbdc7f"}
+              ]
+            },
+            {"name": "Computer vision", "children":
+              [
+                {"name": "AForge.NET", "colour": "#dbdc7f"},
+                {"name": "OpenCV", "colour": "#dbdc7f"}
+              ]
+            },
+            {"name": "Machine learning", "children":
+              [
+                {"name": "Data mining", "colour": "#dbdc7f"},
+                {"name": "R (programming language)", "colour": "#dbdc7f"}
+              ]
+            },
+            {"name": "Planning", "children":
+              [
+                {"name": "TREX", "colour": "#dbdc7f"}
+              ]
+            },
+            {"name": "Robotics", "children":
+              [
+                {"name": "Robot Operating System", "colour": "#dbdc7f"}
+              ]
+            }
+          ]
+        },
+        {"name": "Computer-aided design", "children": 
+          [
+            {"name": "Electronic design automation", "children":
+              [
+                {"name": "ChipVault", "colour": "#dbdc7f"},
+                {"name": "Electric (software)", "colour": "#dbdc7f"},
+                {"name": "FreePCB", "colour": "#dbdc7f"},
+                {"name": "Fritzing", "colour": "#dbdc7f"},
+                {"name": "GEDA", "colour": "#dbdc7f"},
+                {"name": "GTKWave", "colour": "#dbdc7f"},
+                {"name": "Icarus Verilog", "colour": "#dbdc7f"},
+                {"name": "KiCad", "colour": "#dbdc7f"},
+                {"name": "KTechLab", "colour": "#dbdc7f"},
+                {"name": "Oregano (software)", "colour": "#dbdc7f"},
+                {"name": "PCB (software)", "colour": "#dbdc7f"},
+                {"name": "Quite Universal Circuit Simulator", "colour": "#dbdc7f"},
+                {"name": "SapWin", "colour": "#dbdc7f"},
+                {"name": "Sigrok", "colour": "#dbdc7f"},
+                {"name": "Verilator", "colour": "#dbdc7f"},
+                {"name": "XCircuit", "colour": "#dbdc7f"}
+              ]
+            },
+            {"name": "Archimedes (CAD)", "colour": "#dbdc7f"},
+            {"name": "Art of Illusion", "colour": "#dbdc7f"},
+            {"name": "AutoQ3D Community", "colour": "#dbdc7f"},
+            {"name": "Blender (software)", "colour": "#dbdc7f"},
+            {"name": "BRL-CAD", "colour": "#dbdc7f"},
+            {"name": "Calculix", "colour": "#dbdc7f"},
+            {"name": "CloudCompare", "colour": "#dbdc7f"},
+            {"name": "Code Aster", "colour": "#dbdc7f"},
+            {"name": "Electric (software)", "colour": "#dbdc7f"},
+            {"name": "Elmer FEM solver", "colour": "#dbdc7f"},
+            {"name": "Embroidermodder", "colour": "#dbdc7f"},
+            {"name": "FreeCAD", "colour": "#dbdc7f"},
+            {"name": "HeeksCAD", "colour": "#dbdc7f"},
+            {"name": "LibreCAD", "colour": "#dbdc7f"},
+            {"name": "Magic (software)", "colour": "#dbdc7f"},
+            {"name": "MeshLab", "colour": "#dbdc7f"},
+            {"name": "MoFEM JosePH", "colour": "#dbdc7f"},
+            {"name": "OOFEM", "colour": "#dbdc7f"},
+            {"name": "Open Cascade Technology", "colour": "#dbdc7f"},
+            {"name": "OpenSCAD", "colour": "#dbdc7f"},
+            {"name": "QCad", "colour": "#dbdc7f"},
+            {"name": "Salome (software)", "colour": "#dbdc7f"},
+            {"name": "SAMoCAD", "colour": "#dbdc7f"},
+            {"name": "SolveSpace", "colour": "#dbdc7f"},
+            {"name": "Sunflow", "colour": "#dbdc7f"},
+            {"name": "Sweet Home 3D", "colour": "#dbdc7f"},
+            {"name": "Tachyon (software)", "colour": "#dbdc7f"},
+            {"name": "Wings 3D", "colour": "#dbdc7f"},
+            {"name": "XFOIL", "colour": "#dbdc7f"},
+            {"name": "Z88 FEM software", "colour": "#dbdc7f"}
+          ]},
+        {"name": "Computer simulation", "children":
+              [
+                {"name": "Blender (software)", "colour": "#dbdc7f"},
+                {"name": "SimPy", "colour": "#dbdc7f"},
+                {"name": "FlightGear", "colour": "#dbdc7f"}
+              ]
+        },
+        {"name": "Finance", "children":
+          [
+            {"name": "Adempiere", "colour": "#dbdc7f"},
+            {"name": "Bitcoin", "colour": "#dbdc7f"},
+            {"name": "Bonita BPM", "colour": "#dbdc7f"},
+            {"name": "Compiere", "colour": "#dbdc7f"},
+            {"name": "Cyclos", "colour": "#dbdc7f"},
+            {"name": "Dolibarr", "colour": "#dbdc7f"},
+            {"name": "Ebase", "colour": "#dbdc7f"},
+            {"name": "Frontaccounting", "colour": "#dbdc7f"},
+            {"name": "GnuCash", "colour": "#dbdc7f"},
+            {"name": "Grisbi", "colour": "#dbdc7f"},
+            {"name": "HomeBank", "colour": "#dbdc7f"},
+            {"name": "jFin", "colour": "#dbdc7f"},
+            {"name": "JFire", "colour": "#dbdc7f"},
+            {"name": "JGnash", "colour": "#dbdc7f"},
+            {"name": "JQuantLib", "colour": "#dbdc7f"},
+            {"name": "KMyMoney", "colour": "#dbdc7f"},
+            {"name": "LedgerSMB", "colour": "#dbdc7f"},
+            {"name": "Mifos X", "colour": "#dbdc7f"},
+            {"name": "Openbravo", "colour": "#dbdc7f"},
+            {"name": "Odoo", "colour": "#dbdc7f"},
+            {"name": "OrangeHRM", "colour": "#dbdc7f"},
+            {"name": "Postbooks", "colour": "#dbdc7f"},
+            {"name": "QuickFIX", "colour": "#dbdc7f"},
+            {"name": "SQL-Ledger", "colour": "#dbdc7f"},
+            {"name": "SugarCRM", "colour": "#dbdc7f"},
+            {"name": "Tryton", "colour": "#dbdc7f"},
+            {"name": "TurboCASH", "colour": "#dbdc7f"},
+            {"name": "vtiger CRM", "colour": "#dbdc7f"},
+            {"name": "WebERP", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Integrated library system", "children":
+          [
+            {"name": "Evergreen (software)", "colour": "#dbdc7f"},
+            {"name": "Koha (software)", "colour": "#dbdc7f"},
+            {"name": "NewGenLib", "colour": "#dbdc7f"},
+            {"name": "OpenBiblio", "colour": "#dbdc7f"},
+            {"name": "PhpMyBibli", "colour": "#dbdc7f"},
+            {"name": "refbase", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Graphics software", "children":
+          [
+            {"name": "Darktable", "colour": "#dbdc7f"},
+            {"name": "digiKam", "colour": "#dbdc7f"},
+            {"name": "GIMP", "colour": "#dbdc7f"},
+            {"name": "Inkscape", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Mathematics", "colour": "#dbdc7f"},
+        {"name": "Reference management software", "colour": "#dbdc7f"},
+        {"name": "Science", "children":
+          [
+        {"name": "Bioinformatics", "children": 
+          [
+            {"name": "AMPHORA", "colour": "#dbdc7f"},
+            {"name": "Anduril", "colour": "#dbdc7f"},
+            {"name": "AutoDock", "colour": "#dbdc7f"},
+            {"name": "BALL", "colour": "#dbdc7f"},
+            {"name": "Bioclipse", "colour": "#dbdc7f"},
+            {"name": "Bioconductor", "colour": "#dbdc7f"},
+            {"name": "BioJava", "colour": "#dbdc7f"},
+            {"name": "BioJS", "colour": "#dbdc7f"},
+            {"name": "BioMOBY", "colour": "#dbdc7f"},
+            {"name": "BioPerl", "colour": "#dbdc7f"},
+            {"name": "BioPHP", "colour": "#dbdc7f"},
+            {"name": "Biopython", "colour": "#dbdc7f"},
+            {"name": "BioRuby", "colour": "#dbdc7f"},
+            {"name": "EMBOSS", "colour": "#dbdc7f"},
+            {"name": "Galaxy (computational biology)", "colour": "#dbdc7f"},
+            {"name": "GenePattern", "colour": "#dbdc7f"},
+            {"name": "Geworkbench", "colour": "#dbdc7f"},
+            {"name": "Generic Model Organism Database", "colour": "#dbdc7f"},
+            {"name": "GenGIS", "colour": "#dbdc7f"},
+            {"name": "Genomespace", "colour": "#dbdc7f"},
+            {"name": "GENtle", "colour": "#dbdc7f"},
+            {"name": "Integrated Genome Browser", "colour": "#dbdc7f"},
+            {"name": "InterMine", "colour": "#dbdc7f"},
+            {"name": "LabKey Server", "colour": "#dbdc7f"},
+            {"name": "PathVisio", "colour": "#dbdc7f"},
+            {"name": "Staden Package", "colour": "#dbdc7f"},
+            {"name": "Taverna workbench", "colour": "#dbdc7f"},
+            {"name": "UGENE", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Cheminformatics", "children": 
+          [
+            {"name": "Chemistry Development Kit", "colour": "#dbdc7f"},
+            {"name": "JOELib", "colour": "#dbdc7f"},
+            {"name": "Open Babel", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Geographic information system", "children": 
+          [
+            {"name": "Capaware", "colour": "#dbdc7f"},
+            {"name": "Chameleon (GIS)", "colour": "#dbdc7f"},
+            {"name": "Deegree", "colour": "#dbdc7f"},
+            {"name": "FWTools", "colour": "#dbdc7f"},
+            {"name": "GDAL", "colour": "#dbdc7f"},
+            {"name": "Generic Mapping Tools", "colour": "#dbdc7f"},
+            {"name": "GeoDA", "colour": "#dbdc7f"},
+            {"name": "Geomajas", "colour": "#dbdc7f"},
+            {"name": "GeoNetwork opensource", "colour": "#dbdc7f"},
+            {"name": "GeoServer", "colour": "#dbdc7f"},
+            {"name": "GeoTools", "colour": "#dbdc7f"},
+            {"name": "GPSBabel", "colour": "#dbdc7f"},
+            {"name": "GRASS GIS", "colour": "#dbdc7f"},
+            {"name": "GvSIG", "colour": "#dbdc7f"},
+            {"name": "ILWIS", "colour": "#dbdc7f"},
+            {"name": "JOSM", "colour": "#dbdc7f"},
+            {"name": "JUMP GIS", "colour": "#dbdc7f"},
+            {"name": "Kosmo", "colour": "#dbdc7f"},
+            {"name": "Leaflet (software)", "colour": "#dbdc7f"},
+            {"name": "LibLAS", "colour": "#dbdc7f"},
+            {"name": "Mapbender", "colour": "#dbdc7f"},
+            {"name": "MapGuide Open Source", "colour": "#dbdc7f"},
+            {"name": "Mapnik", "colour": "#dbdc7f"},
+            {"name": "MapServer", "colour": "#dbdc7f"},
+            {"name": "MapWindow GIS", "colour": "#dbdc7f"},
+            {"name": "Open Source Geospatial Foundation", "colour": "#dbdc7f"},
+            {"name": "OpenEV", "colour": "#dbdc7f"},
+            {"name": "OpenLayers", "colour": "#dbdc7f"},
+            {"name": "PostGIS", "colour": "#dbdc7f"},
+            {"name": "Potlatch (software)", "colour": "#dbdc7f"},
+            {"name": "Pycsw", "colour": "#dbdc7f"},
+            {"name": "QGIS", "colour": "#dbdc7f"},
+            {"name": "R.sun", "colour": "#dbdc7f"},
+            {"name": "SAGA GIS", "colour": "#dbdc7f"},
+            {"name": "TerraAmazon", "colour": "#dbdc7f"},
+            {"name": "TerraLib", "colour": "#dbdc7f"},
+            {"name": "TerraView", "colour": "#dbdc7f"},
+            {"name": "UDig", "colour": "#dbdc7f"},
+            {"name": "Whitebox Geospatial Analysis Tools", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Microscope image processing", "children": 
+          [
+            {"name": "CellProfiler", "colour": "#dbdc7f"},
+            {"name": "Endrov", "colour": "#dbdc7f"},
+            {"name": "FIJI (software)", "colour": "#dbdc7f"},
+            {"name": "ImageJ", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Molecular dynamics", "children": 
+          [
+            {"name": "Ascalaph Designer", "colour": "#dbdc7f"},
+            {"name": "GROMACS", "colour": "#dbdc7f"},
+            {"name": "LAMMPS", "colour": "#dbdc7f"},
+            {"name": "MDynaMix", "colour": "#dbdc7f"},
+            {"name": "NAMD", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Molecule editor", "children": 
+          [
+            {"name": "Avogadro", "colour": "#dbdc7f"},
+            {"name": "BALLView", "colour": "#dbdc7f"},
+            {"name": "Jmol", "colour": "#dbdc7f"},
+            {"name": "Molekel", "colour": "#dbdc7f"},
+            {"name": "MeshLab", "colour": "#dbdc7f"},
+            {"name": "PyMOL", "colour": "#dbdc7f"},
+            {"name": "QuteMol", "colour": "#dbdc7f"},
+            {"name": "RasMol", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Nanotechnology", "children": 
+          [
+            {"name": "Ninithi", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Plot (graphics)", "children": 
+          [
+            {"name": "Descartes (plotting tool)", "colour": "#dbdc7f"},
+            {"name": "EpsTk", "colour": "#dbdc7f"},
+            {"name": "Fityk", "colour": "#dbdc7f"},
+            {"name": "GGobi", "colour": "#dbdc7f"},
+            {"name": "Ggplot2", "colour": "#dbdc7f"},
+            {"name": "Gnuplot", "colour": "#dbdc7f"},
+            {"name": "Grace (plotting tool)", "colour": "#dbdc7f"},
+            {"name": "GraphCalc", "colour": "#dbdc7f"},
+            {"name": "Graphics Layout Engine", "colour": "#dbdc7f"},
+            {"name": "Gretl", "colour": "#dbdc7f"},
+            {"name": "HippoDraw", "colour": "#dbdc7f"},
+            {"name": "IDPS Software", "colour": "#dbdc7f"},
+            {"name": "JavaGnuplotHybrid", "colour": "#dbdc7f"},
+            {"name": "JFreeChart", "colour": "#dbdc7f"},
+            {"name": "Kst (software)", "colour": "#dbdc7f"},
+            {"name": "LabPlot", "colour": "#dbdc7f"},
+            {"name": "Matplotlib", "colour": "#dbdc7f"},
+            {"name": "MayaVi", "colour": "#dbdc7f"},
+            {"name": "OpenPlaG", "colour": "#dbdc7f"},
+            {"name": "OpenScientist", "colour": "#dbdc7f"},
+            {"name": "Ploticus", "colour": "#dbdc7f"},
+            {"name": "Plotutils", "colour": "#dbdc7f"},
+            {"name": "PLplot", "colour": "#dbdc7f"},
+            {"name": "QtiPlot", "colour": "#dbdc7f"},
+            {"name": "R (programming language)", "colour": "#dbdc7f"},
+            {"name": "ROOT", "colour": "#dbdc7f"},
+            {"name": "SciDAVis", "colour": "#dbdc7f"},
+            {"name": "Veusz", "colour": "#dbdc7f"},
+            {"name": "VisIt", "colour": "#dbdc7f"}
+          ]
+        }]},
+        {"name": "Statistics", "children": 
+          [
+            {"name": "ADaMSoft", "colour": "#dbdc7f"},
+            {"name": "ADMB", "colour": "#dbdc7f"},
+            {"name": "Armadillo (C++ library)", "colour": "#dbdc7f"},
+            {"name": "DAP (software)", "colour": "#dbdc7f"},
+            {"name": "Deeplearning4j", "colour": "#dbdc7f"},
+            {"name": "Dlib", "colour": "#dbdc7f"},
+            {"name": "Emacs Speaks Statistics", "colour": "#dbdc7f"},
+            {"name": "GGobi", "colour": "#dbdc7f"},
+            {"name": "Gretl", "colour": "#dbdc7f"},
+            {"name": "HippoDraw", "colour": "#dbdc7f"},
+            {"name": "Java Analysis Studio", "colour": "#dbdc7f"},
+            {"name": "Julia (programming language)", "colour": "#dbdc7f"},
+            {"name": "Knitr", "colour": "#dbdc7f"},
+            {"name": "LIBSVM", "colour": "#dbdc7f"},
+            {"name": "MLPACK (C++ library)", "colour": "#dbdc7f"},
+            {"name": "Mlpy", "colour": "#dbdc7f"},
+            {"name": "Mondrian (software)", "colour": "#dbdc7f"},
+            {"name": "Neurophysiological Biomarker Toolbox", "colour": "#dbdc7f"},
+            {"name": "OpenEpi", "colour": "#dbdc7f"},
+            {"name": "Pandas (software)", "colour": "#dbdc7f"},
+            {"name": "Programming with Big Data in R", "colour": "#dbdc7f"},
+            {"name": "Ploticus", "colour": "#dbdc7f"},
+            {"name": "PSPP", "colour": "#dbdc7f"},
+            {"name": "R (programming language)", "colour": "#dbdc7f"},
+            {"name": "RKWard", "colour": "#dbdc7f"},
+            {"name": "Scikit-learn", "colour": "#dbdc7f"},
+            {"name": "Shogun (toolbox)", "colour": "#dbdc7f"},
+            {"name": "SOFA Statistics", "colour": "#dbdc7f"},
+            {"name": "Sweave", "colour": "#dbdc7f"},
+            {"name": "Torch (machine learning)", "colour": "#dbdc7f"},
+            {"name": "X-12-ARIMA", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Opinion poll", "children": 
+          [
+            {"name": "LimeSurvey", "colour": "#dbdc7f"}
+          ]
+        }
+      ]
+    },
+    {"name": "Assistive technology", "children":
+      [
+        {"name": "Speech", "children":
+          [
+            {"name": "CMU Sphinx", "colour": "#dbdc7f"},
+            {"name": "Emacspeak", "colour": "#dbdc7f"},
+            {"name": "ESpeak", "colour": "#dbdc7f"},
+            {"name": "Festival Speech Synthesis System", "colour": "#dbdc7f"},
+            {"name": "Modular Audio Recognition Framework", "colour": "#dbdc7f"},
+            {"name": "NonVisual Desktop Access", "colour": "#dbdc7f"},
+            {"name": "Speech synthesis", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Assistive technology", "children":
+          [
+            {"name": "Dasher (software)", "colour": "#dbdc7f"},
+            {"name": "Gnopernicus", "colour": "#dbdc7f"},
+            {"name": "Virtual Magnifying Glass", "colour": "#dbdc7f"}
+          ]
+        }
+      ]
+    },
+    {"name": "Computer data storage", "children":
+      [
+        {"name": "Backup software", "children":
+          [
+            {"name": "Advanced Maryland Automatic Network Disk Archiver", "colour": "#dbdc7f"},
+            {"name": "Areca Backup", "colour": "#dbdc7f"},
+            {"name": "Back In Time (software)", "colour": "#dbdc7f"},
+            {"name": "BackupPC", "colour": "#dbdc7f"},
+            {"name": "Bacula", "colour": "#dbdc7f"},
+            {"name": "Box Backup", "colour": "#dbdc7f"},
+            {"name": "Clonezilla", "colour": "#dbdc7f"},
+            {"name": "Cobian Backup", "colour": "#dbdc7f"},
+            {"name": "Cpio", "colour": "#dbdc7f"},
+            {"name": "DirSync Pro", "colour": "#dbdc7f"},
+            {"name": "Dump (program)", "colour": "#dbdc7f"},
+            {"name": "Duplicati", "colour": "#dbdc7f"},
+            {"name": "Duplicity (software)", "colour": "#dbdc7f"},
+            {"name": "FlyBack", "colour": "#dbdc7f"},
+            {"name": "Freedup", "colour": "#dbdc7f"},
+            {"name": "FSArchiver", "colour": "#dbdc7f"},
+            {"name": "Grsync", "colour": "#dbdc7f"},
+            {"name": "LuckyBackup", "colour": "#dbdc7f"},
+            {"name": "Mondo Rescue", "colour": "#dbdc7f"},
+            {"name": "Partclone", "colour": "#dbdc7f"},
+            {"name": "Partimage", "colour": "#dbdc7f"},
+            {"name": "PING (software)", "colour": "#dbdc7f"},
+            {"name": "QtdSync", "colour": "#dbdc7f"},
+            {"name": "Redo Backup and Recovery", "colour": "#dbdc7f"},
+            {"name": "Rsync", "colour": "#dbdc7f"},
+            {"name": "Synkron", "colour": "#dbdc7f"},
+            {"name": "Tar (computing)", "colour": "#dbdc7f"},
+            {"name": "UDPCast", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Database management system", "children":
+          [
+           {"name": "Apache Accumulo", "colour": "#dbdc7f"},
+           {"name": "Apache Derby", "colour": "#dbdc7f"},
+           {"name": "BaseX", "colour": "#dbdc7f"},
+           {"name": "Berkeley DB", "colour": "#dbdc7f"},
+           {"name": "BlackRay", "colour": "#dbdc7f"},
+           {"name": "C-Store", "colour": "#dbdc7f"},
+           {"name": "Apache Cassandra", "colour": "#dbdc7f"},
+           {"name": "Cdb (software)", "colour": "#dbdc7f"},
+           {"name": "Comparison of database access", "colour": "#dbdc7f"},
+           {"name": "ConceptBase", "colour": "#dbdc7f"},
+           {"name": "Couchbase Server", "colour": "#dbdc7f"},
+           {"name": "Couchbase, Inc.", "colour": "#dbdc7f"},
+           {"name": "CouchDB", "colour": "#dbdc7f"},
+           {"name": "CSQL", "colour": "#dbdc7f"},
+           {"name": "CUBRID", "colour": "#dbdc7f"},
+           {"name": "Cypher Query Language", "colour": "#dbdc7f"},
+           {"name": "Database Deployment Manager", "colour": "#dbdc7f"},
+           {"name": "Database Management Library", "colour": "#dbdc7f"},
+           {"name": "Dataphor", "colour": "#dbdc7f"},
+           {"name": "Db4o", "colour": "#dbdc7f"},
+           {"name": "Dbm", "colour": "#dbdc7f"},
+           {"name": "Drizzle (database server)", "colour": "#dbdc7f"},
+           {"name": "Druid (database designer)", "colour": "#dbdc7f"},
+           {"name": "Druid (open-source data store)", "colour": "#dbdc7f"},
+           {"name": "EnterpriseDB", "colour": "#dbdc7f"},
+           {"name": "EXist", "colour": "#dbdc7f"},
+           {"name": "Firebird (database server)", "colour": "#dbdc7f"},
+           {"name": "FlockDB", "colour": "#dbdc7f"},
+           {"name": "Fyracle", "colour": "#dbdc7f"},
+           {"name": "Gadfly (database)", "colour": "#dbdc7f"},
+           {"name": "GCstar", "colour": "#dbdc7f"},
+           {"name": "Gizzard (Scala framework)", "colour": "#dbdc7f"},
+           {"name": "GNOME-DB", "colour": "#dbdc7f"},
+           {"name": "GT.M", "colour": "#dbdc7f"},
+           {"name": "H-Store", "colour": "#dbdc7f"},
+           {"name": "H2 (DBMS)", "colour": "#dbdc7f"},
+           {"name": "Apache HBase", "colour": "#dbdc7f"},
+           {"name": "Hibari (database)", "colour": "#dbdc7f"},
+           {"name": "HSQLDB", "colour": "#dbdc7f"},
+           {"name": "Hypertable", "colour": "#dbdc7f"},
+           {"name": "InfiniDB", "colour": "#dbdc7f"},
+           {"name": "Infobright", "colour": "#dbdc7f"},
+           {"name": "Ingres (database)", "colour": "#dbdc7f"},
+           {"name": "JGnash", "colour": "#dbdc7f"},
+           {"name": "Kexi", "colour": "#dbdc7f"},
+           {"name": "LucidDB", "colour": "#dbdc7f"},
+           {"name": "Maatkit", "colour": "#dbdc7f"},
+           {"name": "MariaDB", "colour": "#dbdc7f"},
+           {"name": "MemcacheDB", "colour": "#dbdc7f"},
+           {"name": "Metakit", "colour": "#dbdc7f"},
+           {"name": "Mnesia", "colour": "#dbdc7f"},
+           {"name": "MonetDB", "colour": "#dbdc7f"},
+           {"name": "MongoDB", "colour": "#dbdc7f"},
+           {"name": "Mozilla Raindrop", "colour": "#dbdc7f"},
+           {"name": "MSQL-JDBC", "colour": "#dbdc7f"},
+           {"name": "MySQL", "colour": "#dbdc7f"},
+           {"name": "Neo (object-relational toolset)", "colour": "#dbdc7f"},
+           {"name": "Neo4j", "colour": "#dbdc7f"},
+           {"name": "NeoDatis ODB", "colour": "#dbdc7f"},
+           {"name": "SciDB", "colour": "#dbdc7f"},
+           {"name": "OpenQM", "colour": "#dbdc7f"},
+           {"name": "OrientDB", "colour": "#dbdc7f"},
+           {"name": "Percona Server", "colour": "#dbdc7f"},
+           {"name": "Perst", "colour": "#dbdc7f"},
+           {"name": "PostgreSQL", "colour": "#dbdc7f"},
+           {"name": "Rasdaman", "colour": "#dbdc7f"},
+           {"name": "Redis", "colour": "#dbdc7f"},
+           {"name": "Rel (DBMS)", "colour": "#dbdc7f"},
+           {"name": "RRDtool", "colour": "#dbdc7f"},
+           {"name": "Sedna (database)", "colour": "#dbdc7f"},
+           {"name": "SmallSQL", "colour": "#dbdc7f"},
+           {"name": "Sones GraphDB", "colour": "#dbdc7f"},
+           {"name": "SQLite", "colour": "#dbdc7f"},
+           {"name": "Strozzi NoSQL (RDBMS)", "colour": "#dbdc7f"},
+           {"name": "Tarantool", "colour": "#dbdc7f"},
+           {"name": "TokuDB", "colour": "#dbdc7f"},
+           {"name": "TokuMX", "colour": "#dbdc7f"},
+           {"name": "Trafodion", "colour": "#dbdc7f"},
+           {"name": "TreapDB", "colour": "#dbdc7f"},
+           {"name": "TxtSQL", "colour": "#dbdc7f"},
+           {"name": "Virtuoso Universal Server", "colour": "#dbdc7f"},
+           {"name": "VoltDB", "colour": "#dbdc7f"},
+           {"name": "Wakanda (software)", "colour": "#dbdc7f"},
+           {"name": "WebScaleSQL", "colour": "#dbdc7f"},
+           {"name": "Zope Object Database", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Data mining", "children":
+          [
+            {"name": "Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI)", "colour": "#dbdc7f"},
+            {"name": "SCaViS", "colour": "#dbdc7f"},
+            {"name": "Konstanz Information Miner (KNIME)", "colour": "#dbdc7f"},
+            {"name": "OpenNN", "colour": "#dbdc7f"},
+            {"name": "Orange (software)", "colour": "#dbdc7f"},
+            {"name": "RapidMiner", "colour": "#dbdc7f"},
+            {"name": "Scriptella ETL", "colour": "#dbdc7f"},
+            {"name": "Weka", "colour": "#dbdc7f"},
+            {"name": "JasperSoft", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Data visualization", "children":
+          [
+            {"name": "ParaView", "colour": "#dbdc7f"},
+            {"name": "VTK", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Digital asset management", "children":
+          [
+            {"name": "OpenDAM", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Disk partitioning software", "children":
+          [
+            {"name": "Cfdisk", "colour": "#dbdc7f"},
+            {"name": "FIPS (computer program)", "colour": "#dbdc7f"},
+            {"name": "GNU Parted", "colour": "#dbdc7f"},
+            {"name": "GParted", "colour": "#dbdc7f"},
+            {"name": "KDE Partition Manager", "colour": "#dbdc7f"},
+            {"name": "Ntfsresize", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Enterprise search", "children":
+          [
+            {"name": "ApexKB", "colour": "#dbdc7f"},
+            {"name": "Lucene", "colour": "#dbdc7f"},
+            {"name": "Nutch", "colour": "#dbdc7f"},
+            {"name": "Solr", "colour": "#dbdc7f"},
+            {"name": "Xapian", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Extract, transform, load", "children":
+          [
+            {"name": "CloverETL (Community Edition)", "colour": "#dbdc7f"},
+            {"name": "Konstanz Information Miner (KNIME)", "colour": "#dbdc7f"},
+            {"name": "Pentaho", "colour": "#dbdc7f"},
+            {"name": "SpagoBI", "colour": "#dbdc7f"},
+            {"name": "Talend", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "File archiver", "children":
+          [
+            {"name": "7-Zip", "colour": "#dbdc7f"},
+            {"name": "7z", "colour": "#dbdc7f"},
+            {"name": "AdvanceCOMP", "colour": "#dbdc7f"},
+            {"name": "Ark (software)", "colour": "#dbdc7f"},
+            {"name": "B1 Free Archiver", "colour": "#dbdc7f"},
+            {"name": "Bzip2", "colour": "#dbdc7f"},
+            {"name": "Dar (disk archiver)", "colour": "#dbdc7f"},
+            {"name": "File Roller", "colour": "#dbdc7f"},
+            {"name": "FreeArc", "colour": "#dbdc7f"},
+            {"name": "Gzip", "colour": "#dbdc7f"},
+            {"name": "Info-ZIP", "colour": "#dbdc7f"},
+            {"name": "KGB Archiver", "colour": "#dbdc7f"},
+            {"name": "Lempel–Ziv–Oberhumer", "colour": "#dbdc7f"},
+            {"name": "Liblzg", "colour": "#dbdc7f"},
+            {"name": "Libzip", "colour": "#dbdc7f"},
+            {"name": "LZ4 (compression algorithm)", "colour": "#dbdc7f"},
+            {"name": "Lzip", "colour": "#dbdc7f"},
+            {"name": "Lzop", "colour": "#dbdc7f"},
+            {"name": "LZRW", "colour": "#dbdc7f"},
+            {"name": "OptiPNG", "colour": "#dbdc7f"},
+            {"name": "PAQ", "colour": "#dbdc7f"},
+            {"name": "PeaZip", "colour": "#dbdc7f"},
+            {"name": "Pngcrush", "colour": "#dbdc7f"},
+            {"name": "QUAD (compressor)", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "File System", "children":
+          [
+            {"name": "OpenAFS", "colour": "#dbdc7f"},
+            {"name": "Tahoe-LAFS", "colour": "#dbdc7f"},
+            {"name": "Ceph (software)", "colour": "#dbdc7f"}
+          ]
+        }
+      ]
+    },
+    {"name": "Computer network", "children":
+      [
+        {"name": "Advertising", "children":
+          [
+            {"name": "Revive Adserver", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Communication", "children":
+          [
+            {"name": "Asterisk (PBX)", "colour": "#dbdc7f"},
+            {"name": "Ekiga", "colour": "#dbdc7f"},
+            {"name": "FreePBX", "colour": "#dbdc7f"},
+            {"name": "FreeSWITCH", "colour": "#dbdc7f"},
+            {"name": "Jitsi", "colour": "#dbdc7f"},
+            {"name": "QuteCom", "colour": "#dbdc7f"},
+            {"name": "Enterprise Communications System sipXecs", "colour": "#dbdc7f"},
+            {"name": "Slrn", "colour": "#dbdc7f"},
+            {"name": "Twinkle (software)", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Email", "children":
+          [
+            {"name": "AfterLogic WebMail Lite", "colour": "#dbdc7f"},
+            {"name": "Agorum core", "colour": "#dbdc7f"},
+            {"name": "Alpine (email client)", "colour": "#dbdc7f"},
+            {"name": "Amavis", "colour": "#dbdc7f"},
+            {"name": "Anti-Spam SMTP Proxy", "colour": "#dbdc7f"},
+            {"name": "Balsa (email client)", "colour": "#dbdc7f"},
+            {"name": "Bogofilter", "colour": "#dbdc7f"},
+            {"name": "Citadel/UX", "colour": "#dbdc7f"},
+            {"name": "Claws Mail", "colour": "#dbdc7f"},
+            {"name": "Cronos II", "colour": "#dbdc7f"},
+            {"name": "Dada Mail", "colour": "#dbdc7f"},
+            {"name": "DSPAM", "colour": "#dbdc7f"},
+            {"name": "Enigmail", "colour": "#dbdc7f"},
+            {"name": "Evolution (software)", "colour": "#dbdc7f"},
+            {"name": "Exim", "colour": "#dbdc7f"},
+            {"name": "Fetchmail", "colour": "#dbdc7f"},
+            {"name": "FreePOPs", "colour": "#dbdc7f"},
+            {"name": "FUDforum", "colour": "#dbdc7f"},
+            {"name": "Getmail", "colour": "#dbdc7f"},
+            {"name": "GNUMail", "colour": "#dbdc7f"},
+            {"name": "Gnus", "colour": "#dbdc7f"},
+            {"name": "Gnuzilla", "colour": "#dbdc7f"},
+            {"name": "GPGMail", "colour": "#dbdc7f"},
+            {"name": "Group-Office", "colour": "#dbdc7f"},
+            {"name": "GroupServer", "colour": "#dbdc7f"},
+            {"name": "Hula (software)", "colour": "#dbdc7f"},
+            {"name": "Hypermail", "colour": "#dbdc7f"},
+            {"name": "IlohaMail", "colour": "#dbdc7f"},
+            {"name": "Internet Messaging Program", "colour": "#dbdc7f"},
+            {"name": "K-9 Mail", "colour": "#dbdc7f"},
+            {"name": "Kolab", "colour": "#dbdc7f"},
+            {"name": "Libremail", "colour": "#dbdc7f"},
+            {"name": "MailScanner", "colour": "#dbdc7f"},
+            {"name": "Mailx", "colour": "#dbdc7f"},
+            {"name": "MH Message Handling System", "colour": "#dbdc7f"},
+            {"name": "MIMEDefang", "colour": "#dbdc7f"},
+            {"name": "Modest (email client)", "colour": "#dbdc7f"},
+            {"name": "Movemail", "colour": "#dbdc7f"},
+            {"name": "Mozilla Mail & Newsgroups", "colour": "#dbdc7f"},
+            {"name": "Mozilla Thunderbird", "colour": "#dbdc7f"},
+            {"name": "Mutt (email client)", "colour": "#dbdc7f"},
+            {"name": "NeoMail", "colour": "#dbdc7f"},
+            {"name": "OfflineIMAP", "colour": "#dbdc7f"},
+            {"name": "Open-Xchange", "colour": "#dbdc7f"},
+            {"name": "POPFile", "colour": "#dbdc7f"},
+            {"name": "Qpopper", "colour": "#dbdc7f"},
+            {"name": "Roundcube", "colour": "#dbdc7f"},
+            {"name": "Scalix", "colour": "#dbdc7f"},
+            {"name": "Smail", "colour": "#dbdc7f"},
+            {"name": "SpamAssassin", "colour": "#dbdc7f"},
+            {"name": "Spicebird", "colour": "#dbdc7f"},
+            {"name": "SquirrelMail", "colour": "#dbdc7f"},
+            {"name": "Sylpheed", "colour": "#dbdc7f"},
+            {"name": "Sympa", "colour": "#dbdc7f"},
+            {"name": "Trojitá", "colour": "#dbdc7f"},
+            {"name": "Uebimiau", "colour": "#dbdc7f"},
+            {"name": "UW IMAP", "colour": "#dbdc7f"},
+            {"name": "Vpopmail", "colour": "#dbdc7f"},
+            {"name": "Xuheki", "colour": "#dbdc7f"},
+            {"name": "YAM (Yet Another Mailer)", "colour": "#dbdc7f"},
+            {"name": "YPOPs!", "colour": "#dbdc7f"},
+            {"name": "Zarafa (software)", "colour": "#dbdc7f"},
+            {"name": "Zimbra", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "File transfer", "children":
+          [
+            {"name": "CwRsync", "colour": "#dbdc7f"},
+            {"name": "FileZilla", "colour": "#dbdc7f"},
+            {"name": "FreeNAS", "colour": "#dbdc7f"},
+            {"name": "Freenet", "colour": "#dbdc7f"},
+            {"name": "Infinit", "colour": "#dbdc7f"},
+            {"name": "Mnet (peer-to-peer network)", "colour": "#dbdc7f"},
+            {"name": "NAS4Free", "colour": "#dbdc7f"},
+            {"name": "Openfiler", "colour": "#dbdc7f"},
+            {"name": "OpenMediaVault", "colour": "#dbdc7f"},
+            {"name": "ProFTPD", "colour": "#dbdc7f"},
+            {"name": "Pure-FTPd", "colour": "#dbdc7f"},
+            {"name": "Rsync", "colour": "#dbdc7f"},
+            {"name": "Samba (software)", "colour": "#dbdc7f"},
+            {"name": "Vfs acl xattr", "colour": "#dbdc7f"},
+            {"name": "Vsftpd", "colour": "#dbdc7f"},
+            {"name": "Waarp", "colour": "#dbdc7f"},
+            {"name": "WinSCP", "colour": "#dbdc7f"},
+            {"name": "WU-FTPD", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Instant messaging", "children":
+          [
+            {"name": "Adium", "colour": "#dbdc7f"},
+            {"name": "AMSN", "colour": "#dbdc7f"},
+            {"name": "Ayttm", "colour": "#dbdc7f"},
+            {"name": "BitlBee", "colour": "#dbdc7f"},
+            {"name": "Bombus (software)", "colour": "#dbdc7f"},
+            {"name": "Bombusmod", "colour": "#dbdc7f"},
+            {"name": "Centericq", "colour": "#dbdc7f"},
+            {"name": "Climm", "colour": "#dbdc7f"},
+            {"name": "Coccinella (software)", "colour": "#dbdc7f"},
+            {"name": "Cryptocat", "colour": "#dbdc7f"},
+            {"name": "Ekiga", "colour": "#dbdc7f"},
+            {"name": "Emesene", "colour": "#dbdc7f"},
+            {"name": "Empathy (software)", "colour": "#dbdc7f"},
+            {"name": "Fama IM", "colour": "#dbdc7f"},
+            {"name": "Finch (software)", "colour": "#dbdc7f"},
+            {"name": "Fire (instant messaging client)", "colour": "#dbdc7f"},
+            {"name": "Gajim", "colour": "#dbdc7f"},
+            {"name": "Instantbird", "colour": "#dbdc7f"},
+            {"name": "JabberMixClient", "colour": "#dbdc7f"},
+            {"name": "Jimm", "colour": "#dbdc7f"},
+            {"name": "Jitsi", "colour": "#dbdc7f"},
+            {"name": "Kadu (software)", "colour": "#dbdc7f"},
+            {"name": "Kopete", "colour": "#dbdc7f"},
+            {"name": "Marabunta", "colour": "#dbdc7f"},
+            {"name": "Miranda IM", "colour": "#dbdc7f"},
+            {"name": "Naim (software)", "colour": "#dbdc7f"},
+            {"name": "Pidgin (software)", "colour": "#dbdc7f"},
+            {"name": "Profanity (instant messaging client)", "colour": "#dbdc7f"},
+            {"name": "Psi (instant messaging client)", "colour": "#dbdc7f"},
+            {"name": "QuteCom", "colour": "#dbdc7f"},
+            {"name": "RetroShare", "colour": "#dbdc7f"},
+            {"name": "SFLphone", "colour": "#dbdc7f"},
+            {"name": "Tapioca (framework)", "colour": "#dbdc7f"},
+            {"name": "KDE Telepathy", "colour": "#dbdc7f"},
+            {"name": "Telepathy (software)", "colour": "#dbdc7f"},
+            {"name": "TextSecure", "colour": "#dbdc7f"},
+            {"name": "Tkabber", "colour": "#dbdc7f"},
+            {"name": "Tmsnc", "colour": "#dbdc7f"},
+            {"name": "TNT (instant messenger)", "colour": "#dbdc7f"},
+            {"name": "TorChat", "colour": "#dbdc7f"},
+            {"name": "WASTE", "colour": "#dbdc7f"},
+            {"name": "Wengo", "colour": "#dbdc7f"},
+            {"name": "Zephyr (protocol)", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Internet Relay Chat", "children":
+          [
+            {"name": "Ayttm", "colour": "#dbdc7f"},
+            {"name": "Bersirc", "colour": "#dbdc7f"},
+            {"name": "BitchX", "colour": "#dbdc7f"},
+            {"name": "Centericq", "colour": "#dbdc7f"},
+            {"name": "CGI:IRC", "colour": "#dbdc7f"},
+            {"name": "ChatZilla", "colour": "#dbdc7f"},
+            {"name": "Colloquy (software)", "colour": "#dbdc7f"},
+            {"name": "Empathy (software)", "colour": "#dbdc7f"},
+            {"name": "ERC (software)", "colour": "#dbdc7f"},
+            {"name": "Finch (software)", "colour": "#dbdc7f"},
+            {"name": "Fire (instant messaging client)", "colour": "#dbdc7f"},
+            {"name": "Ii (IRC client)", "colour": "#dbdc7f"},
+            {"name": "Instantbird", "colour": "#dbdc7f"},
+            {"name": "IrcII", "colour": "#dbdc7f"},
+            {"name": "Irssi", "colour": "#dbdc7f"},
+            {"name": "Konversation", "colour": "#dbdc7f"},
+            {"name": "Kopete", "colour": "#dbdc7f"},
+            {"name": "KVIrc", "colour": "#dbdc7f"},
+            {"name": "LeafChat", "colour": "#dbdc7f"},
+            {"name": "LeetIRC", "colour": "#dbdc7f"},
+            {"name": "Miranda IM", "colour": "#dbdc7f"},
+            {"name": "Naim (software)", "colour": "#dbdc7f"},
+            {"name": "Nettalk (IRC client)", "colour": "#dbdc7f"},
+            {"name": "Orion (IRC client)", "colour": "#dbdc7f"},
+            {"name": "Pidgin (software)", "colour": "#dbdc7f"},
+            {"name": "PJIRC", "colour": "#dbdc7f"},
+            {"name": "Rcirc", "colour": "#dbdc7f"},
+            {"name": "Shareaza", "colour": "#dbdc7f"},
+            {"name": "Smuxi", "colour": "#dbdc7f"},
+            {"name": "KDE Telepathy", "colour": "#dbdc7f"},
+            {"name": "Visual IRC", "colour": "#dbdc7f"},
+            {"name": "WeeChat", "colour": "#dbdc7f"},
+            {"name": "WLIrc", "colour": "#dbdc7f"},
+            {"name": "XChat", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Middleware", "children":
+          [
+            {"name": "Apache Axis2", "colour": "#dbdc7f"},
+            {"name": "Apache Geronimo", "colour": "#dbdc7f"},
+            {"name": "Apache Tomcat", "colour": "#dbdc7f"},
+            {"name": "Bonita BPM", "colour": "#dbdc7f"},
+            {"name": "GlassFish", "colour": "#dbdc7f"},
+            {"name": "JOnAS", "colour": "#dbdc7f"},
+            {"name": "TAO (software)", "colour": "#dbdc7f"},
+            {"name": "WildFly", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "News aggregator", "children":
+          [
+            {"name": "Akregator", "colour": "#dbdc7f"},
+            {"name": "Liferea", "colour": "#dbdc7f"},
+            {"name": "RSS Bandit", "colour": "#dbdc7f"},
+            {"name": "RSSOwl", "colour": "#dbdc7f"},
+            {"name": "Sage (Mozilla Firefox extension)", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Peer-to-peer file sharing", "children":
+          [
+            {"name": "AMule", "colour": "#dbdc7f"},
+            {"name": "Ares Galaxy", "colour": "#dbdc7f"},
+            {"name": "Cabos", "colour": "#dbdc7f"},
+            {"name": "DC++", "colour": "#dbdc7f"},
+            {"name": "EMule", "colour": "#dbdc7f"},
+            {"name": "FileScope", "colour": "#dbdc7f"},
+            {"name": "FlylinkDC++", "colour": "#dbdc7f"},
+            {"name": "FreeCast (software)", "colour": "#dbdc7f"},
+            {"name": "Freenet", "colour": "#dbdc7f"},
+            {"name": "FrostWire", "colour": "#dbdc7f"},
+            {"name": "GiFT", "colour": "#dbdc7f"},
+            {"name": "GnucDNA", "colour": "#dbdc7f"},
+            {"name": "GNUnet", "colour": "#dbdc7f"},
+            {"name": "Gtk-gnutella", "colour": "#dbdc7f"},
+            {"name": "IFolder", "colour": "#dbdc7f"},
+            {"name": "IMule", "colour": "#dbdc7f"},
+            {"name": "JMule", "colour": "#dbdc7f"},
+            {"name": "KCeasy", "colour": "#dbdc7f"},
+            {"name": "KMLDonkey", "colour": "#dbdc7f"},
+            {"name": "LimeWire", "colour": "#dbdc7f"},
+            {"name": "LimeWire Pirate Edition", "colour": "#dbdc7f"},
+            {"name": "Marabunta", "colour": "#dbdc7f"},
+            {"name": "MLDonkey", "colour": "#dbdc7f"},
+            {"name": "MorphXT", "colour": "#dbdc7f"},
+            {"name": "PeerCast", "colour": "#dbdc7f"},
+            {"name": "Phex", "colour": "#dbdc7f"},
+            {"name": "Poisoned", "colour": "#dbdc7f"},
+            {"name": "QBittorrent", "colour": "#dbdc7f"},
+            {"name": "RetroShare", "colour": "#dbdc7f"},
+            {"name": "RShare", "colour": "#dbdc7f"},
+            {"name": "Shareaza", "colour": "#dbdc7f"},
+            {"name": "Sharelin", "colour": "#dbdc7f"},
+            {"name": "StealthNet", "colour": "#dbdc7f"},
+            {"name": "Tahoe-LAFS", "colour": "#dbdc7f"},
+            {"name": "Tribler", "colour": "#dbdc7f"},
+            {"name": "Valknut (software)", "colour": "#dbdc7f"},
+            {"name": "Virtuoso Universal Server", "colour": "#dbdc7f"},
+            {"name": "WASTE", "colour": "#dbdc7f"},
+            {"name": "XMule", "colour": "#dbdc7f"},
+            {"name": "Xtreme Mod", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Web portal", "children":
+          [
+            {"name": "Drupal", "colour": "#dbdc7f"},
+            {"name": "eXo Platform", "colour": "#dbdc7f"},
+            {"name": "Liferay", "colour": "#dbdc7f"},
+            {"name": "Oxwall", "colour": "#dbdc7f"},
+            {"name": "Sun Java System Portal Server", "colour": "#dbdc7f"},
+            {"name": "uPortal", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Remote Access Service", "children":
+          [
+            {"name": "NX technology", "colour": "#dbdc7f"},
+            {"name": "OpenVPN", "colour": "#dbdc7f"},
+            {"name": "rdesktop", "colour": "#dbdc7f"},
+            {"name": "Synergy (software)", "colour": "#dbdc7f"},
+            {"name": "Virtual Network Computing", "colour": "#dbdc7f"},
+            {"name": "FreeRDP", "colour": "#dbdc7f"},
+            {"name": "Remmina", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Routing", "children":
+          [
+            {"name": "Bird Internet routing daemon", "colour": "#dbdc7f"},
+            {"name": "BSD Router Project", "colour": "#dbdc7f"},
+            {"name": "ClearOS", "colour": "#dbdc7f"},
+            {"name": "Coyote Linux", "colour": "#dbdc7f"},
+            {"name": "Flash proxy", "colour": "#dbdc7f"},
+            {"name": "Fli4l", "colour": "#dbdc7f"},
+            {"name": "Floppyfw", "colour": "#dbdc7f"},
+            {"name": "FREESCO", "colour": "#dbdc7f"},
+            {"name": "Gargoyle (router firmware)", "colour": "#dbdc7f"},
+            {"name": "GNU Zebra", "colour": "#dbdc7f"},
+            {"name": "HyperWRT", "colour": "#dbdc7f"},
+            {"name": "I2P", "colour": "#dbdc7f"},
+            {"name": "Intel Data Plane Development Kit", "colour": "#dbdc7f"},
+            {"name": "IPCop", "colour": "#dbdc7f"},
+            {"name": "LEAF Project", "colour": "#dbdc7f"},
+            {"name": "LibreWRT", "colour": "#dbdc7f"},
+            {"name": "Linux Router Project", "colour": "#dbdc7f"},
+            {"name": "List of router and firewall distributions", "colour": "#dbdc7f"},
+            {"name": "M0n0wall", "colour": "#dbdc7f"},
+            {"name": "OpenAP", "colour": "#dbdc7f"},
+            {"name": "OpenBGPD", "colour": "#dbdc7f"},
+            {"name": "OpenOSPFD", "colour": "#dbdc7f"},
+            {"name": "OpenWrt", "colour": "#dbdc7f"},
+            {"name": "PfSense", "colour": "#dbdc7f"},
+            {"name": "Quagga (software)", "colour": "#dbdc7f"},
+            {"name": "SmartRouter", "colour": "#dbdc7f"},
+            {"name": "SmoothWall", "colour": "#dbdc7f"},
+            {"name": "Stone (software)", "colour": "#dbdc7f"},
+            {"name": "Syndie", "colour": "#dbdc7f"},
+            {"name": "Threenix", "colour": "#dbdc7f"},
+            {"name": "Turtle F2F", "colour": "#dbdc7f"},
+            {"name": "Vyatta", "colour": "#dbdc7f"},
+            {"name": "VyOS", "colour": "#dbdc7f"},
+            {"name": "WiFi-Box", "colour": "#dbdc7f"},
+            {"name": "X-Wrt", "colour": "#dbdc7f"},
+            {"name": "XORP", "colour": "#dbdc7f"},
+            {"name": "Zentyal", "colour": "#dbdc7f"},
+            {"name": "Zeroshell", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Web browser", "children":
+          [
+            {"name": "Abaco (web browser)", "colour": "#dbdc7f"},
+            {"name": "Amaya (web editor)", "colour": "#dbdc7f"},
+            {"name": "Arachne (web browser)", "colour": "#dbdc7f"},
+            {"name": "Arena (web browser)", "colour": "#dbdc7f"},
+            {"name": "Arora (web browser)", "colour": "#dbdc7f"},
+            {"name": "AWeb", "colour": "#dbdc7f"},
+            {"name": "Beonex Communicator", "colour": "#dbdc7f"},
+            {"name": "Camino (web browser)", "colour": "#dbdc7f"},
+            {"name": "Charon (web browser)", "colour": "#dbdc7f"},
+            {"name": "Chromium (web browser)", "colour": "#dbdc7f"},
+            {"name": "Classilla", "colour": "#dbdc7f"},
+            {"name": "Conkeror", "colour": "#dbdc7f"},
+            {"name": "Contiki", "colour": "#dbdc7f"},
+            {"name": "Dillo", "colour": "#dbdc7f"},
+            {"name": "Dooble", "colour": "#dbdc7f"},
+            {"name": "ELinks", "colour": "#dbdc7f"},
+            {"name": "Firefox", "colour": "#dbdc7f"},
+            {"name": "Flock (web browser)", "colour": "#dbdc7f"},
+            {"name": "Galeon", "colour": "#dbdc7f"},
+            {"name": "Ghostzilla", "colour": "#dbdc7f"},
+            {"name": "GNU IceCat", "colour": "#dbdc7f"},
+            {"name": "Gnuzilla", "colour": "#dbdc7f"},
+            {"name": "Grail (web browser)", "colour": "#dbdc7f"},
+            {"name": "Iceweasel", "colour": "#dbdc7f"},
+            {"name": "Java Embedding Plugin", "colour": "#dbdc7f"},
+            {"name": "K-Meleon", "colour": "#dbdc7f"},
+            {"name": "Kazehakase", "colour": "#dbdc7f"},
+            {"name": "Konqueror", "colour": "#dbdc7f"},
+            {"name": "Line Mode Browser", "colour": "#dbdc7f"},
+            {"name": "Links (web browser)", "colour": "#dbdc7f"},
+            {"name": "Lynx (web browser)", "colour": "#dbdc7f"},
+            {"name": "Midori (web browser)", "colour": "#dbdc7f"},
+            {"name": "Minimo", "colour": "#dbdc7f"},
+            {"name": "Mothra (web browser)", "colour": "#dbdc7f"},
+            {"name": "Mozilla Corporation software rebranded by the Debian project", "colour": "#dbdc7f"},
+            {"name": "NetSurf", "colour": "#dbdc7f"},
+            {"name": "Nightingale (software)", "colour": "#dbdc7f"},
+            {"name": "Origyn Web Browser", "colour": "#dbdc7f"},
+            {"name": "Pale Moon (web browser)", "colour": "#dbdc7f"},
+            {"name": "Plucker", "colour": "#dbdc7f"},
+            {"name": "QtWeb", "colour": "#dbdc7f"},
+            {"name": "QupZilla", "colour": "#dbdc7f"},
+            {"name": "Rekonq", "colour": "#dbdc7f"},
+            {"name": "SeaMonkey", "colour": "#dbdc7f"},
+            {"name": "Shiira", "colour": "#dbdc7f"},
+            {"name": "Songbird (software)", "colour": "#dbdc7f"},
+            {"name": "Surf (web browser)", "colour": "#dbdc7f"},
+            {"name": "Swiftweasel", "colour": "#dbdc7f"},
+            {"name": "TenFourFox", "colour": "#dbdc7f"},
+            {"name": "TkWWW", "colour": "#dbdc7f"},
+            {"name": "Uzbl", "colour": "#dbdc7f"},
+            {"name": "Emacs/W3", "colour": "#dbdc7f"},
+            {"name": "W3m", "colour": "#dbdc7f"},
+            {"name": "Waterfox", "colour": "#dbdc7f"},
+            {"name": "Web (web browser)", "colour": "#dbdc7f"},
+            {"name": "WorldWideWeb", "colour": "#dbdc7f"},
+            {"name": "X-Smiles", "colour": "#dbdc7f"},
+            {"name": "Xombrero", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Webcam", "children":
+          [
+            {"name": "Cheese (software)", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Webgrabber", "children":
+          [
+            {"name": "cURL", "colour": "#dbdc7f"},
+            {"name": "HTTrack", "colour": "#dbdc7f"},
+            {"name": "Wget", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "World Wide Web", "children":
+          [
+            {"name": "Apache Cocoon", "colour": "#dbdc7f"},
+            {"name": "Apache HTTP Server", "colour": "#dbdc7f"},
+            {"name": "AWStats", "colour": "#dbdc7f"},
+            {"name": "BookmarkSync", "colour": "#dbdc7f"},
+            {"name": "Cherokee (web server)", "colour": "#dbdc7f"},
+            {"name": "curl-loader", "colour": "#dbdc7f"},
+            {"name": "Hiawatha (web server)", "colour": "#dbdc7f"},
+            {"name": "HTTP File Server", "colour": "#dbdc7f"},
+            {"name": "lighttpd", "colour": "#dbdc7f"},
+            {"name": "nginx", "colour": "#dbdc7f"},
+            {"name": "NetKernel", "colour": "#dbdc7f"},
+            {"name": "Piwik", "colour": "#dbdc7f"},
+            {"name": "Qcodo", "colour": "#dbdc7f"},
+            {"name": "Railo", "colour": "#dbdc7f"},
+            {"name": "Squid (software)", "colour": "#dbdc7f"},
+            {"name": "XAMPP", "colour": "#dbdc7f"},
+            {"name": "Zope", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Other networking programs", "children":
+          [
+            {"name": "JXplorer", "colour": "#dbdc7f"},
+            {"name": "OpenLDAP", "colour": "#dbdc7f"},
+            {"name": "openVXI", "colour": "#dbdc7f"},
+            {"name": "YaCy", "colour": "#dbdc7f"}
+          ]
+        }
+      ]
+    },
+    {"name": "Education", "children":
+      [
+        {"name": "Educational software", "children":
+          [
+            {"name": "ATutor", "colour": "#dbdc7f"},
+            {"name": "Chamilo", "colour": "#dbdc7f"},
+            {"name": "DoceboLMS", "colour": "#dbdc7f"},
+            {"name": "eFront", "colour": "#dbdc7f"},
+            {"name": "FlightPath (software)", "colour": "#dbdc7f"},
+            {"name": "GCompris", "colour": "#dbdc7f"},
+            {"name": "Gnaural", "colour": "#dbdc7f"},
+            {"name": "IUP Portfolio", "colour": "#dbdc7f"},
+            {"name": "ILIAS", "colour": "#dbdc7f"},
+            {"name": "Moodle", "colour": "#dbdc7f"},
+            {"name": "Omeka", "colour": "#dbdc7f"},
+            {"name": "openSIS", "colour": "#dbdc7f"},
+            {"name": "Sakai Project", "colour": "#dbdc7f"},
+            {"name": "SWAD (software)", "colour": "#dbdc7f"},
+            {"name": "Tux Paint", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Geography", "children":
+          [
+            {"name": "KGeography", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Virtual learning environment", "children":
+          [
+            {"name": "Chamilo", "colour": "#dbdc7f"},
+            {"name": "Edu-sharing", "colour": "#dbdc7f"},
+            {"name": "ELML", "colour": "#dbdc7f"},
+            {"name": "Fle3", "colour": "#dbdc7f"},
+            {"name": "FlightPath (software)", "colour": "#dbdc7f"},
+            {"name": "GCompris", "colour": "#dbdc7f"},
+            {"name": "LAMS", "colour": "#dbdc7f"},
+            {"name": "LON-CAPA", "colour": "#dbdc7f"},
+            {"name": "Moodle", "colour": "#dbdc7f"},
+            {"name": "SWAD (software)", "colour": "#dbdc7f"},
+            {"name": "TCExam", "colour": "#dbdc7f"},
+            {"name": "XBlock", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Language", "children":
+          [
+            {"name": "Kiten (program)", "colour": "#dbdc7f"},
+            {"name": "KVerbos", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Typing", "children":
+          [
+            {"name": "KTouch", "colour": "#dbdc7f"},
+            {"name": "Tux Typing", "colour": "#dbdc7f"}
+          ]
+        },
+        {"name": "Other educational programs", "children":
+          [
+            {"name": "KEduca", "colour": "#dbdc7f"}
+          ]
+        }
+      ]
+    },
+    {"name": "File manager", "children":
+      [
+        {"name": "7-Zip", "colour": "#dbdc7f"},
+        {"name": "Advanced Renamer", "colour": "#dbdc7f"},
+        {"name": "B1 Free Archiver", "colour": "#dbdc7f"},
+        {"name": "Dired", "colour": "#dbdc7f"},
+        {"name": "Dolphin (file manager)", "colour": "#dbdc7f"},
+        {"name": "DOS Navigator", "colour": "#dbdc7f"},
+        {"name": "EmelFM2", "colour": "#dbdc7f"},
+        {"name": "Far Manager", "colour": "#dbdc7f"},
+        {"name": "File System Visualizer", "colour": "#dbdc7f"},
+        {"name": "Gentoo (file manager)", "colour": "#dbdc7f"},
+        {"name": "GNOME Commander", "colour": "#dbdc7f"},
+        {"name": "GPRename", "colour": "#dbdc7f"},
+        {"name": "KGB Archiver", "colour": "#dbdc7f"},
+        {"name": "Konqueror", "colour": "#dbdc7f"},
+        {"name": "KRename", "colour": "#dbdc7f"},
+        {"name": "Krusader", "colour": "#dbdc7f"},
+        {"name": "Métamorphose (renamer)", "colour": "#dbdc7f"},
+        {"name": "Midnight Commander", "colour": "#dbdc7f"},
+        {"name": "Mtools", "colour": "#dbdc7f"},
+        {"name": "MuCommander", "colour": "#dbdc7f"},
+        {"name": "GNOME Files", "colour": "#dbdc7f"},
+        {"name": "Nemo (file manager)", "colour": "#dbdc7f"},
+        {"name": "OpenTracker", "colour": "#dbdc7f"},
+        {"name": "PCMan File Manager", "colour": "#dbdc7f"},
+        {"name": "PeaZip", "colour": "#dbdc7f"},
+        {"name": "Ranger (file manager)", "colour": "#dbdc7f"},
+        {"name": "ROX Desktop", "colour": "#dbdc7f"},
+        {"name": "SpaceFM", "colour": "#dbdc7f"},
+        {"name": "Thunar", "colour": "#dbdc7f"},
+        {"name": "Tkdesk", "colour": "#dbdc7f"},
+        {"name": "Tracker (file manager)", "colour": "#dbdc7f"},
+        {"name": "Xfe", "colour": "#dbdc7f"},
+        {"name": "Xfm (file manager)", "colour": "#dbdc7f"},
+        {"name": "Xnc", "colour": "#dbdc7f"}
+      ]
+    },
+    {"name": "PC game", "children":
+        [
+            {"name": "Application layer", "children":
+                [ 
+                    {"name": "WINE", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "0 A.D. (video game)", "colour": "#dbdc7f"},
+            {"name": "2048 (video game)", "colour": "#dbdc7f"},
+            {"name": "Advanced Strategic Command", "colour": "#dbdc7f"},
+            {"name": "Angband", "colour": "#dbdc7f"},
+            {"name": "Armagetron Advanced", "colour": "#dbdc7f"},
+            {"name": "AstroMenace", "colour": "#dbdc7f"},
+            {"name": "Battle for Wesnoth", "colour": "#dbdc7f"},
+            {"name": "Beyond the Titanic", "colour": "#dbdc7f"},
+            {"name": "Biniax", "colour": "#dbdc7f"},
+            {"name": "Blades of Exile", "colour": "#dbdc7f"},
+            {"name": "Blob Wars: Blob And Conquer", "colour": "#dbdc7f"},
+            {"name": "Blob Wars: Metal Blob Solid", "colour": "#dbdc7f"},
+            {"name": "Bos Wars", "colour": "#dbdc7f"},
+            {"name": "British Bingo", "colour": "#dbdc7f"},
+            {"name": "BZFlag", "colour": "#dbdc7f"},
+            {"name": "Cataclysm: Dark Days Ahead", "colour": "#dbdc7f"},
+            {"name": "Chaotic Rage", "colour": "#dbdc7f"},
+            {"name": "Cheeseman the Game", "colour": "#dbdc7f"},
+            {"name": "Chocolate Doom", "colour": "#dbdc7f"},
+            {"name": "Colossal Cave Adventure", "colour": "#dbdc7f"},
+            {"name": "Crimson Fields", "colour": "#dbdc7f"},
+            {"name": "Chromium B.S.U.", "colour": "#dbdc7f"},
+            {"name": "Crossfire", "colour": "#dbdc7f"},
+            {"name": "Dungeon Crawl Stone Soup", "colour": "#dbdc7f"},
+            {"name": "Enigma", "colour": "#dbdc7f"},
+            {"name": "Fish Fillets NG", "colour": "#dbdc7f"},
+            {"name": "FlightGear", "colour": "#dbdc7f"},
+            {"name": "Freeciv", "colour": "#dbdc7f"},
+            {"name": "FreeCol", "colour": "#dbdc7f"},
+            {"name": "Freedoom", "colour": "#dbdc7f"},
+            {"name": "Freedroid", "children":
+              [ 
+                {"name": "FreedroidRPG", "colour": "#dbdc7f"},
+                {"name": "FreedroidClassic", "colour": "#dbdc7f"}
+              ]
+            },
+            {"name": "FreeOrion", "colour": "#dbdc7f"},
+            {"name": "Frets on Fire", "colour": "#dbdc7f"},
+            {"name": "Frets on Fire X", "colour": "#dbdc7f"},
+            {"name": "Frozen Bubble", "colour": "#dbdc7f"},
+            {"name": "Gang Garrison 2", "colour": "#dbdc7f"},
+            {"name": "Glest", "colour": "#dbdc7f"},
+            {"name": "Globulation 2", "colour": "#dbdc7f"},
+            {"name": "GLtron", "colour": "#dbdc7f"},
+            {"name": "GNOME Games", "colour": "#dbdc7f"},
+            {"name": "GNU Chess", "colour": "#dbdc7f"},
+            {"name": "GNU FreeDink", "colour": "#dbdc7f"},
+            {"name": "GNU Go", "colour": "#dbdc7f"},
+            {"name": "Green Mahjong", "colour": "#dbdc7f"},
+            {"name": "Gunroar", "colour": "#dbdc7f"},
+            {"name": "Gusanos", "colour": "#dbdc7f"},
+            {"name": "Hedgewars", "colour": "#dbdc7f"},
+            {"name": "KDEGames", "colour": "#dbdc7f"},
+            {"name": "Kernel Panic", "colour": "#dbdc7f"},
+            {"name": "Kiki the nano bot", "colour": "#dbdc7f"},
+            {"name": "Kroz", "colour": "#dbdc7f"},
+            {"name": "Lincity", "colour": "#dbdc7f"},
+            {"name": "LinCity-NG", "colour": "#dbdc7f"},
+            {"name": "Linley's Dungeon Crawl", "colour": "#dbdc7f"},
+            {"name": "Liquid War", "colour": "#dbdc7f"},
+            {"name": "M.A.X.R. (Mechanized Assault and eXploration Reloaded)", "colour": "#dbdc7f"},
+            {"name": "MegaGlest", "colour": "#dbdc7f"},
+            {"name": "MegaMek", "colour": "#dbdc7f"},
+            {"name": "Micropolis", "colour": "#dbdc7f"},
+            {"name": "2008 (as Micropolis)", "colour": "#dbdc7f"},
+            {"name": "Microwar", "colour": "#dbdc7f"},
+            {"name": "Minetest", "colour": "#dbdc7f"},
+            {"name": "Moria", "colour": "#dbdc7f"},
+            {"name": "NetHack", "colour": "#dbdc7f"},
+            {"name": "Netrek", "colour": "#dbdc7f"},
+            {"name": "Neverball", "colour": "#dbdc7f"},
+            {"name": "Nexuiz", "colour": "#dbdc7f"},
+            {"name": "Oolite", "colour": "#dbdc7f"},
+            {"name": "OpenArena", "colour": "#dbdc7f"},
+            {"name": "OpenClonk", "colour": "#dbdc7f"},
+            {"name": "OpenCity", "colour": "#dbdc7f"},
+            {"name": "Omega", "colour": "#dbdc7f"},
+            {"name": "OpenHexagon", "colour": "#dbdc7f"},
+            {"name": "OpenTTD", "colour": "#dbdc7f"},
+            {"name": "Paku paku", "colour": "#dbdc7f"},
+            {"name": "Pingus", "colour": "#dbdc7f"},
+            {"name": "Pioneer", "colour": "#dbdc7f"},
+            {"name": "PokerTH", "colour": "#dbdc7f"},
+            {"name": "PySol", "colour": "#dbdc7f"},
+            {"name": "Red Eclipse", "colour": "#dbdc7f"},
+            {"name": "Rigs of Rods", "colour": "#dbdc7f"},
+            {"name": "Rocks'n'Diamonds", "colour": "#dbdc7f"},
+            {"name": "Ryzom", "colour": "#dbdc7f"},
+            {"name": "Scorched 3D", "colour": "#dbdc7f"},
+            {"name": "Secret Maryo Chronicles", "colour": "#dbdc7f"},          
+            {"name": "Sintel The Game", "colour": "#dbdc7f"},
+            {"name": "Simutrans", "colour": "#dbdc7f"},
+            {"name": "Smash Battle", "colour": "#dbdc7f"},
+            {"name": "StepMania", "colour": "#dbdc7f"},
+            {"name": "Sokoban", "colour": "#dbdc7f"},
+            {"name": "Sopwith", "colour": "#dbdc7f"},
+            {"name": "Speed Dream", "colour": "#dbdc7f"},
+            {"name": "Supernova", "colour": "#dbdc7f"},
+            {"name": "SuperTux", "colour": "#dbdc7f"},
+            {"name": "SuperTuxKart", "colour": "#dbdc7f"},
+            {"name": "Teeworlds", "colour": "#dbdc7f"},
+            {"name": "Tenés Empanadas Graciela", "colour": "#dbdc7f"},
+            {"name": "Thousand Parsec", "colour": "#dbdc7f"},
+            {"name": "Tile World", "colour": "#dbdc7f"},
+            {"name": "Torus Trooper", "colour": "#dbdc7f"},
+            {"name": "TORCS", "colour": "#dbdc7f"},
+            {"name": "Tremulous", "colour": "#dbdc7f"},
+            {"name": "TripleA", "colour": "#dbdc7f"},
+            {"name": "Tux Racer", "colour": "#dbdc7f"},
+            {"name": "Tux, of Math Command", "colour": "#dbdc7f"},          
+            {"name": "UFO: Alien Invasion", "colour": "#dbdc7f"},
+            {"name": "UltraStar", "colour": "#dbdc7f"},
+            {"name": "Unknown Horizons", "colour": "#dbdc7f"},
+            {"name": "Vega Strike", "colour": "#dbdc7f"},
+            {"name": "Warmux", "colour": "#dbdc7f"},
+            {"name": "Warzone 2100", "colour": "#dbdc7f"},
+            {"name": "Widelands", "colour": "#dbdc7f"},
+            {"name": "Word Whiz", "colour": "#dbdc7f"},
+            {"name": "WorldForge", "colour": "#dbdc7f"},
+            {"name": "Xconq", "colour": "#dbdc7f"},
+            {"name": "XEvil", "colour": "#dbdc7f"},
+            {"name": "Xonotic", "colour": "#dbdc7f"},
+            {"name": "XPilot", "colour": "#dbdc7f"},
+            {"name": "X-Moto", "colour": "#dbdc7f"},
+            {"name": "Yo Frankie!", "colour": "#dbdc7f"}
+        ]
+    },
+    {"name": "Genealogy", "children":
+        [
+            {"name": "Family.Show", "colour": "#dbdc7f"},
+            {"name": "GenealogyJ", "colour": "#dbdc7f"},
+            {"name": "Geneotree", "colour": "#dbdc7f"},
+            {"name": "GeneWeb", "colour": "#dbdc7f"},
+            {"name": "Gramps", "colour": "#dbdc7f"},
+            {"name": "HuMo-gen", "colour": "#dbdc7f"},
+            {"name": "LifeLines", "colour": "#dbdc7f"},
+            {"name": "PhpGedView", "colour": "#dbdc7f"},
+            {"name": "Webtrees", "colour": "#dbdc7f"}
+        ]
+    },
+    {"name": "Graphical user interface", "children":
+      [
+        {"name": "Desktop environment", "children":
+            [
+                {"name": "Ambient (desktop environment)", "colour": "#dbdc7f"},
+                {"name": "Cinnamon (software)", "colour": "#dbdc7f"},
+                {"name": "EDE", "colour": "#dbdc7f"},
+                {"name": "Enlightenment (software)", "colour": "#dbdc7f"},
+                {"name": "Étoilé", "colour": "#dbdc7f"},
+                {"name": "FVWM-Crystal", "colour": "#dbdc7f"},
+                {"name": "FVWM95", "colour": "#dbdc7f"},
+                {"name": "IceWM", "colour": "#dbdc7f"},
+                {"name": "JWM", "colour": "#dbdc7f"},
+                {"name": "K Desktop Environment 3", "colour": "#dbdc7f"},
+                {"name": "KDE Software Compilation", "colour": "#dbdc7f"},
+                {"name": "LXDE", "colour": "#dbdc7f"},
+                {"name": "MATE (software)", "colour": "#dbdc7f"},
+                {"name": "Metisse", "colour": "#dbdc7f"},
+                {"name": "Mezzo (desktop environment)", "colour": "#dbdc7f"},
+                {"name": "MoonLightDE", "colour": "#dbdc7f"},
+                {"name": "Project Looking Glass", "colour": "#dbdc7f"},
+                {"name": "Razor-qt", "colour": "#dbdc7f"},
+                {"name": "ROX Desktop", "colour": "#dbdc7f"},
+                {"name": "Sakura HyperMedia Desktop", "colour": "#dbdc7f"},
+                {"name": "Sugar (software)", "colour": "#dbdc7f"},
+                {"name": "Tango Desktop Project", "colour": "#dbdc7f"},
+                {"name": "UDE", "colour": "#dbdc7f"},
+                {"name": "Unity (user interface)", "colour": "#dbdc7f"},
+                {"name": "XFast", "colour": "#dbdc7f"},
+                {"name": "Xfce", "colour": "#dbdc7f"},
+                {"name": "Xito", "colour": "#dbdc7f"}
+            ]
+        },
+        {"name": "Window manager", "children":
+            [
+                {"name": "9wm", "colour": "#dbdc7f"},
+                {"name": "AfterStep", "colour": "#dbdc7f"},
+                {"name": "Awesome (window manager)", "colour": "#dbdc7f"},
+                {"name": "Blackbox", "colour": "#dbdc7f"},
+                {"name": "Compiz", "colour": "#dbdc7f"},
+                {"name": "CTWM", "colour": "#dbdc7f"},
+                {"name": "Cwm (window manager)", "colour": "#dbdc7f"},
+                {"name": "Dwm", "colour": "#dbdc7f"},
+                {"name": "Enlightenment (software)", "colour": "#dbdc7f"},
+                {"name": "Fluxbox", "colour": "#dbdc7f"},
+                {"name": "FLWM", "colour": "#dbdc7f"},
+                {"name": "FVWM", "colour": "#dbdc7f"},
+                {"name": "FVWM95", "colour": "#dbdc7f"},
+                {"name": "Gala Window Manager", "colour": "#dbdc7f"},
+                {"name": "Hackedbox", "colour": "#dbdc7f"},
+                {"name": "I3 (window manager)", "colour": "#dbdc7f"},
+                {"name": "IceWM", "colour": "#dbdc7f"},
+                {"name": "JWM", "colour": "#dbdc7f"},
+                {"name": "KWin", "colour": "#dbdc7f"},
+                {"name": "Larswm", "colour": "#dbdc7f"},
+                {"name": "Macintosh-Like Virtual Window Manager", "colour": "#dbdc7f"},
+                {"name": "MaslowWM", "colour": "#dbdc7f"},
+                {"name": "Matchbox (window manager)", "colour": "#dbdc7f"},
+                {"name": "Metacity", "colour": "#dbdc7f"},
+                {"name": "Muffin (software)", "colour": "#dbdc7f"},
+                {"name": "Mutter (software)", "colour": "#dbdc7f"},
+                {"name": "Openbox", "colour": "#dbdc7f"},
+                {"name": "Oroboros (window manager)", "colour": "#dbdc7f"},
+                {"name": "PekWM", "colour": "#dbdc7f"},
+                {"name": "PLWM", "colour": "#dbdc7f"},
+                {"name": "PWM (window manager)", "colour": "#dbdc7f"},
+                {"name": "Qtile", "colour": "#dbdc7f"},
+                {"name": "Qvwm", "colour": "#dbdc7f"},
+                {"name": "Ratpoison", "colour": "#dbdc7f"},
+                {"name": "Sawfish (window manager)", "colour": "#dbdc7f"},
+                {"name": "Scwm", "colour": "#dbdc7f"},
+                {"name": "StumpWM", "colour": "#dbdc7f"},
+                {"name": "Swm", "colour": "#dbdc7f"},
+                {"name": "Tvtwm", "colour": "#dbdc7f"},
+                {"name": "Twm", "colour": "#dbdc7f"},
+                {"name": "Ultrix Window Manager", "colour": "#dbdc7f"},
+                {"name": "Vtwm", "colour": "#dbdc7f"},
+                {"name": "Window Maker", "colour": "#dbdc7f"},
+                {"name": "WindowLab", "colour": "#dbdc7f"},
+                {"name": "Wm2", "colour": "#dbdc7f"},
+                {"name": "Wmii", "colour": "#dbdc7f"},
+                {"name": "Xfwm", "colour": "#dbdc7f"},
+                {"name": "Xmonad", "colour": "#dbdc7f"}
+            ]
+        },
+        {"name": "Windowing system", "children":
+            [
+                {"name": "EGL (API)", "colour": "#dbdc7f"},
+                {"name": "FreeGEM", "colour": "#dbdc7f"},
+                {"name": "Fresco (windowing system)", "colour": "#dbdc7f"},
+                {"name": "Graphical Environment Manager", "colour": "#dbdc7f"},
+                {"name": "Mir (software)", "colour": "#dbdc7f"},
+                {"name": "OpenGEM", "colour": "#dbdc7f"},
+                {"name": "Rio (windowing system)", "colour": "#dbdc7f"},
+                {"name": "Twin (windowing system)", "colour": "#dbdc7f"},
+                {"name": "VirtualGL", "colour": "#dbdc7f"},
+                {"name": "X Window System", "colour": "#dbdc7f"},
+                {"name": "XaAES", "colour": "#dbdc7f"},
+                {"name": "XFree86", "colour": "#dbdc7f"},
+                {"name": "Xynth", "colour": "#dbdc7f"}
+            ]
+        }
+        ]
+    },
+    {"name": "Collaborative software", "children":
+        [
+            {"name": "Content management system", "children":
+                [
+                    {"name": "Agorum core", "colour": "#dbdc7f"},
+                    {"name": "Aiki Framework", "colour": "#dbdc7f"},
+                    {"name": "Alfresco (software)", "colour": "#dbdc7f"},
+                    {"name": "Ametys CMS", "colour": "#dbdc7f"},
+                    {"name": "Annotum", "colour": "#dbdc7f"},
+                    {"name": "Apache Lenya", "colour": "#dbdc7f"},
+                    {"name": "Apache Roller", "colour": "#dbdc7f"},
+                    {"name": "AutoTheme", "colour": "#dbdc7f"},
+                    {"name": "B2evolution", "colour": "#dbdc7f"},
+                    {"name": "BEdita", "colour": "#dbdc7f"},
+                    {"name": "Blosxom", "colour": "#dbdc7f"},
+                    {"name": "BlueBream", "colour": "#dbdc7f"},
+                    {"name": "Bricolage (software)", "colour": "#dbdc7f"},
+                    {"name": "BrowserCMS", "colour": "#dbdc7f"},
+                    {"name": "Campsite (software)", "colour": "#dbdc7f"},
+                    {"name": "Chamilo", "colour": "#dbdc7f"},
+                    {"name": "Chyrp", "colour": "#dbdc7f"},
+                    {"name": "Citadel/UX", "colour": "#dbdc7f"},
+                    {"name": "CMS Made Simple", "colour": "#dbdc7f"},
+                    {"name": "CMSimple", "colour": "#dbdc7f"},
+                    {"name": "Concrete", "colour": "#dbdc7f"},
+                    {"name": "Contao", "colour": "#dbdc7f"},
+                    {"name": "Cotonti", "colour": "#dbdc7f"},
+                    {"name": "Croogo", "colour": "#dbdc7f"},
+                    {"name": "Cyclone", "colour": "#dbdc7f"},
+                    {"name": "Cyn.in", "colour": "#dbdc7f"},
+                    {"name": "Daisy (software)", "colour": "#dbdc7f"},
+                    {"name": "Directus", "colour": "#dbdc7f"},
+                    {"name": "Dotclear", "colour": "#dbdc7f"},
+                    {"name": "DotNetNuke", "colour": "#dbdc7f"},
+                    {"name": "Drupal", "colour": "#dbdc7f"},
+                    {"name": "DynPG", "colour": "#dbdc7f"},
+                    {"name": "EasyBlog", "colour": "#dbdc7f"},
+                    {"name": "Edu-sharing", "colour": "#dbdc7f"},
+                    {"name": "EXo Platform", "colour": "#dbdc7f"},
+                    {"name": "Exponent CMS", "colour": "#dbdc7f"},
+                    {"name": "EZ Publish", "colour": "#dbdc7f"},
+                    {"name": "Feng Office Community Edition", "colour": "#dbdc7f"},
+                    {"name": "Foswiki", "colour": "#dbdc7f"},
+                    {"name": "Geeklog", "colour": "#dbdc7f"},
+                    {"name": "GetSimple CMS", "colour": "#dbdc7f"},
+                    {"name": "Group-Office", "colour": "#dbdc7f"},
+                    {"name": "Habari", "colour": "#dbdc7f"},
+                    {"name": "Hippo CMS", "colour": "#dbdc7f"},
+                    {"name": "IDSlot", "colour": "#dbdc7f"},
+                    {"name": "ImpressCMS", "colour": "#dbdc7f"},
+                    {"name": "ImpressPages", "colour": "#dbdc7f"},
+                    {"name": "Jamroom", "colour": "#dbdc7f"},
+                    {"name": "Jekyll (software)", "colour": "#dbdc7f"},
+                    {"name": "Joomla", "colour": "#dbdc7f"},
+                    {"name": "Joomsef", "colour": "#dbdc7f"},
+                    {"name": "Kajona", "colour": "#dbdc7f"},
+                    {"name": "KnowledgeTree", "colour": "#dbdc7f"},
+                    {"name": "Kooboo", "colour": "#dbdc7f"},
+                    {"name": "LifeType", "colour": "#dbdc7f"},
+                    {"name": "LiveJournal", "colour": "#dbdc7f"},
+                    {"name": "Lyceum (software)", "colour": "#dbdc7f"},
+                    {"name": "Magnolia (CMS)", "colour": "#dbdc7f"},
+                    {"name": "Mambo (software)", "colour": "#dbdc7f"},
+                    {"name": "MediaGoblin", "colour": "#dbdc7f"},
+                    {"name": "MediaWiki", "colour": "#dbdc7f"},
+                    {"name": "MiaCMS", "colour": "#dbdc7f"},
+                    {"name": "Midgard (software)", "colour": "#dbdc7f"},
+                    {"name": "Midgard Lite", "colour": "#dbdc7f"},
+                    {"name": "MMBase", "colour": "#dbdc7f"},
+                    {"name": "MODX", "colour": "#dbdc7f"},
+                    {"name": "MojoPortal", "colour": "#dbdc7f"},
+                    {"name": "Moodle", "colour": "#dbdc7f"},
+                    {"name": "Movable Type", "colour": "#dbdc7f"},
+                    {"name": "Naaya", "colour": "#dbdc7f"},
+                    {"name": "Newscoop", "colour": "#dbdc7f"},
+                    {"name": "Nucleus CMS", "colour": "#dbdc7f"},
+                    {"name": "Nuxeo", "colour": "#dbdc7f"},
+                    {"name": "OcPortal", "colour": "#dbdc7f"},
+                    {"name": "Omeka", "colour": "#dbdc7f"},
+                    {"name": "Open Semantic Framework", "colour": "#dbdc7f"},
+                    {"name": "OpenCms", "colour": "#dbdc7f"},
+                    {"name": "OpenWGA", "colour": "#dbdc7f"},
+                    {"name": "Orchard Project", "colour": "#dbdc7f"},
+                    {"name": "OrfeoGPL", "colour": "#dbdc7f"},
+                    {"name": "Papaya CMS", "colour": "#dbdc7f"},
+                    {"name": "Phire CMS", "colour": "#dbdc7f"},
+                    {"name": "Phoca Download", "colour": "#dbdc7f"},
+                    {"name": "Phoca Gallery", "colour": "#dbdc7f"},
+                    {"name": "PHP-Fusion", "colour": "#dbdc7f"},
+                    {"name": "PHP-Nuke", "colour": "#dbdc7f"},
+                    {"name": "PhpWebSite", "colour": "#dbdc7f"},
+                    {"name": "Pimcore", "colour": "#dbdc7f"},
+                    {"name": "PivotX", "colour": "#dbdc7f"},
+                    {"name": "Plone (software)", "colour": "#dbdc7f"},
+                    {"name": "Plumi", "colour": "#dbdc7f"},
+                    {"name": "PmWiki", "colour": "#dbdc7f"},
+                    {"name": "ProcessWire", "colour": "#dbdc7f"},
+                    {"name": "Pushit", "colour": "#dbdc7f"},
+                    {"name": "Qcodo", "colour": "#dbdc7f"},
+                    {"name": "Radiant (software)", "colour": "#dbdc7f"},
+                    {"name": "RavenNuke", "colour": "#dbdc7f"},
+                    {"name": "Refinery CMS", "colour": "#dbdc7f"},
+                    {"name": "Roockbuilder", "colour": "#dbdc7f"},
+                    {"name": "Sakai Project", "colour": "#dbdc7f"},
+                    {"name": "SBLOG", "colour": "#dbdc7f"},
+                    {"name": "SchoolTool", "colour": "#dbdc7f"},
+                    {"name": "Seagull PHP Framework", "colour": "#dbdc7f"},
+                    {"name": "SecureDrop", "colour": "#dbdc7f"},
+                    {"name": "SilverStripe", "colour": "#dbdc7f"},
+                    {"name": "SkoleSYS", "colour": "#dbdc7f"},
+                    {"name": "Jakarta Slide", "colour": "#dbdc7f"},
+                    {"name": "SOBI", "colour": "#dbdc7f"},
+                    {"name": "SPINE (software)", "colour": "#dbdc7f"},
+                    {"name": "SPIP", "colour": "#dbdc7f"},
+                    {"name": "Squiz", "colour": "#dbdc7f"},
+                    {"name": "TangoCMS", "colour": "#dbdc7f"},
+                    {"name": "Textpattern", "colour": "#dbdc7f"},
+                    {"name": "Tiki Wiki CMS Groupware", "colour": "#dbdc7f"},
+                    {"name": "TWiki", "colour": "#dbdc7f"},
+                    {"name": "Typo (software)", "colour": "#dbdc7f"},
+                    {"name": "TYPO3", "colour": "#dbdc7f"},
+                    {"name": "TYPO3 Flow", "colour": "#dbdc7f"},
+                    {"name": "Umbraco", "colour": "#dbdc7f"},
+                    {"name": "Vosao CMS", "colour": "#dbdc7f"},
+                    {"name": "WakkaWiki", "colour": "#dbdc7f"},
+                    {"name": "Web2py", "colour": "#dbdc7f"},
+                    {"name": "WebGUI", "colour": "#dbdc7f"},
+                    {"name": "WikkaWiki", "colour": "#dbdc7f"},
+                    {"name": "Wolf CMS", "colour": "#dbdc7f"},
+                    {"name": "WordPress", "colour": "#dbdc7f"},
+                    {"name": "Xaraya", "colour": "#dbdc7f"},
+                    {"name": "XBlock", "colour": "#dbdc7f"},
+                    {"name": "XOOPS", "colour": "#dbdc7f"},
+                    {"name": "XWiki", "colour": "#dbdc7f"},
+                    {"name": "Yanel", "colour": "#dbdc7f"},
+                    {"name": "Zend Framework", "colour": "#dbdc7f"},
+                    {"name": "Zikula", "colour": "#dbdc7f"},
+                    {"name": "Zope", "colour": "#dbdc7f"},
+                    {"name": "Zope 2", "colour": "#dbdc7f"},
+                    {"name": "Zwiki", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Wiki software", "children":
+                [
+                    {"name": "Apache Allura", "colour": "#dbdc7f"},
+                    {"name": "Apache Bloodhound", "colour": "#dbdc7f"},
+                    {"name": "BlueSpice for MediaWiki", "colour": "#dbdc7f"},
+                    {"name": "CLiki", "colour": "#dbdc7f"},
+                    {"name": "Cyn.in", "colour": "#dbdc7f"},
+                    {"name": "DokuWiki", "colour": "#dbdc7f"},
+                    {"name": "EXo Platform", "colour": "#dbdc7f"},
+                    {"name": "FlexWiki", "colour": "#dbdc7f"},
+                    {"name": "Fossil (software)", "colour": "#dbdc7f"},
+                    {"name": "Foswiki", "colour": "#dbdc7f"},
+                    {"name": "Gitit (software)", "colour": "#dbdc7f"},
+                    {"name": "Ikiwiki", "colour": "#dbdc7f"},
+                    {"name": "MediaWiki", "colour": "#dbdc7f"},
+                    {"name": "Midgard (software)", "colour": "#dbdc7f"},
+                    {"name": "Mindquarry", "colour": "#dbdc7f"},
+                    {"name": "MoinMoin", "colour": "#dbdc7f"},
+                    {"name": "OpenProject", "colour": "#dbdc7f"},
+                    {"name": "PhpWiki", "colour": "#dbdc7f"},
+                    {"name": "PmWiki", "colour": "#dbdc7f"},
+                    {"name": "Redmine", "colour": "#dbdc7f"},
+                    {"name": "The Bug Genie", "colour": "#dbdc7f"},
+                    {"name": "TiddlyWiki", "colour": "#dbdc7f"},
+                    {"name": "Tiki Wiki CMS Groupware", "colour": "#dbdc7f"},
+                    {"name": "Trac", "colour": "#dbdc7f"},
+                    {"name": "TWiki", "colour": "#dbdc7f"},
+                    {"name": "UseModWiki", "colour": "#dbdc7f"},
+                    {"name": "WackoWiki", "colour": "#dbdc7f"},
+                    {"name": "WakkaWiki", "colour": "#dbdc7f"},
+                    {"name": "WikiCalc", "colour": "#dbdc7f"},
+                    {"name": "WikiWikiWeb", "colour": "#dbdc7f"},
+                    {"name": "WikkaWiki", "colour": "#dbdc7f"},
+                    {"name": "XWiki", "colour": "#dbdc7f"},
+                    {"name": "Zim (software)", "colour": "#dbdc7f"},
+                    {"name": "Zwiki", "colour": "#dbdc7f"}
+                ]
+            },
+        
+            {"name": "Agorum core", "colour": "#dbdc7f"},
+            {"name": "Beehive Forum", "colour": "#dbdc7f"},
+            {"name": "BigBlueButton", "colour": "#dbdc7f"},
+            {"name": "Citadel/UX", "colour": "#dbdc7f"},
+            {"name": "Collabtive", "colour": "#dbdc7f"},
+            {"name": "Covide", "colour": "#dbdc7f"},
+            {"name": "Cyn.in", "colour": "#dbdc7f"},
+            {"name": "EGroupWare", "colour": "#dbdc7f"},
+            {"name": "EsoTalk", "colour": "#dbdc7f"},
+            {"name": "Exchange4linux", "colour": "#dbdc7f"},
+            {"name": "EXo Platform", "colour": "#dbdc7f"},
+            {"name": "Feng Office Community Edition", "colour": "#dbdc7f"},
+            {"name": "FUDforum", "colour": "#dbdc7f"},
+            {"name": "FusionForge", "colour": "#dbdc7f"},
+            {"name": "GForge", "colour": "#dbdc7f"},
+            {"name": "Gobby", "colour": "#dbdc7f"},
+            {"name": "Group-Office", "colour": "#dbdc7f"},
+            {"name": "GroupDAV", "colour": "#dbdc7f"},
+            {"name": "Horde (software)", "colour": "#dbdc7f"},
+            {"name": "Hula (software)", "colour": "#dbdc7f"},
+            {"name": "Icy Phoenix", "colour": "#dbdc7f"},
+            {"name": "Iko (software)", "colour": "#dbdc7f"},
+            {"name": "Knomos", "colour": "#dbdc7f"},
+            {"name": "Kolab", "colour": "#dbdc7f"},
+            {"name": "Kune (software)", "colour": "#dbdc7f"},
+            {"name": "LibreSource", "colour": "#dbdc7f"},
+            {"name": "LogicalDOC", "colour": "#dbdc7f"},
+            {"name": "Mayan (software)", "colour": "#dbdc7f"},
+            {"name": "Mindquarry", "colour": "#dbdc7f"},
+            {"name": "ModernBB", "colour": "#dbdc7f"},
+            {"name": "Open-Xchange", "colour": "#dbdc7f"},
+            {"name": "OpenKM", "colour": "#dbdc7f"},
+            {"name": "Phorum", "colour": "#dbdc7f"},
+            {"name": "PhpBB", "colour": "#dbdc7f"},
+            {"name": "PhpGroupWare", "colour": "#dbdc7f"},
+            {"name": "PunBB", "colour": "#dbdc7f"},
+            {"name": "Scalix", "colour": "#dbdc7f"},
+            {"name": "Simple Groupware", "colour": "#dbdc7f"},
+            {"name": "SOGo", "colour": "#dbdc7f"},
+            {"name": "Tiki Wiki CMS Groupware", "colour": "#dbdc7f"},
+            {"name": "Tine 2.0", "colour": "#dbdc7f"},
+            {"name": "Vanilla Forums", "colour": "#dbdc7f"},
+            {"name": "Zarafa (software)", "colour": "#dbdc7f"},
+            {"name": "Zimbra", "colour": "#dbdc7f"}
+        ]
+    },
+    {"name": "Medical software", "children":
+        [
+            {"name": "Public health and biosurveillance", "children":
+                [
+                    {"name": "Epi Info", "colour": "#dbdc7f"},
+                    {"name": "Spatiotemporal Epidemiological Modeler", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Dental management and patient record", "children":
+                [
+                    {"name": "Open Dental", "colour": "#dbdc7f"}
+                ]
+              
+            },
+            {"name": "Electronic health or medical record", "children":
+                [
+                    {"name": "CottageMed", "colour": "#dbdc7f"},
+                    {"name": "FreeMED", "colour": "#dbdc7f"},
+                    {"name": "GaiaEHR", "colour": "#dbdc7f"},
+                    {"name": "GNUmed", "colour": "#dbdc7f"},
+                    {"name": "GNU Health", "colour": "#dbdc7f"},
+                    {"name": "Hospital OS", "colour": "#dbdc7f"},
+                    {"name": "HOSxP", "colour": "#dbdc7f"},                    
+                    {"name": "Mirth (software)", "colour": "#dbdc7f"},
+                    {"name": "openEHR", "colour": "#dbdc7f"},
+                    {"name": "OpenEMR", "colour": "#dbdc7f"},
+                    {"name": "OpenMRS", "colour": "#dbdc7f"},
+                    {"name": "OSCAR McMaster", "colour": "#dbdc7f"},
+                    {"name": "THIRRA (EHR)", "colour": "#dbdc7f"},
+                    {"name": "VistA", "colour": "#dbdc7f"},
+                    {"name": "ZEPRS", "colour": "#dbdc7f"},
+                    {"name": "SmartCare", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Medical practice management software", "children":
+                [
+                    {"name": "ClearHealth", "colour": "#dbdc7f"},
+                    {"name": "FreeMED", "colour": "#dbdc7f"},
+                    {"name": "GNU Health", "colour": "#dbdc7f"},
+                    {"name": "MedinTux", "colour": "#dbdc7f"},
+                    {"name": "Open Dental", "colour": "#dbdc7f"},
+                    {"name": "OpenEMR", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Health system management", "children":
+                    [
+                        {"name": "DHIS", "colour": "#dbdc7f"},
+                        {"name": "HRHIS", "colour": "#dbdc7f"}
+                    ]
+            },
+            {"name": "Imaging/visualization", "children":
+                [ 
+                    {"name": "Drishti", "colour": "#dbdc7f"},
+                    {"name": "Endrov", "colour": "#dbdc7f"},
+                    {"name": "ITK", "colour": "#dbdc7f"},
+                    {"name": "InVesalius", "colour": "#dbdc7f"},
+                    {"name": "ITK-SNAP", "colour": "#dbdc7f"},
+                    {"name": "Ginkgo CADx", "colour": "#dbdc7f"},
+                    {"name": "MITK", "colour": "#dbdc7f"},
+                    {"name": "Orthanc", "colour": "#dbdc7f"},
+                    {"name": "OsiriX", "colour": "#dbdc7f"},
+                    {"name": "ParaView", "colour": "#dbdc7f"},
+                    {"name": "3DSlicer", "colour": "#dbdc7f"},
+                    {"name": "Voreen volume rendering engine", "colour": "#dbdc7f"},
+                    {"name": "VTK visualization toolkit", "colour": "#dbdc7f"},
+                    {"name": "Xebra (medical imaging software)", "colour": "#dbdc7f"},
+                    {"name": "GIMIAS", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Medical information system", "children":
+                [
+                    {"name": "Caisis", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Research", "children":
+                [
+                    {"name": "LabKey Server", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Mobile device", "children":
+                [
+                    {"name": "Ushahidi", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Out-of-the-box distribution", "children":
+                [
+                    {"name": "BioLinux", "colour": "#dbdc7f"},
+                    {"name": "Debian-Med", "colour": "#dbdc7f"},
+                    {"name": "Ubuntu-Med", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Interoperability testing", "children":
+                [
+                    {"name": "The Office of the National Coordinator for Health Information Technology (ONC) tasked MITRE with developing an open-source program called Cypress to test EHR software for compliance with the Meaningful Use Stage 2 Clinical Quality Measures.[2]", "colour": "#dbdc7f"},
+                    {"name": "The Certification Commission for Healthcare Information Technology (CCHIT) and MITRE developed an open-source program called Laika to test EHR software for compliance with CCHIT interoperability data standards, including the HITSP C32 XML and HL7 v2 Lab messages.", "colour": "#dbdc7f"}
+                ]
+            }
+        ]
+    },
+    {"name": "Multimedia", "children":
+        [
+            {"name": "2D animation", "children":
+                [
+                    {"name": "KToon", "colour": "#dbdc7f"},
+                    {"name": "Pencil", "colour": "#dbdc7f"},
+                    {"name": "Synfig", "colour": "#dbdc7f"},
+                    {"name": "Tupi", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "3D animation", "children":
+                [
+                    {"name": "Art of Illusion", "colour": "#dbdc7f"},
+                    {"name": "Blender", "colour": "#dbdc7f"},
+                    {"name": "K-3D", "colour": "#dbdc7f"},
+                    {"name": "OpenFX", "colour": "#dbdc7f"},
+                    {"name": "Seamless3d", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Audio editors / audio management", "children":
+                [
+                    {"name": "Audio analysis", "children":
+                        [
+                            {"name": "Baudline", "colour": "#dbdc7f"},
+                            {"name": "BRP-PACU", "colour": "#dbdc7f"},
+                            {"name": "lxsndtest", "colour": "#dbdc7f"},
+                            {"name": "Praat", "colour": "#dbdc7f"},
+                            {"name": "Sonic Visualiser", "colour": "#dbdc7f"},
+                            {"name": "Spek", "colour": "#dbdc7f"},
+                            {"name": "WaveSurfer", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Converters", "children":
+                        [
+                            {"name": "Max", "colour": "#dbdc7f"},
+                            {"name": "FFmpeg", "colour": "#dbdc7f"},
+                            {"name": "Libav", "colour": "#dbdc7f"},
+                            {"name": "MPlayer", "colour": "#dbdc7f"},
+                            {"name": "fre:ac", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "DJ Software", "children":
+                        [
+                            {"name": "Mixxx", "colour": "#dbdc7f"},
+                            {"name": "VirtualDJ", "colour": "#dbdc7f"},
+                            {"name": "Traktor", "colour": "#dbdc7f"},
+                            {"name": "Xwax", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Modular system", "children":
+                        [
+                            {"name": "jMax", "colour": "#dbdc7f"},
+                            {"name": "SynFactory", "colour": "#dbdc7f"},
+                            {"name": "VisualAp", "colour": "#dbdc7f"},
+                            {"name": "aRts", "colour": "#dbdc7f"},
+                            {"name": "Libvisual", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Platform", "children":
+                        [
+                            {"name": "Ubuntu Studio", "colour": "#dbdc7f"},
+                            {"name": "AVLinux", "colour": "#dbdc7f"},
+                            {"name": "dyne:bolic", "colour": "#dbdc7f"},
+                            {"name": "AGNULA", "colour": "#dbdc7f"},
+                            {"name": "Musix", "colour": "#dbdc7f"},
+                            {"name": "64 Studio", "colour": "#dbdc7f"},
+                            {"name": "Planet CCRMA", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Player", "children":
+                        [
+                            {"name": "Comparison of audio player software", "children":
+                                [
+                                    {"name": "AlsaPlayer", "colour": "#dbdc7f"},
+                                    {"name": "Aqualung", "colour": "#dbdc7f"},
+                                    {"name": "Audacious", "colour": "#dbdc7f"},
+                                    {"name": "Beep Media Player", "colour": "#dbdc7f"},
+                                    {"name": "Bluemindo", "colour": "#dbdc7f"},
+                                    {"name": "Decibel Audio Player", "colour": "#dbdc7f"},
+                                    {"name": "Muine", "colour": "#dbdc7f"},
+                                    {"name": "Pogo", "colour": "#dbdc7f"},
+                                    {"name": "DeaDBeeFdbeef", "colour": "#dbdc7f"},
+                                    {"name": "qmmp", "colour": "#dbdc7f"},
+                                    {"name": "XiXMusicPlayer", "colour": "#dbdc7f"},
+                                    {"name": "XMMS", "colour": "#dbdc7f"},
+                                    {"name": "Amarok", "colour": "#dbdc7f"},
+                                    {"name": "aTunes", "colour": "#dbdc7f"},
+                                    {"name": "Banshee", "colour": "#dbdc7f"},
+                                    {"name": "Clementine", "colour": "#dbdc7f"},
+                                    {"name": "Exaile", "colour": "#dbdc7f"},
+                                    {"name": "Gmusicbrowser", "colour": "#dbdc7f"},
+                                    {"name": "Guayadeque", "colour": "#dbdc7f"},
+                                    {"name": "JuK", "colour": "#dbdc7f"},
+                                    {"name": "Jajuk", "colour": "#dbdc7f"},
+                                    {"name": "Listen", "colour": "#dbdc7f"},
+                                    {"name": "Musique", "colour": "#dbdc7f"},
+                                    {"name": "Nightingale", "colour": "#dbdc7f"},
+                                    {"name": "Evince", "colour": "#dbdc7f"},
+                                    {"name": "Quod Libet", "colour": "#dbdc7f"},
+                                    {"name": "Rhythmbox", "colour": "#dbdc7f"},
+                                    {"name": "Tomahawk", "colour": "#dbdc7f"},
+                                    {"name": "Songbird", "colour": "#dbdc7f"},
+                                    {"name": "Mixxx", "colour": "#dbdc7f"}
+                                ]
+                            }
+                        ]
+                    },
+                    {"name": "Audio programming language", "children":
+                        [
+                            {"name": "Csound", "colour": "#dbdc7f"},
+                            {"name": "SuperCollider", "colour": "#dbdc7f"},
+                            {"name": "Nyquist", "colour": "#dbdc7f"}, 
+                            {"name": "Pure Data", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Radio broadcasting", "children":
+                        [
+
+                            {"name": "Airtime", "colour": "#dbdc7f"},
+                            {"name": "ARAS", "colour": "#dbdc7f"},
+                            {"name": "Campcaster", "colour": "#dbdc7f"},
+                            {"name": "OpenBroadcaster", "colour": "#dbdc7f"},
+                            {"name": "RadioDJ", "colour": "#dbdc7f"},
+                            {"name": "Rivendell", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Recording and editing", "children":
+                        [
+                            {"name": "Ardour", "colour": "#dbdc7f"},
+                            {"name": "Audacity", "colour": "#dbdc7f"},
+                            {"name": "Calf Studio Gear", "colour": "#dbdc7f"},
+                            {"name": "cutmp3", "colour": "#dbdc7f"},
+                            {"name": "Ecasound", "colour": "#dbdc7f"},
+                            {"name": "Eisenkraut", "colour": "#dbdc7f"},
+                            {"name": "harmonySEQ", "colour": "#dbdc7f"},
+                            {"name": "Jokosher", "colour": "#dbdc7f"},
+                            {"name": "LMMS", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Digital audio workstation", "children":
+                        [
+                            {"name": "MusE", "colour": "#dbdc7f"},
+                            {"name": "Qtractor", "colour": "#dbdc7f"},
+                            {"name": "ReZound", "colour": "#dbdc7f"},
+                            {"name": "Rosegarden", "colour": "#dbdc7f"},
+                            {"name": "SoX", "colour": "#dbdc7f"},
+                            {"name": "Sweep", "colour": "#dbdc7f"},
+                            {"name": "Traverso DAW", "colour": "#dbdc7f"},
+                            {"name": "WaveSurfer", "colour": "#dbdc7f"},
+                            {"name": "WavoSaur", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Softsynth", "children":
+                        [
+                            {"name": "FluidSynth", "colour": "#dbdc7f"},
+                            {"name": "TiMidity++", "colour": "#dbdc7f"},
+                            {"name": "ZynAddSubFX", "colour": "#dbdc7f"},
+                            {"name": "Lm3jo", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Streaming", "children":
+                        [
+                            {"name": "Icecast", "colour": "#dbdc7f"},
+                            {"name": "PeerCast", "colour": "#dbdc7f"},
+                            {"name": "Firefly Media Server", "colour": "#dbdc7f"},
+                            {"name": "VideoLAN", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Sound recording and reproduction", "children":
+                        [
+                            {"name": "Advanced Linux Sound Architecture (ALSA)", "colour": "#dbdc7f"},
+                            {"name": "DSSI", "colour": "#dbdc7f"},
+                            {"name": "GStreamer", "colour": "#dbdc7f"},
+                            {"name": "JACK Audio Connection Kit (JACK)", "colour": "#dbdc7f"},
+                            {"name": "Linux Audio Developers Simple Plugin API (LADSPA)", "colour": "#dbdc7f"},
+                            {"name": "Open Sound System", "colour": "#dbdc7f"},
+                            {"name": "PulseAudio", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Music tracker", "children":
+                        [
+
+                            {"name": "CheeseTracker", "colour": "#dbdc7f"},
+                            {"name": "MilkyTracker", "colour": "#dbdc7f"},
+                            {"name": "OpenMPT", "colour": "#dbdc7f"},
+                            {"name": "Psycle", "colour": "#dbdc7f"},
+                            {"name": "SoundTracker", "colour": "#dbdc7f"}
+                        ]
+                    },
+                    {"name": "Audio", "children":
+                        [
+                            {"name": "Aria", "colour": "#dbdc7f"},
+                            {"name": "Cythar Sequencer", "colour": "#dbdc7f"},
+                            {"name": "Giada", "colour": "#dbdc7f"},
+                            {"name": "Gnaural", "colour": "#dbdc7f"},
+                            {"name": "GNU LilyPond", "colour": "#dbdc7f"},
+                            {"name": "Hydrogen", "colour": "#dbdc7f"},
+                            {"name": "Impro-Visor", "colour": "#dbdc7f"},
+                            {"name": "orDrumbox", "colour": "#dbdc7f"},
+                            {"name": "Kangas Sound Editor", "colour": "#dbdc7f"},
+                            {"name": "libsndfile", "colour": "#dbdc7f"},
+                            {"name": "Levelator", "colour": "#dbdc7f"}
+                        ]
+                    }
+                ]
+            },
+            {"name": "Optical disc authoring", "children":
+                [
+                    {"name": "AcetoneISO", "colour": "#dbdc7f"},
+                    {"name": "Brasero (software)", "colour": "#dbdc7f"},
+                    {"name": "Cdrdao", "colour": "#dbdc7f"},
+                    {"name": "Cdrkit", "colour": "#dbdc7f"},
+                    {"name": "Cdrtools", "colour": "#dbdc7f"},
+                    {"name": "DeVeDe", "colour": "#dbdc7f"},
+                    {"name": "Dvd+rw-tools", "colour": "#dbdc7f"},
+                    {"name": "GnomeBaker", "colour": "#dbdc7f"},
+                    {"name": "InfraRecorder", "colour": "#dbdc7f"},
+                    {"name": "ISO Master cont.", "colour": "#dbdc7f"},
+                    {"name": "ISO Recorder Power Toy", "colour": "#dbdc7f"},
+                    {"name": "K3b", "colour": "#dbdc7f"},
+                    {"name": "Libburnia", "colour": "#dbdc7f"},
+                    {"name": "X-CD-Roast", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Flash animation", "children":
+                [
+                    {"name": "Pencil Animation", "colour": "#dbdc7f"},
+                    {"name": "SWFTools", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Graphics", "children":
+                [
+                    {"name": "2Geom", "colour": "#dbdc7f"},
+                    {"name": "Apophysis (software)", "colour": "#dbdc7f"},
+                    {"name": "Asymptote (vector graphics language)", "colour": "#dbdc7f"},
+                    {"name": "AutoREALM", "colour": "#dbdc7f"},
+                    {"name": "AVLinux", "colour": "#dbdc7f"},
+                    {"name": "Calligra Suite", "colour": "#dbdc7f"},
+                    {"name": "CloudCompare", "colour": "#dbdc7f"},
+                    {"name": "CombineZ", "colour": "#dbdc7f"},
+                    {"name": "Create Project", "colour": "#dbdc7f"},
+                    {"name": "DrQueue", "colour": "#dbdc7f"},
+                    {"name": "EGL (API)", "colour": "#dbdc7f"},
+                    {"name": "Embroidermodder", "colour": "#dbdc7f"},
+                    {"name": "Enlightenment Foundation Libraries", "colour": "#dbdc7f"},
+                    {"name": "FITS Liberator", "colour": "#dbdc7f"},
+                    {"name": "FlashDP", "colour": "#dbdc7f"},
+                    {"name": "Fusionviewer", "colour": "#dbdc7f"},
+                    {"name": "GIMP", "colour": "#dbdc7f"},
+                    {"name": "GOCR", "colour": "#dbdc7f"},
+                    {"name": "GPhoto", "colour": "#dbdc7f"},
+                    {"name": "Graphics Layout Engine", "colour": "#dbdc7f"},
+                    {"name": "GraphicsMagick", "colour": "#dbdc7f"},
+                    {"name": "Hugin (software)", "colour": "#dbdc7f"},
+                    {"name": "ImageMagick", "colour": "#dbdc7f"},
+                    {"name": "Inkscape", "colour": "#dbdc7f"},
+                    {"name": "Interactive Digital Photomontage", "colour": "#dbdc7f"},
+                    {"name": "Little CMS", "colour": "#dbdc7f"},
+                    {"name": "Lphoto", "colour": "#dbdc7f"},
+                    {"name": "MeshLab", "colour": "#dbdc7f"},
+                    {"name": "MilkDrop", "colour": "#dbdc7f"},
+                    {"name": "Netpbm", "colour": "#dbdc7f"},
+                    {"name": "OpenEXR", "colour": "#dbdc7f"},
+                    {"name": "OptiPNG", "colour": "#dbdc7f"},
+                    {"name": "OsiriX", "colour": "#dbdc7f"},
+                    {"name": "Paintbrush (software)", "colour": "#dbdc7f"},
+                    {"name": "Panorama Tools", "colour": "#dbdc7f"},
+                    {"name": "BlueMarine", "colour": "#dbdc7f"},
+                    {"name": "Pinta (software)", "colour": "#dbdc7f"},
+                    {"name": "Pngcrush", "colour": "#dbdc7f"},
+                    {"name": "Rawstudio", "colour": "#dbdc7f"},
+                    {"name": "RawTherapee", "colour": "#dbdc7f"},
+                    {"name": "Scrot", "colour": "#dbdc7f"},
+                    {"name": "Seashore (software)", "colour": "#dbdc7f"},
+                    {"name": "Skencil", "colour": "#dbdc7f"},
+                    {"name": "Synfig", "colour": "#dbdc7f"},
+                    {"name": "TISFAT Zero", "colour": "#dbdc7f"},
+                    {"name": "Toonloop", "colour": "#dbdc7f"},
+                    {"name": "UFRaw", "colour": "#dbdc7f"},
+                    {"name": "X Image Extension", "colour": "#dbdc7f"},
+                    {"name": "X Window System", "colour": "#dbdc7f"},
+                    {"name": "Xara Xtreme LX", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Image gallery", "children":
+                [
+            
+                    {"name": "Album Shaper", "colour": "#dbdc7f"},
+                    {"name": "Coppermine Photo Gallery", "colour": "#dbdc7f"},
+                    {"name": "Gallery Project", "colour": "#dbdc7f"},
+                    {"name": "MediaGoblin", "colour": "#dbdc7f"},
+                    {"name": "Openclipart", "colour": "#dbdc7f"},
+                    {"name": "Phoca Gallery", "colour": "#dbdc7f"},
+                    {"name": "PhpGraphy", "colour": "#dbdc7f"},
+                    {"name": "Piwigo", "colour": "#dbdc7f"},
+                    {"name": "Plogger", "colour": "#dbdc7f"},
+                    {"name": "ResourceSpace", "colour": "#dbdc7f"},
+                    {"name": "TinyWebGallery", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Image viewer", "children":
+                [
+                    {"name": "Eye of GNOME", "colour": "#dbdc7f"},
+                    {"name": "F-spot", "colour": "#dbdc7f"},
+                    {"name": "Geeqie", "colour": "#dbdc7f"},
+                    {"name": "Gthumb", "colour": "#dbdc7f"},
+                    {"name": "Gwenview", "colour": "#dbdc7f"},
+                    {"name": "Kphotoalbum", "colour": "#dbdc7f"},
+                    {"name": "Opticks", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Codec", "colour": "#dbdc7f"},
+            {"name": "Television", "children":
+                [
+                    {"name": "Aegisub", "colour": "#dbdc7f"},
+                    {"name": "Boxee", "colour": "#dbdc7f"},
+                    {"name": "Fxtv", "colour": "#dbdc7f"},
+                    {"name": "GeeXboX", "colour": "#dbdc7f"},
+                    {"name": "Kdetv", "colour": "#dbdc7f"},
+                    {"name": "LinHES", "colour": "#dbdc7f"},
+                    {"name": "LinuxMCE", "colour": "#dbdc7f"},
+                    {"name": "LinuxTV", "colour": "#dbdc7f"},
+                    {"name": "MediaPortal", "colour": "#dbdc7f"},
+                    {"name": "Mythbuntu", "colour": "#dbdc7f"},
+                    {"name": "MythDora", "colour": "#dbdc7f"},
+                    {"name": "MythTV", "colour": "#dbdc7f"},
+                    {"name": "Sabbu", "colour": "#dbdc7f"},
+                    {"name": "SubRip", "colour": "#dbdc7f"},
+                    {"name": "Tvtime", "colour": "#dbdc7f"},
+                    {"name": "Xawtv", "colour": "#dbdc7f"},
+                    {"name": "ZoneMinder", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Transcoding", "children":
+                [
+                    {"name": "Dr. DivX", "colour": "#dbdc7f"},
+                    {"name": "FFmpeg", "colour": "#dbdc7f"},
+                    {"name": "GPAC Project on Advanced Content", "colour": "#dbdc7f"},
+                    {"name": "HandBrake", "colour": "#dbdc7f"},
+                    {"name": "Libav", "colour": "#dbdc7f"},
+                    {"name": "Libdash", "colour": "#dbdc7f"},
+                    {"name": "MEncoder", "colour": "#dbdc7f"},
+                    {"name": "OggConvert", "colour": "#dbdc7f"},
+                    {"name": "StaxRip", "colour": "#dbdc7f"},
+                    {"name": "Transcode (software)", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Video editing software", "children":
+                [  
+                    {"name": "Avidemux", "colour": "#dbdc7f"},
+                    {"name": "AviSynth", "colour": "#dbdc7f"},
+                    {"name": "Blender", "colour": "#dbdc7f"},
+                    {"name": "Cinelerra", "colour": "#dbdc7f"},
+                    {"name": "DScaler", "colour": "#dbdc7f"},
+                    {"name": "DVD Flick", "colour": "#dbdc7f"},
+                    {"name": "Kaltura", "colour": "#dbdc7f"},
+                    {"name": "Kdenlive", "colour": "#dbdc7f"},
+                    {"name": "Kino", "colour": "#dbdc7f"},
+                    {"name": "LiVES", "colour": "#dbdc7f"},
+                    {"name": "OpenShot Video Editor", "colour": "#dbdc7f"},
+                    {"name": "Pitivi", "colour": "#dbdc7f"},
+                    {"name": "VirtualDub", "colour": "#dbdc7f"},
+                    {"name": "VirtualDubMod", "colour": "#dbdc7f"},
+                    {"name": "VideoLAN Movie Creator", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Video encoder", "children":
+                [  
+                    {"name": "Avidemux", "colour": "#dbdc7f"},
+                    {"name": "HandBrake", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Media player", "children":
+                [  
+                    {"name": "VLC media player", "colour": "#dbdc7f"},
+                    {"name": "Media Player Classic", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Other media packages", "children":
+                [  
+                    {"name": "Celtx", "colour": "#dbdc7f"},
+                    {"name": "Gnome Subtitles", "colour": "#dbdc7f"}
+                ]
+            }
+        ]
+    },
+    {"name": "Operating system", "children":
+        [
+            {"name": "Emulator", "children":
+                [  
+                    {"name": "1964 (emulator)", "colour": "#dbdc7f"},
+                    {"name": "AppleWin", "colour": "#dbdc7f"},
+                    {"name": "Basilisk II", "colour": "#dbdc7f"},
+                    {"name": "Bnetd", "colour": "#dbdc7f"},
+                    {"name": "Bochs", "colour": "#dbdc7f"},
+                    {"name": "ConEmu", "colour": "#dbdc7f"},
+                    {"name": "Cygwin", "colour": "#dbdc7f"},
+                    {"name": "DOSBox", "colour": "#dbdc7f"},
+                    {"name": "Fuse (emulator)", "colour": "#dbdc7f"},
+                    {"name": "GNOME Boxes", "colour": "#dbdc7f"},
+                    {"name": "GNS3", "colour": "#dbdc7f"},
+                    {"name": "GXemul", "colour": "#dbdc7f"},
+                    {"name": "Hatari (emulator)", "colour": "#dbdc7f"},
+                    {"name": "Hercules (emulator)", "colour": "#dbdc7f"},
+                    {"name": "Higan (emulator)", "colour": "#dbdc7f"},
+                    {"name": "JPC (emulator)", "colour": "#dbdc7f"},
+                    {"name": "Kernel-based Virtual Machine", "colour": "#dbdc7f"},
+                    {"name": "Mac-on-Linux", "colour": "#dbdc7f"},
+                    {"name": "Mac-on-Mac", "colour": "#dbdc7f"},
+                    {"name": "Mupen64Plus", "colour": "#dbdc7f"},
+                    {"name": "OpenEmulator", "colour": "#dbdc7f"},
+                    {"name": "OpenMSX", "colour": "#dbdc7f"},
+                    {"name": "PCSX2", "colour": "#dbdc7f"},
+                    {"name": "PearPC", "colour": "#dbdc7f"},
+                    {"name": "Play!", "colour": "#dbdc7f"},
+                    {"name": "PPSSPP", "colour": "#dbdc7f"},
+                    {"name": "Previous (emulator)", "colour": "#dbdc7f"},
+                    {"name": "PvPGN", "colour": "#dbdc7f"},
+                    {"name": "QEMU", "colour": "#dbdc7f"},
+                    {"name": "RPCS3", "colour": "#dbdc7f"},
+                    {"name": "SheepShaver", "colour": "#dbdc7f"},
+                    {"name": "SIMH", "colour": "#dbdc7f"},
+                    {"name": "TiEmu", "colour": "#dbdc7f"},
+                    {"name": "UAE (emulator)", "colour": "#dbdc7f"},
+                    {"name": "VICE", "colour": "#dbdc7f"},
+                    {"name": "VirtualBox", "colour": "#dbdc7f"},
+                    {"name": "VisualBoyAdvance", "colour": "#dbdc7f"},
+                    {"name": "Xenia (emulator)", "colour": "#dbdc7f"},
+                    {"name": "ZSNES", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Virtualization", "children":
+                [
+                    {"name": "Bhyve", "colour": "#dbdc7f"},
+                    {"name": "Chroot", "colour": "#dbdc7f"},
+                    {"name": "Cooperative Linux", "colour": "#dbdc7f"},
+                    {"name": "EmbeddedXEN", "colour": "#dbdc7f"},
+                    {"name": "Free Java implementations", "colour": "#dbdc7f"},
+                    {"name": "FreeBSD jail", "colour": "#dbdc7f"},
+                    {"name": "GNOME Boxes", "colour": "#dbdc7f"},
+                    {"name": "Kernel-based Virtual Machine", "colour": "#dbdc7f"},
+                    {"name": "Lguest", "colour": "#dbdc7f"},
+                    {"name": "Libguestfs", "colour": "#dbdc7f"},
+                    {"name": "Libvirt", "colour": "#dbdc7f"},
+                    {"name": "Linux-VServer", "colour": "#dbdc7f"},
+                    {"name": "LXC", "colour": "#dbdc7f"},
+                    {"name": "LynxSecure", "colour": "#dbdc7f"},
+                    {"name": "Marionnet", "colour": "#dbdc7f"},
+                    {"name": "OpenJDK", "colour": "#dbdc7f"},
+                    {"name": "OpenVZ", "colour": "#dbdc7f"},
+                    {"name": "QEMU", "colour": "#dbdc7f"},
+                    {"name": "ResidualVM", "colour": "#dbdc7f"},
+                    {"name": "ScummVM", "colour": "#dbdc7f"},
+                    {"name": "Ulteo Open Virtual Desktop", "colour": "#dbdc7f"},
+                    {"name": "User-mode Linux", "colour": "#dbdc7f"},
+                    {"name": "Virtual Machine Manager", "colour": "#dbdc7f"},
+                    {"name": "VirtualBox", "colour": "#dbdc7f"},
+                    {"name": "Xen", "colour": "#dbdc7f"},
+                    {"name": "XtratuM", "colour": "#dbdc7f"},
+                    {"name": "ZeroVM", "colour": "#dbdc7f"}
+                ]
+            },    
+            {"name": "386BSD", "colour": "#dbdc7f"},
+            {"name": "Arch BSD", "colour": "#dbdc7f"},
+            {"name": "Arch Hurd", "colour": "#dbdc7f"},
+            {"name": "AROS Research Operating System", "colour": "#dbdc7f"},
+            {"name": "AtheOS", "colour": "#dbdc7f"},
+            {"name": "BareMetal", "colour": "#dbdc7f"},
+            {"name": "Berkeley Software Distribution", "colour": "#dbdc7f"},
+            {"name": "BeRTOS", "colour": "#dbdc7f"},
+            {"name": "Bluebottle OS", "colour": "#dbdc7f"},
+            {"name": "Caldera OpenDOS", "colour": "#dbdc7f"},
+            {"name": "CapROS", "colour": "#dbdc7f"},
+            {"name": "ChibiOS/RT", "colour": "#dbdc7f"},
+            {"name": "Concurrent CP/M", "colour": "#dbdc7f"},
+            {"name": "Concurrent CP/M-68K", "colour": "#dbdc7f"},
+            {"name": "Concurrent CP/M-86", "colour": "#dbdc7f"},
+            {"name": "Contiki", "colour": "#dbdc7f"},
+            {"name": "Cosmos (operating system)", "colour": "#dbdc7f"},
+            {"name": "CP/M", "colour": "#dbdc7f"},
+            {"name": "CP/M-86", "colour": "#dbdc7f"},
+            {"name": "CP/M 8-16", "colour": "#dbdc7f"},
+            {"name": "CP/M Plus", "colour": "#dbdc7f"},
+            {"name": "CP/M-68K", "colour": "#dbdc7f"},
+            {"name": "CP/M-80", "colour": "#dbdc7f"},
+            {"name": "CP/M-8000", "colour": "#dbdc7f"},
+            {"name": "CP/M-86 Plus", "colour": "#dbdc7f"},
+            {"name": "CP/M-86/80", "colour": "#dbdc7f"},
+            {"name": "Darwin (operating system)", "colour": "#dbdc7f"},
+            {"name": "DexOS", "colour": "#dbdc7f"},
+            {"name": "DragonFly BSD", "colour": "#dbdc7f"},
+            {"name": "DuinOS", "colour": "#dbdc7f"},
+            {"name": "ECos", "colour": "#dbdc7f"},
+            {"name": "EmuTOS", "colour": "#dbdc7f"},
+            {"name": "Es (operating system)", "colour": "#dbdc7f"},
+            {"name": "Ethernut", "colour": "#dbdc7f"},
+            {"name": "FMI/OS", "colour": "#dbdc7f"},
+            {"name": "Free-DOS", "colour": "#dbdc7f"},
+            {"name": "FreeDOS", "colour": "#dbdc7f"},
+            {"name": "FreeRTOS", "colour": "#dbdc7f"},
+            {"name": "GeckOS", "colour": "#dbdc7f"},
+            {"name": "GNU", "colour": "#dbdc7f"},
+            {"name": "GNU variants", "colour": "#dbdc7f"},
+            {"name": "Haiku (operating system)", "colour": "#dbdc7f"},
+            {"name": "HDOS", "colour": "#dbdc7f"},
+            {"name": "HelenOS", "colour": "#dbdc7f"},
+            {"name": "House (operating system)", "colour": "#dbdc7f"},
+            {"name": "ILIOS", "colour": "#dbdc7f"},
+            {"name": "JX (operating system)", "colour": "#dbdc7f"},
+            {"name": "K42", "colour": "#dbdc7f"},
+            {"name": "KolibriOS", "colour": "#dbdc7f"},
+            {"name": "LINX (IPC)", "colour": "#dbdc7f"},
+            {"name": "LiteOS", "colour": "#dbdc7f"},
+            {"name": "LSE/OS", "colour": "#dbdc7f"},
+            {"name": "LUnix", "colour": "#dbdc7f"},
+            {"name": "Managed Operation System Alliance", "colour": "#dbdc7f"},
+            {"name": "MenuetOS", "colour": "#dbdc7f"},
+            {"name": "MINIX", "colour": "#dbdc7f"},
+            {"name": "MINIX 3", "colour": "#dbdc7f"},
+            {"name": "Minix-vmd", "colour": "#dbdc7f"},
+            {"name": "MiNT", "colour": "#dbdc7f"},
+            {"name": "MonaOS", "colour": "#dbdc7f"},
+            {"name": "Movitz", "colour": "#dbdc7f"},
+            {"name": "MP/M", "colour": "#dbdc7f"},
+            {"name": "MP/M 8-16", "colour": "#dbdc7f"},
+            {"name": "MP/M II", "colour": "#dbdc7f"},
+            {"name": "MP/M-286", "colour": "#dbdc7f"},
+            {"name": "MP/M-80", "colour": "#dbdc7f"},
+            {"name": "MP/M-86", "colour": "#dbdc7f"},
+            {"name": "MS/8", "colour": "#dbdc7f"},
+            {"name": "Multics", "colour": "#dbdc7f"},
+            {"name": "Nano-RK", "colour": "#dbdc7f"},
+            {"name": "Nemesis (operating system)", "colour": "#dbdc7f"},
+            {"name": "Oberon (operating system)", "colour": "#dbdc7f"},
+            {"name": "OpenDOS", "colour": "#dbdc7f"},
+            {"name": "OS/VX", "colour": "#dbdc7f"},
+            {"name": "PD-DOS", "colour": "#dbdc7f"},
+            {"name": "Personal CP/M", "colour": "#dbdc7f"},
+            {"name": "Personal CP/M-80", "colour": "#dbdc7f"},
+            {"name": "Personal CP/M-86", "colour": "#dbdc7f"},
+            {"name": "Phantom OS", "colour": "#dbdc7f"},
+            {"name": "Phoenix-RTOS", "colour": "#dbdc7f"},
+            {"name": "Pintos", "colour": "#dbdc7f"},
+            {"name": "Prex", "colour": "#dbdc7f"},
+            {"name": "QP (framework)", "colour": "#dbdc7f"},
+            {"name": "ReactOS", "colour": "#dbdc7f"},
+            {"name": "Robot Operating System", "colour": "#dbdc7f"},
+            {"name": "Sanos", "colour": "#dbdc7f"},
+            {"name": "SHARE Operating System", "colour": "#dbdc7f"},
+            {"name": "SharpOS (operating system)", "colour": "#dbdc7f"},
+            {"name": "Soft Hard Real-Time Kernel", "colour": "#dbdc7f"},
+            {"name": "SPIN (operating system)", "colour": "#dbdc7f"},
+            {"name": "Syllable Desktop", "colour": "#dbdc7f"},
+            {"name": "SymbOS", "colour": "#dbdc7f"},
+            {"name": "Tinix", "colour": "#dbdc7f"},
+            {"name": "Trix (operating system)", "colour": "#dbdc7f"},
+            {"name": "TUD:OS", "colour": "#dbdc7f"},
+            {"name": "VA Kernel", "colour": "#dbdc7f"},
+            {"name": "Version 6 Unix", "colour": "#dbdc7f"},
+            {"name": "Version 7 Unix", "colour": "#dbdc7f"},
+            {"name": "VSTa", "colour": "#dbdc7f"},
+            {"name": "Whitix", "colour": "#dbdc7f"},
+            {"name": "Xv6", "colour": "#dbdc7f"}
+        ]
+    },
+    {"name": "Password management", "children":
+        [
+            {"name": "KeePass", "colour": "#dbdc7f"},
+            {"name": "Password Safe", "colour": "#dbdc7f"},
+            {"name": "Mitro", "colour": "#dbdc7f"}
+        ]
+    },
+    {"name": "Personal information manager", "children":
+        [
+            {"name": "Chandler", "colour": "#dbdc7f"},
+            {"name": "KAddressBook", "colour": "#dbdc7f"},
+            {"name": "Kontact", "colour": "#dbdc7f"},
+            {"name": "KOrganizer", "colour": "#dbdc7f"},
+            {"name": "Mozilla Calendar", "colour": "#dbdc7f"},
+            {"name": "Novell Evolution", "colour": "#dbdc7f"},
+            {"name": "OpenSync (software)", "colour": "#dbdc7f"},
+            {"name": "Project.net", "colour": "#dbdc7f"},
+            {"name": "TeamLab", "colour": "#dbdc7f"}
+        ]
+    },
+    {"name": "Computer programming", "children":
+        [
+            {"name": "Bug tracker", "children":
+                [
+                    {"name": "Bugzilla", "colour": "#dbdc7f"},
+                    {"name": "Mantis", "colour": "#dbdc7f"},
+                    {"name": "Mindquarry", "colour": "#dbdc7f"},
+                    {"name": "Redmine", "colour": "#dbdc7f"},
+                    {"name": "Trac", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Code generator", "children":
+                [
+                    {"name": "Bison", "colour": "#dbdc7f"},
+                    {"name": "CodeSynthesis XSD", "colour": "#dbdc7f"},
+                    {"name": "CodeSynthesis XSD/e", "colour": "#dbdc7f"},
+                    {"name": "Flex lexical analyser", "colour": "#dbdc7f"},
+                    {"name": "Kodos", "colour": "#dbdc7f"},
+                    {"name": "Open Scene Graph", "colour": "#dbdc7f"},
+                    {"name": "OpenSCDP", "colour": "#dbdc7f"},
+                    {"name": "phpCodeGenie", "colour": "#dbdc7f"},
+                    {"name": "SableCC", "colour": "#dbdc7f"},
+                    {"name": "SWIG", "colour": "#dbdc7f"},
+                    {"name": "^txt2regex$", "colour": "#dbdc7f"},
+                    {"name": "xmlbeansxx", "colour": "#dbdc7f"},
+                    {"name": "YAKINDU", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Configuration software", "children":
+                [
+                    {"name": "Autoconf", "colour": "#dbdc7f"},
+                    {"name": "Automake", "colour": "#dbdc7f"},
+                    {"name": "CMake", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Debugger", "children":
+                [
+                    {"name": "GNU Debugger", "colour": "#dbdc7f"},
+                    {"name": "Memtest86", "colour": "#dbdc7f"},
+                    {"name": "Xnee", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Integrated development environment", "children":
+                [
+                    {"name": "Android Studio", "colour": "#dbdc7f"},
+                    {"name": "Anjuta", "colour": "#dbdc7f"},
+                    {"name": "Apache Flex", "colour": "#dbdc7f"},
+                    {"name": "AppFlower", "colour": "#dbdc7f"},
+                    {"name": "Aptana", "colour": "#dbdc7f"},
+                    {"name": "Basic For Qt", "colour": "#dbdc7f"},
+                    {"name": "Bluefish (software)", "colour": "#dbdc7f"},
+                    {"name": "BlueJ", "colour": "#dbdc7f"},
+                    {"name": "Cameleon (software)", "colour": "#dbdc7f"},
+                    {"name": "Climacs", "colour": "#dbdc7f"},
+                    {"name": "Cloud9 IDE", "colour": "#dbdc7f"},
+                    {"name": "Code::Blocks", "colour": "#dbdc7f"},
+                    {"name": "CodeLite", "colour": "#dbdc7f"},
+                    {"name": "CWEB", "colour": "#dbdc7f"},
+                    {"name": "Dev-C++", "colour": "#dbdc7f"},
+                    {"name": "Dev-Pascal", "colour": "#dbdc7f"},
+                    {"name": "DJGCC", "colour": "#dbdc7f"},
+                    {"name": "DJGPP", "colour": "#dbdc7f"},
+                    {"name": "DogmaModeler", "colour": "#dbdc7f"},
+                    {"name": "EasyEclipse", "colour": "#dbdc7f"},
+                    {"name": "Eclipse (software)", "colour": "#dbdc7f"},
+                    {"name": "EiffelStudio", "colour": "#dbdc7f"},
+                    {"name": "Emacs", "colour": "#dbdc7f"},
+                    {"name": "Eric Python IDE", "colour": "#dbdc7f"},
+                    {"name": "FlashDevelop", "colour": "#dbdc7f"},
+                    {"name": "Fresh (IDE)", "colour": "#dbdc7f"},
+                    {"name": "Gambas", "colour": "#dbdc7f"},
+                    {"name": "Geany", "colour": "#dbdc7f"},
+                    {"name": "General Architecture for Text Engineering", "colour": "#dbdc7f"},
+                    {"name": "GNAT Programming Studio", "colour": "#dbdc7f"},
+                    {"name": "GNAVI", "colour": "#dbdc7f"},
+                    {"name": "GNU Emacs", "colour": "#dbdc7f"},
+                    {"name": "GNU MIX Development Kit", "colour": "#dbdc7f"},
+                    {"name": "Greenfoot", "colour": "#dbdc7f"},
+                    {"name": "HBasic", "colour": "#dbdc7f"},
+                    {"name": "IcyOwl", "colour": "#dbdc7f"},
+                    {"name": "IDLE (Python)", "colour": "#dbdc7f"},
+                    {"name": "IntelliJ IDEA", "colour": "#dbdc7f"},
+                    {"name": "JUDO (computer programming environment)", "colour": "#dbdc7f"},
+                    {"name": "KDevelop", "colour": "#dbdc7f"},
+                    {"name": "Komodo Edit", "colour": "#dbdc7f"},
+                    {"name": "Kuzya", "colour": "#dbdc7f"},
+                    {"name": "Lava (programming language)", "colour": "#dbdc7f"},
+                    {"name": "Lazarus (IDE)", "colour": "#dbdc7f"},
+                    {"name": "MCU 8051 IDE", "colour": "#dbdc7f"},
+                    {"name": "Megido (Free Pascal)", "colour": "#dbdc7f"},
+                    {"name": "MonoDevelop", "colour": "#dbdc7f"},
+                    {"name": "NeOn Toolkit", "colour": "#dbdc7f"},
+                    {"name": "NetBeans", "colour": "#dbdc7f"},
+                    {"name": "Ninja-IDE", "colour": "#dbdc7f"},
+                    {"name": "Nodeclipse", "colour": "#dbdc7f"},
+                    {"name": "OntoWiki", "colour": "#dbdc7f"},
+                    {"name": "Padre (software)", "colour": "#dbdc7f"},
+                    {"name": "Photran", "colour": "#dbdc7f"},
+                    {"name": "PHPEclipse", "colour": "#dbdc7f"},
+                    {"name": "PIDA", "colour": "#dbdc7f"},
+                    {"name": "Protégé (software)", "colour": "#dbdc7f"},
+                    {"name": "PyDev", "colour": "#dbdc7f"},
+                    {"name": "PyScripter", "colour": "#dbdc7f"},
+                    {"name": "QDevelop", "colour": "#dbdc7f"},
+                    {"name": "Qt Creator", "colour": "#dbdc7f"},
+                    {"name": "Quanta Plus", "colour": "#dbdc7f"},
+                    {"name": "RadRails", "colour": "#dbdc7f"},
+                    {"name": "SharpDevelop", "colour": "#dbdc7f"},
+                    {"name": "SLIME", "colour": "#dbdc7f"},
+                    {"name": "SmallBASIC", "colour": "#dbdc7f"},
+                    {"name": "Spyder (software)", "colour": "#dbdc7f"},
+                    {"name": "Stani's Python Editor", "colour": "#dbdc7f"},
+                    {"name": "TIGCC", "colour": "#dbdc7f"},
+                    {"name": "Ultimate++", "colour": "#dbdc7f"},
+                    {"name": "WaveMaker", "colour": "#dbdc7f"},
+                    {"name": "WideStudio", "colour": "#dbdc7f"},
+                    {"name": "WxDev-C++", "colour": "#dbdc7f"},
+                    {"name": "YAKINDU Statechart Tools", "colour": "#dbdc7f"},
+                    {"name": "ZeroBrane Studio", "colour": "#dbdc7f"},
+                    {"name": "ZGameEditor", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Version control system", "children":
+                [
+                    {"name": "Aegis (management software)", "colour": "#dbdc7f"},
+                    {"name": "GNU arch", "colour": "#dbdc7f"},
+                    {"name": "ArX (revision control)", "colour": "#dbdc7f"},
+                    {"name": "GNU Bazaar", "colour": "#dbdc7f"},
+                    {"name": "Bonsai (software)", "colour": "#dbdc7f"},
+                    {"name": "Cervisia", "colour": "#dbdc7f"},
+                    {"name": "Codeville", "colour": "#dbdc7f"},
+                    {"name": "Cogito (software)", "colour": "#dbdc7f"},
+                    {"name": "Concurrent Versions System", "colour": "#dbdc7f"},
+                    {"name": "CVSNT", "colour": "#dbdc7f"},
+                    {"name": "Darcs", "colour": "#dbdc7f"},
+                    {"name": "Distributed Concurrent Versions System", "colour": "#dbdc7f"},
+                    {"name": "Distributed revision control", "colour": "#dbdc7f"},
+                    {"name": "Fossil (software)", "colour": "#dbdc7f"},
+                    {"name": "Git (software)", "colour": "#dbdc7f"},
+                    {"name": "Hgsubversion", "colour": "#dbdc7f"},
+                    {"name": "Mercurial", "colour": "#dbdc7f"},
+                    {"name": "Monotone (software)", "colour": "#dbdc7f"},
+                    {"name": "OpenGrok", "colour": "#dbdc7f"},
+                    {"name": "QVCS", "colour": "#dbdc7f"},
+                    {"name": "Revision Control System", "colour": "#dbdc7f"},
+                    {"name": "Source Code Control System", "colour": "#dbdc7f"},
+                    {"name": "Apache Subversion", "colour": "#dbdc7f"},
+                    {"name": "SVK", "colour": "#dbdc7f"},
+                    {"name": "TortoiseCVS", "colour": "#dbdc7f"},
+                    {"name": "TortoiseHg", "colour": "#dbdc7f"},
+                    {"name": "Vesta (Software configuration management)", "colour": "#dbdc7f"}
+                ]
+            }
+        ]
+    },
+    {"name": "Screensaver", "children":
+        [
+            {"name": "Boinc", "colour": "#dbdc7f"},
+            {"name": "Electric Sheep", "colour": "#dbdc7f"},
+            {"name": "XScreenSaver", "colour": "#dbdc7f"}
+        ]
+    },
+    {"name": "Security", "children":
+        [
+            {"name": "Antivirus software", "children":
+                [
+                    {"name": "ClamAV", "colour": "#dbdc7f"},
+                    {"name": "ClamWin", "colour": "#dbdc7f"},
+                    {"name": "Gateway Anti-Virus", "colour": "#dbdc7f"},
+                    {"name": "Lynis", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Data loss prevention software", "children":
+                [
+                    {"name": "MyDLP", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Data recovery","children":
+                [
+                    {"name": "dvdisaster", "colour": "#dbdc7f"},
+                    {"name": "Foremost", "colour": "#dbdc7f"},
+                    {"name": "PhotoRec", "colour": "#dbdc7f"},
+                    {"name": "TestDisk", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Forensics","children":
+                [
+                    {"name": "The Coroner's Toolkit", "colour": "#dbdc7f"},
+                    {"name": "The Sleuth Kit", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Disk erasing","children":
+                [
+                    {"name": " DBAN", "colour": "#dbdc7f"},
+                    {"name": "srm", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Encryption","children":
+              [
+                {"name": "GnuPG", "colour": "#dbdc7f"},
+                {"name": "GnuTLS", "colour": "#dbdc7f"},
+                {"name": "KGPG", "colour": "#dbdc7f"},
+                {"name": "OpenSSL", "colour": "#dbdc7f"},
+                {"name": "Seahorse", "colour": "#dbdc7f"}
+              ]
+            },
+            {"name": "Disk encryption", "children":
+                [  
+                    {"name": "CrossCrypt", "colour": "#dbdc7f"},
+                    {"name": "FreeOTFE and FreeOTFE Explorer", "colour": "#dbdc7f"},
+                    {"name": "eCryptfs", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Firewall", "children":
+                [  
+                    {"name": "Coyote Linux", "colour": "#dbdc7f"},
+                    {"name": "Firestarter", "colour": "#dbdc7f"},
+                    {"name": "IPCop", "colour": "#dbdc7f"},
+                    {"name": "IPFilter", "colour": "#dbdc7f"},
+                    {"name": "IPFire", "colour": "#dbdc7f"},
+                    {"name": "ipfw", "colour": "#dbdc7f"},
+                    {"name": "Iptables", "colour": "#dbdc7f"},
+                    {"name": "M0n0wall", "colour": "#dbdc7f"},
+                    {"name": "PeerGuardian", "colour": "#dbdc7f"},
+                    {"name": "PF", "colour": "#dbdc7f"},
+                    {"name": "pfSense", "colour": "#dbdc7f"},
+                    {"name": "Rope", "colour": "#dbdc7f"},
+                    {"name": "Shorewall", "colour": "#dbdc7f"},
+                    {"name": "SmoothWall", "colour": "#dbdc7f"},
+                    {"name": "Untangle", "colour": "#dbdc7f"},
+                    {"name": "Vyatta", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Network security", "children":
+                [  
+                    {"name": "Admon", "colour": "#dbdc7f"},
+                    {"name": "Argus (monitoring software)", "colour": "#dbdc7f"},
+                    {"name": "Arping", "colour": "#dbdc7f"},
+                    {"name": "Arpwatch", "colour": "#dbdc7f"},
+                    {"name": "Big Sister (software)", "colour": "#dbdc7f"},
+                    {"name": "Cacti (software)", "colour": "#dbdc7f"},
+                    {"name": "CFEngine", "colour": "#dbdc7f"},
+                    {"name": "Check MK", "colour": "#dbdc7f"},
+                    {"name": "Collectd", "colour": "#dbdc7f"},
+                    {"name": "Conserver", "colour": "#dbdc7f"},
+                    {"name": "DSniff", "colour": "#dbdc7f"},
+                    {"name": "EtherApe", "colour": "#dbdc7f"},
+                    {"name": "FreeNATS", "colour": "#dbdc7f"},
+                    {"name": "Ganglia (software)", "colour": "#dbdc7f"},
+                    {"name": "Ganymede (software)", "colour": "#dbdc7f"},
+                    {"name": "Icinga", "colour": "#dbdc7f"},
+                    {"name": "Ipsectrace", "colour": "#dbdc7f"},
+                    {"name": "Justniffer", "colour": "#dbdc7f"},
+                    {"name": "M23 software distribution system", "colour": "#dbdc7f"},
+                    {"name": "Mausezahn", "colour": "#dbdc7f"},
+                    {"name": "Multi Router Traffic Grapher", "colour": "#dbdc7f"},
+                    {"name": "Munin (software)", "colour": "#dbdc7f"},
+                    {"name": "N2rrd", "colour": "#dbdc7f"},
+                    {"name": "Nagios", "colour": "#dbdc7f"},
+                    {"name": "Nconf", "colour": "#dbdc7f"},
+                    {"name": "NeDi", "colour": "#dbdc7f"},
+                    {"name": "Net-SNMP", "colour": "#dbdc7f"},
+                    {"name": "Netcat", "colour": "#dbdc7f"},
+                    {"name": "Netdisco", "colour": "#dbdc7f"},
+                    {"name": "Netsniff-ng", "colour": "#dbdc7f"},
+                    {"name": "Network Console on Acid", "colour": "#dbdc7f"},
+                    {"name": "Network Security Toolkit", "colour": "#dbdc7f"},
+                    {"name": "Network weathermap", "colour": "#dbdc7f"},
+                    {"name": "NetXMS", "colour": "#dbdc7f"},
+                    {"name": "Ngrep", "colour": "#dbdc7f"},
+                    {"name": "Nmap", "colour": "#dbdc7f"},
+                    {"name": "NMIS", "colour": "#dbdc7f"},
+                    {"name": "Observium", "colour": "#dbdc7f"},
+                    {"name": "OpenNMS", "colour": "#dbdc7f"},
+                    {"name": "Opsi", "colour": "#dbdc7f"},
+                    {"name": "Opsview", "colour": "#dbdc7f"},
+                    {"name": "Packet Sender", "colour": "#dbdc7f"},
+                    {"name": "PacketFence", "colour": "#dbdc7f"},
+                    {"name": "Packetsquare", "colour": "#dbdc7f"},
+                    {"name": "Pandora FMS", "colour": "#dbdc7f"},
+                    {"name": "Paping", "colour": "#dbdc7f"},
+                    {"name": "Pcap", "colour": "#dbdc7f"},
+                    {"name": "Pinba", "colour": "#dbdc7f"},
+                    {"name": "Ping (networking utility)", "colour": "#dbdc7f"},
+                    {"name": "Plink", "colour": "#dbdc7f"},
+                    {"name": "Prefix WhoIs", "colour": "#dbdc7f"},
+                    {"name": "RANCID (software)", "colour": "#dbdc7f"},
+                    {"name": "Rrd4j", "colour": "#dbdc7f"},
+                    {"name": "RRDtool", "colour": "#dbdc7f"},
+                    {"name": "Sguil", "colour": "#dbdc7f"},
+                    {"name": "Shinken (software)", "colour": "#dbdc7f"},
+                    {"name": "SNMPTT", "colour": "#dbdc7f"},
+                    {"name": "Snoop (software)", "colour": "#dbdc7f"},
+                    {"name": "Subterfuge", "colour": "#dbdc7f"},
+                    {"name": "Synctool", "colour": "#dbdc7f"},
+                    {"name": "TclMon", "colour": "#dbdc7f"},
+                    {"name": "TCP Gender Changer", "colour": "#dbdc7f"},
+                    {"name": "Tcpdump", "colour": "#dbdc7f"},
+                    {"name": "Tcptrace", "colour": "#dbdc7f"},
+                    {"name": "Thresh (software)", "colour": "#dbdc7f"},
+                    {"name": "Traceroute", "colour": "#dbdc7f"},
+                    {"name": "W3af", "colour": "#dbdc7f"},
+                    {"name": "WarVOX", "colour": "#dbdc7f"},
+                    {"name": "Wireshark", "colour": "#dbdc7f"},
+                    {"name": "Xplico", "colour": "#dbdc7f"},
+                    {"name": "Xymon", "colour": "#dbdc7f"},
+                    {"name": "Zabbix", "colour": "#dbdc7f"},
+                    {"name": "Zenoss", "colour": "#dbdc7f"},
+                    {"name": "Zentyal", "colour": "#dbdc7f"}
+                ]
+            },
+            {"name": "Secure Shell", "children":
+              [
+                {"name": "Cyberduck", "colour": "#dbdc7f"},
+                {"name": "Lsh", "colour": "#dbdc7f"},
+                {"name": "OpenSSH", "colour": "#dbdc7f"},
+                {"name": "PuTTY", "colour": "#dbdc7f"}
+              ]
+            },
+            {"name": "Security software", "children":
+              [
+                {"name": "ACARM-ng", "colour": "#dbdc7f"},
+                {"name": "Aircrack-ng", "colour": "#dbdc7f"},
+                {"name": "Tails (operating system)", "colour": "#dbdc7f"},
+                {"name": "Apache Shiro", "colour": "#dbdc7f"},
+                {"name": "Armitage (computing)", "colour": "#dbdc7f"},
+                {"name": "Arptables", "colour": "#dbdc7f"},
+                {"name": "Autopsy (software)", "colour": "#dbdc7f"},
+                {"name": "Bro (software)", "colour": "#dbdc7f"},
+                {"name": "Buck-security", "colour": "#dbdc7f"},
+                {"name": "Central Authentication Service", "colour": "#dbdc7f"},
+                {"name": "Chntpw", "colour": "#dbdc7f"},
+                {"name": "Clam AntiVirus", "colour": "#dbdc7f"},
+                {"name": "ClamWin", "colour": "#dbdc7f"},
+                {"name": "Cloudvpn", "colour": "#dbdc7f"},
+                {"name": "Cryptlib", "colour": "#dbdc7f"},
+                {"name": "Cryptmount", "colour": "#dbdc7f"},
+                {"name": "Cryptocat", "colour": "#dbdc7f"},
+                {"name": "DaveGrohl (software)", "colour": "#dbdc7f"},
+                {"name": "DenyHosts", "colour": "#dbdc7f"},
+                {"name": "Digital Forensics Framework", "colour": "#dbdc7f"},
+                {"name": "DiskCryptor", "colour": "#dbdc7f"},
+                {"name": "Distributed Access Control System", "colour": "#dbdc7f"},
+                {"name": "Dropbear (software)", "colour": "#dbdc7f"},
+                {"name": "DSploit", "colour": "#dbdc7f"},
+                {"name": "Fail2ban", "colour": "#dbdc7f"},
+                {"name": "FireHOL", "colour": "#dbdc7f"},
+                {"name": "FLAIM", "colour": "#dbdc7f"},
+                {"name": "FreeOTFE", "colour": "#dbdc7f"},
+                {"name": "FreeS/WAN", "colour": "#dbdc7f"},
+                {"name": "Gateway Anti-Virus", "colour": "#dbdc7f"},
+                {"name": "GnuTLS", "colour": "#dbdc7f"},
+                {"name": "Gpg4win", "colour": "#dbdc7f"},
+                {"name": "GPGTools", "colour": "#dbdc7f"},
+                {"name": "Hash Code cracker", "colour": "#dbdc7f"},
+                {"name": "HijackThis", "colour": "#dbdc7f"},
+                {"name": "HTTP Switchboard", "colour": "#dbdc7f"},
+                {"name": "Immunix", "colour": "#dbdc7f"},
+                {"name": "Ipchains", "colour": "#dbdc7f"},
+                {"name": "IPCop", "colour": "#dbdc7f"},
+                {"name": "IPFire", "colour": "#dbdc7f"},
+                {"name": "Java Anon Proxy", "colour": "#dbdc7f"},
+                {"name": "John the Ripper", "colour": "#dbdc7f"},
+                {"name": "Ksplice", "colour": "#dbdc7f"},
+                {"name": "Libgcrypt", "colour": "#dbdc7f"},
+                {"name": "LibreSSL", "colour": "#dbdc7f"},
+                {"name": "Libreswan", "colour": "#dbdc7f"},
+                {"name": "Lsh", "colour": "#dbdc7f"},
+                {"name": "Lynis", "colour": "#dbdc7f"},
+                {"name": "MatrixSSL", "colour": "#dbdc7f"},
+                {"name": "Metasploit Project", "colour": "#dbdc7f"},
+                {"name": "MyDLP", "colour": "#dbdc7f"},
+                {"name": "Nessus (software)", "colour": "#dbdc7f"},
+                {"name": "Netfilter", "colour": "#dbdc7f"},
+                {"name": "Nettle (cryptographic library)", "colour": "#dbdc7f"},
+                {"name": "Nikto Web Scanner", "colour": "#dbdc7f"},
+                {"name": "NoScript", "colour": "#dbdc7f"},
+                {"name": "NotScripts", "colour": "#dbdc7f"},
+                {"name": "NuFW", "colour": "#dbdc7f"},
+                {"name": "Off-the-Record Messaging", "colour": "#dbdc7f"},
+                {"name": "Online Armor Personal Firewall", "colour": "#dbdc7f"},
+                {"name": "Open Source Tripwire", "colour": "#dbdc7f"},
+                {"name": "OpenConnect", "colour": "#dbdc7f"},
+                {"name": "OpenDJ", "colour": "#dbdc7f"},
+                {"name": "OpenDS", "colour": "#dbdc7f"},
+                {"name": "OpenPAM", "colour": "#dbdc7f"},
+                {"name": "OpenPuff", "colour": "#dbdc7f"},
+                {"name": "OpenSSH", "colour": "#dbdc7f"},
+                {"name": "OpenSSL", "colour": "#dbdc7f"},
+                {"name": "Openswan", "colour": "#dbdc7f"},
+                {"name": "OpenVAS", "colour": "#dbdc7f"},
+                {"name": "OpenVPN", "colour": "#dbdc7f"},
+                {"name": "Ophcrack", "colour": "#dbdc7f"},
+                {"name": "OSSEC", "colour": "#dbdc7f"},
+                {"name": "PolarSSL", "colour": "#dbdc7f"},
+                {"name": "Prey (software)", "colour": "#dbdc7f"},
+                {"name": "Pwdump", "colour": "#dbdc7f"},
+                {"name": "Sagan (software)", "colour": "#dbdc7f"},
+                {"name": "Selective file dumper", "colour": "#dbdc7f"},
+                {"name": "The Sleuth Kit", "colour": "#dbdc7f"},
+                {"name": "Snort (software)", "colour": "#dbdc7f"},
+                {"name": "SSL-Explorer: Community Edition", "colour": "#dbdc7f"},
+                {"name": "Stealthy", "colour": "#dbdc7f"},
+                {"name": "Stockade (software)", "colour": "#dbdc7f"},
+                {"name": "StrongSwan", "colour": "#dbdc7f"},
+                {"name": "Stunnel", "colour": "#dbdc7f"},
+                {"name": "Suricata (software)", "colour": "#dbdc7f"},
+                {"name": "SystemRescueCD", "colour": "#dbdc7f"},
+                {"name": "TCP Wrapper", "colour": "#dbdc7f"},
+                {"name": "TextSecure", "colour": "#dbdc7f"},
+                {"name": "Thresh (software)", "colour": "#dbdc7f"},
+                {"name": "TorChat", "colour": "#dbdc7f"},
+                {"name": "Uncomplicated Firewall", "colour": "#dbdc7f"},
+                {"name": "UT-VPN", "colour": "#dbdc7f"},
+                {"name": "Dacloud.me", "colour": "#dbdc7f"},
+                {"name": "VPNBook", "colour": "#dbdc7f"},
+                {"name": "VTun", "colour": "#dbdc7f"},
+                {"name": "Vyatta", "colour": "#dbdc7f"},
+                {"name": "VyOS", "colour": "#dbdc7f"},
+                {"name": "W3af", "colour": "#dbdc7f"},
+                {"name": "WarVOX", "colour": "#dbdc7f"},
+                {"name": "X-Wrt", "colour": "#dbdc7f"},
+                {"name": "Zentyal", "colour": "#dbdc7f"}
+              ]
+            }
+          ]
+        },
+    {"name": "Theology", "children":
+      [
+        {"name": "Bible study tools", "children":
+          [
+            {"name": "BibleDesktop", "colour": "#dbdc7f"},
+            {"name": "BibleTime", "colour": "#dbdc7f"},
+            {"name": "Go Bible", "colour": "#dbdc7f"},
+            {"name": "jSword", "colour": "#dbdc7f"},
+            {"name": "MacSword", "colour": "#dbdc7f"},
+            {"name": "Marcionr", "colour": "#dbdc7f"},
+            {"name": "openlp.org", "colour": "#dbdc7f"},
+            {"name": "SwordBible", "colour": "#dbdc7f"},
+            {"name": "The SWORD Project for Windows", "colour": "#dbdc7f"},
+            {"name": "Xiphos", "colour": "#dbdc7f"}
+          ]
+        }
+      ]
+    },
+    {"name": "Typesetting", "children":
+      [
+        {"name": "FIGlet", "colour": "#dbdc7f"},
+        {"name": "FreeType", "colour": "#dbdc7f"},
+        {"name": "Graphite (SIL)", "colour": "#dbdc7f"},
+        {"name": "Groff (software)", "colour": "#dbdc7f"},
+        {"name": "IText", "colour": "#dbdc7f"},
+        {"name": "LaTeX", "colour": "#dbdc7f"},
+        {"name": "Lout (software)", "colour": "#dbdc7f"},
+        {"name": "Scribus", "colour": "#dbdc7f"},
+        {"name": "Troff", "colour": "#dbdc7f"}
+      ]
+    }
+  ]
+}
