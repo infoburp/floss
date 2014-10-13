@@ -1,7 +1,7 @@
 var titlex = 0;
 var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
 	height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0) * 4;
-var margin = {top: 20, right: 0, bottom: 20, left: 84};
+var margin = {top: 0, right: 0, bottom: 20, left: 84};
     width = width - margin.right - margin.left;
     height = height - margin.top - margin.bottom;
 var i = 0,
