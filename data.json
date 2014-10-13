@@ -975,12 +975,12 @@
         {"name": "World Wide Web", "children":
           [
             {"name": "Apache Cocoon"},
-            {"name": "Apache"},
+            {"name": "Apache HTTP Server"},
             {"name": "AWStats"},
             {"name": "BookmarkSync"},
-            {"name": "Cherokee"},
+            {"name": "Cherokee (web server)"},
             {"name": "curl-loader"},
-            {"name": "Hiawatha"},
+            {"name": "Hiawatha (web server)"},
             {"name": "HTTP File Server"},
             {"name": "lighttpd"},
             {"name": "nginx"},
