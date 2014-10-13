@@ -77,7 +77,7 @@ function update() {
       .call(force.drag);
 
   nodeEnter.append("circle")
-      .attr("r", function(d) { return Math.sqrt(d.size) / 10 || 4.5; });
+      .attr("r", 32);
 
   nodeEnter.append("text")
       .attr("dy", ".35em")
