@@ -98,8 +98,8 @@
         {"name": "Finance", "children":
           [
             {"name": "Adempiere"},
-            {"name": "Bitco"},
-            {"name": "Bonita Open Solution"},
+            {"name": "Bitcoin"},
+            {"name": "Bonita BPM"},
             {"name": "Compiere"},
             {"name": "Cyclos"},
             {"name": "Dolibarr"},
@@ -114,28 +114,27 @@
             {"name": "JQuantLib"},
             {"name": "KMyMoney"},
             {"name": "LedgerSMB"},
-            {"name": "Mifos"},
+            {"name": "Mifos X"},
             {"name": "Openbravo"},
             {"name": "Odoo"},
             {"name": "OrangeHRM"},
             {"name": "Postbooks"},
             {"name": "QuickFIX"},
-            {"name": "QuickFIX/J"},
-            {"name": "SQL Ledger"},
+            {"name": "SQL-Ledger"},
             {"name": "SugarCRM"},
             {"name": "Tryton"},
             {"name": "TurboCASH"},
             {"name": "vtiger CRM"},
-            {"name": "WebER"}
+            {"name": "WebERP"}
           ]
         },
         {"name": "Integrated library system", "children":
           [
-            {"name": "Evergreen"},
-            {"name": "Koha"},
+            {"name": "Evergreen (software)"},
+            {"name": "Koha (software)"},
             {"name": "NewGenLib"},
             {"name": "OpenBiblio"},
-            {"name": "PMB"},
+            {"name": "PhpMyBibli"},
             {"name": "refbase"}
           ]
         },
@@ -335,7 +334,7 @@
             {"name": "X-12-ARIMA"}
           ]
         },
-        {"name": "Survey", "children": 
+        {"name": "Opinion poll", "children": 
           [
             {"name": "LimeSurvey"}
           ]
