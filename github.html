@@ -105,7 +105,7 @@ function color(d) {
 // Toggle children on click.
 function click(d) {
   var usernamegithub = d.name;
-  document.getElementById("githubpage").innerHTML = '<iframe src="https://github.com/' + usernamegithub + '></iframe>';
+  document.getElementById("githubpage").innerHTML = usernamegithub;
   if (d3.event.defaultPrevented) return; // ignore drag
   if (d.children) {
     d._children = d.children;
