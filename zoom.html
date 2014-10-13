@@ -43,7 +43,7 @@ var color = d3.scale.linear()
 
 var pack = d3.layout.pack()
     .padding(2)
-    .size([diameter - margin, diameter - margin])
+    .size([diameter, diameter])
     .value(function(d) { return d.size; })
 
 var svg = d3.select("body").append("svg")
