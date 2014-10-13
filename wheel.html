@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>free and open source software.</title>
-<meta name="description" content="A visualisation of free and open source software.">
+<title>Open Source Software Wheel</title>
+<meta name="description" content="A visualisation of Open Source Software.">
 <style>
-@import url(wheel.css);
+@import url(./style.css);
 path {
   stroke: #000;
   stroke-width: 1.5;
@@ -31,8 +32,8 @@ p#intro {
 }
 </style>
 
-
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<div id="vis">&nbsp;</div>
+<script src="http://d3js.org/d3.v3.js"></script>
 <script>
 var width = 840,
     height = width,
@@ -52,10 +53,6 @@ var vis = div.append("svg")
   .append("g")
     .attr("transform", "translate(" + [radius + padding, radius + padding] + ")");
 
-div.append("p")
-    .attr("id", "intro")
-    .text("Click to zoom!");
-
 var partition = d3.layout.partition()
     .sort(null)
     .value(function(d) { return 5.8 - d.depth; });
@@ -66,7 +63,7 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.max(0, d.y ? y(d.y) : d.y); })
     .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
 
-d3.json("wheeltest.json", function(error, json) {
+d3.json("wheel.json", function(error, json) {
   var nodes = partition.nodes({children: json});
 
   var path = vis.selectAll("path").data(nodes);
@@ -175,7 +172,7 @@ function brightness(rgb) {
   return rgb.r * .299 + rgb.g * .587 + rgb.b * .114;
 }
 </script>
-
 <script>
   if (top != self) top.location.replace(location);
 </script>
+
