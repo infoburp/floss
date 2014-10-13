@@ -1,96 +1,99 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<style>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <title>Sunburst with Distortion</title>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.4.5"></script>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.layout.js?2.4.5"></script>
+    <style type="text/css">
 
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: auto;
-  position: relative;
-  width: 960px;
+path {
+  stroke: #fff;
 }
 
-form {
-  position: absolute;
-  right: 10px;
-  top: 10px;
-}
+    </style>
+  </head>
+  <body>
+    <script type="text/javascript">
 
-.node {
-  border: solid 1px white;
-  font: 10px sans-serif;
-  line-height: 12px;
-  overflow: hidden;
-  position: absolute;
-  text-indent: 2px;
-}
+var w = 960,
+    h = 500,
+    r = 230,
+    color = d3.scale.category20c();
 
-</style>
-<form>
-  <label><input type="radio" name="mode" value="size" checked> Size</label>
-  <label><input type="radio" name="mode" value="count"> Count</label>
-</form>
-<script src="http://d3js.org/d3.v3.min.js"></script>
-<script>
-
-var margin = {top: 40, right: 10, bottom: 10, left: 10},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
-
-var color = d3.scale.category20c();
-
-var treemap = d3.layout.treemap()
-    .size([width, height])
-    .sticky(true)
+var partition = d3.layout.partition()
+    .size([2 * Math.PI, r])
     .value(function(d) { return d.size; });
 
-var div = d3.select("body").append("div")
-    .style("position", "relative")
-    .style("width", (width + margin.left + margin.right) + "px")
-    .style("height", (height + margin.top + margin.bottom) + "px")
-    .style("left", margin.left + "px")
-    .style("top", margin.top + "px");
+var arc = d3.svg.arc()
+    .startAngle(function(d) { return d.x; })
+    .endAngle(function(d) { return d.x + d.dx; })
+    .innerRadius(function(d) { return d.y; })
+    .outerRadius(function(d) { return d.y + d.dy; });
 
-d3.json("flare.json", function(error, root) {
-  var node = div.datum(root).selectAll(".node")
-      .data(treemap.nodes)
-    .enter().append("rect")
-      .attr("x", function(d) { return x(d.x); })
-      .attr("y", function(d) { return y(d.y); })
-      .attr("width", function(d) { return x(d.dx); })
-      .attr("height", function(d) { return y(d.dy); })
-      .attr("fill", function(d) { return color((d.children ? d : d.parent).key); })
-      .on("click", clicked);
+var svg = d3.select("body").append("svg:svg")
+    .attr("width", w)
+    .attr("height", h)
+  .append("svg:g")
+    .attr("transform", "translate(" + w / 2 + "," + h / 2 + ")");
 
-  d3.selectAll("input").on("change", function change() {
-    var value = this.value === "count"
-        ? function() { return 1; }
-        : function(d) { return d.size; };
-
-    node
-        .data(treemap.value(value).nodes)
-      .transition()
-        .duration(1500)
-        .call(position);
-  });
+d3.json("readme.json", function(root) {
+  path = svg.data([root]).selectAll("path")
+      .data(partition.nodes)
+    .enter().append("svg:path")
+      .attr("d", arc)
+      .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
+      .on("click", magnify)
+      .each(stash);
 });
-function clicked(d) {
-  d.size--;
-    x.domain([d.x, d.x + d.dx]);
-  y.domain([d.y, 1]).range([d.y ? 20 : 0, height]);
 
-  rect.transition()
+// Distort the specified node to 80% of its parent.
+function magnify(node) {
+  if (parent = node.parent) {
+    var parent,
+        x = parent.x,
+        k = .8;
+    parent.children.forEach(function(sibling) {
+      x += reposition(sibling, x, sibling === node
+          ? parent.dx * k / node.value
+          : parent.dx * (1 - k) / (parent.value - node.value));
+    });
+  } else {
+    reposition(node, 0, node.dx / node.value);
+  }
+
+  path.transition()
       .duration(750)
-      .attr("x", function(d) { return x(d.x); })
-      .attr("y", function(d) { return y(d.y); })
-      .attr("width", function(d) { return x(d.x + d.dx) - x(d.x); })
-      .attr("height", function(d) { return y(d.y + d.dy) - y(d.y); });
+      .attrTween("d", arcTween);
 }
 
-function position() {
-  this.style("left", function(d) { return d.x + "px"; })
-      .style("top", function(d) { return d.y + "px"; })
-      .style("width", function(d) { return Math.max(0, d.dx - 1) + "px"; })
-      .style("height", function(d) { return Math.max(0, d.dy - 1) + "px"; });
+// Recursively reposition the node at position x with scale k.
+function reposition(node, x, k) {
+  node.x = x;
+  if (node.children && (n = node.children.length)) {
+    var i = -1, n;
+    while (++i < n) x += reposition(node.children[i], x, k);
+  }
+  return node.dx = node.value * k;
 }
 
-</script>
+// Stash the old values for transition.
+function stash(d) {
+  d.x0 = d.x;
+  d.dx0 = d.dx;
+}
+
+// Interpolate the arcs in data space.
+function arcTween(a) {
+  var i = d3.interpolate({x: a.x0, dx: a.dx0}, a);
+  return function(t) {
+    var b = i(t);
+    a.x0 = b.x;
+    a.dx0 = b.dx;
+    return arc(b);
+  };
+}
+
+    </script>
+  </body>
+</html>
