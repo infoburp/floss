@@ -579,12 +579,12 @@
       [
         {"name": "Advertising", "children":
           [
-            {"name": "OpenX"}
+            {"name": "Revive Adserver"}
           ]
         },
         {"name": "Communication", "children":
           [
-            {"name": "Asterisk"},
+            {"name": "Asterisk (PBX)"},
             {"name": "Ekiga"},
             {"name": "FreePBX"},
             {"name": "FreeSWITCH"},
@@ -592,7 +592,7 @@
             {"name": "QuteCom"},
             {"name": "Enterprise Communications System sipXecs"},
             {"name": "Slrn"},
-            {"name": "Twinkle"}
+            {"name": "Twinkle (software)"}
           ]
         },
         {"name": "Email", "children":
@@ -744,7 +744,6 @@
             {"name": "ERC (software)"},
             {"name": "Finch (software)"},
             {"name": "Fire (instant messaging client)"},
-            {"name": "HexChat"},
             {"name": "Ii (IRC client)"},
             {"name": "Instantbird"},
             {"name": "IrcII"},
@@ -774,12 +773,12 @@
           [
             {"name": "Apache Axis2"},
             {"name": "Apache Geronimo"},
-            {"name": "Bonita Open Solution(software)"},
-            {"name": "GlassFish Application Server"},
-            {"name": "Jakarta Tomcat"},
-            {"name": "JBoss Application Server"},
-            {"name": "ObjectWeb JOnAS"},
-            {"name": "TAO (software)"}
+            {"name": "Apache Tomcat"},
+            {"name": "Bonita BPM"},
+            {"name": "GlassFish"},
+            {"name": "JOnAS"},
+            {"name": "TAO (software)"},
+            {"name": "WildFly"}
           ]
         },
         {"name": "News aggregator", "children":
@@ -847,11 +846,11 @@
         },
         {"name": "Remote Access Service", "children":
           [
-            {"name": "FreeNX"},
+            {"name": "NX technology"},
             {"name": "OpenVPN"},
             {"name": "rdesktop"},
-            {"name": "Synergy"},
-            {"name": "VNC (RealVNC, TightVNC, UltraVNC)"},
+            {"name": "Synergy (software)"},
+            {"name": "Virtual Network Computing"},
             {"name": "FreeRDP"},
             {"name": "Remmina"}
           ]
@@ -907,7 +906,7 @@
             {"name": "Arora (web browser)"},
             {"name": "AWeb"},
             {"name": "Beonex Communicator"},
-            {"name": "Camino"},
+            {"name": "Camino (web browser)"},
             {"name": "Charon (web browser)"},
             {"name": "Chromium (web browser)"},
             {"name": "Classilla"},
@@ -962,7 +961,7 @@
         },
         {"name": "Webcam", "children":
           [
-            {"name": "Cheese"}
+            {"name": "Cheese (software)"}
           ]
         },
         {"name": "Webgrabber", "children":
@@ -1011,7 +1010,7 @@
             {"name": "Chamilo"},
             {"name": "DoceboLMS"},
             {"name": "eFront"},
-            {"name": "FlightPath"},
+            {"name": "FlightPath (software)"},
             {"name": "GCompris"},
             {"name": "Gnaural"},
             {"name": "IUP Portfolio"},
@@ -1020,7 +1019,7 @@
             {"name": "Omeka"},
             {"name": "openSIS"},
             {"name": "Sakai Project"},
-            {"name": "SWAD"},
+            {"name": "SWAD (software)"},
             {"name": "Tux Paint"}
           ]
         },
@@ -1047,7 +1046,7 @@
         },
         {"name": "Language", "children":
           [
-            {"name": "Kiten"},
+            {"name": "Kiten (program)"},
             {"name": "KVerbos"}
           ]
         },
