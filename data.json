@@ -1108,11 +1108,10 @@
                     {"name": "WINE"}
                 ]
             },
-            {"name": "0 A.D."},
-            {"name": "2048"},
+            {"name": "0 A.D. (video game)"},
+            {"name": "2048 (video game)"},
             {"name": "Advanced Strategic Command"},
             {"name": "Andy's Super Great Park"},
-            {"name": "Adventure 1976"},
             {"name": "Ancient Beast"},
             {"name": "Angband"},
             {"name": "Ardentryst"},
@@ -1135,6 +1134,7 @@
             {"name": "Chaotic Rage"},
             {"name": "Cheeseman the Game"},
             {"name": "Chocolate Doom"},
+            {"name": "Colossal Cave Adventure"},
             {"name": "Crack Attack"},
             {"name": "Crimson Fields"},
             {"name": "Chromium B.S.U."},
