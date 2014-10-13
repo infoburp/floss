@@ -109,7 +109,9 @@ function color(d) {
 // Toggle children on click.
 function click(d) {
   var usernamegithub = d.name;
-  document.getElementById("githubpage").innerHTML = '<iframe id="gp" src="https://github.com/' + usernamegithub + '"></iframe>';
+  var url='https://github.com/' + usernamegithub;
+  var el = document.getElementById('ifrm');
+  el.src = url; // assign url to src property
   if (d3.event.defaultPrevented) return; // ignore drag
   if (d.children) {
     d._children = d.children;
@@ -135,4 +137,4 @@ function flatten(root) {
 }
 
 </script>
-<div id="githubpage"></div>
+<div id="githubpage"><iframe id="ifrm" src="https://github.com"></iframe></div>
