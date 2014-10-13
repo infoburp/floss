@@ -23,6 +23,12 @@ overflow-x: hidden;
 }
 svg{
 }
+#bloglink {
+	position:absolute;
+	top:12px;
+	left:12px;
+	
+}
 #article {
 	background-color:white;
 	z-index:2;
