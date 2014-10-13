@@ -1,0 +1,2756 @@
+{
+  "name":"",
+  "children": [
+    {
+      "name": "Computing",
+      "children": [
+        {"name": "Artificial intelligence", "children":
+          [
+            {"name": "Artificial general intelligence", "children": 
+              [
+                {"name": "OpenCog", "size": 8192}
+              ]
+            },
+            {"name": "Computer vision", "children":
+              [
+                {"name": "AForge.NET", "size": 8192},
+                {"name": "OpenCV", "size": 8192}
+              ]
+            },
+            {"name": "Machine learning", "children":
+              [
+                {"name": "Data mining", "size": 8192},
+                {"name": "R (programming language)", "size": 8192}
+              ]
+            },
+            {"name": "Planning", "children":
+              [
+                {"name": "TREX", "size": 8192}
+              ]
+            },
+            {"name": "Robotics", "children":
+              [
+                {"name": "Robot Operating System", "size": 8192}
+              ]
+            }
+          ]
+        },
+        {"name": "Computer-aided design", "children": 
+          [
+            {"name": "Electronic design automation", "children":
+              [
+                {"name": "ChipVault", "size": 8192},
+                {"name": "Electric (software)", "size": 8192},
+                {"name": "FreePCB", "size": 8192},
+                {"name": "Fritzing", "size": 8192},
+                {"name": "GEDA", "size": 8192},
+                {"name": "GTKWave", "size": 8192},
+                {"name": "Icarus Verilog", "size": 8192},
+                {"name": "KiCad", "size": 8192},
+                {"name": "KTechLab", "size": 8192},
+                {"name": "Oregano (software)", "size": 8192},
+                {"name": "PCB (software)", "size": 8192},
+                {"name": "Quite Universal Circuit Simulator", "size": 8192},
+                {"name": "SapWin", "size": 8192},
+                {"name": "Sigrok", "size": 8192},
+                {"name": "Verilator", "size": 8192},
+                {"name": "XCircuit", "size": 8192}
+              ]
+            },
+            {"name": "Archimedes (CAD)", "size": 8192},
+            {"name": "Art of Illusion", "size": 8192},
+            {"name": "AutoQ3D Community", "size": 8192},
+            {"name": "Blender (software)", "size": 8192},
+            {"name": "BRL-CAD", "size": 8192},
+            {"name": "Calculix", "size": 8192},
+            {"name": "CloudCompare", "size": 8192},
+            {"name": "Code Aster", "size": 8192},
+            {"name": "Electric (software)", "size": 8192},
+            {"name": "Elmer FEM solver", "size": 8192},
+            {"name": "Embroidermodder", "size": 8192},
+            {"name": "FreeCAD", "size": 8192},
+            {"name": "HeeksCAD", "size": 8192},
+            {"name": "LibreCAD", "size": 8192},
+            {"name": "Magic (software)", "size": 8192},
+            {"name": "MeshLab", "size": 8192},
+            {"name": "MoFEM JosePH", "size": 8192},
+            {"name": "OOFEM", "size": 8192},
+            {"name": "Open Cascade Technology", "size": 8192},
+            {"name": "OpenSCAD", "size": 8192},
+            {"name": "QCad", "size": 8192},
+            {"name": "Salome (software)", "size": 8192},
+            {"name": "SAMoCAD", "size": 8192},
+            {"name": "SolveSpace", "size": 8192},
+            {"name": "Sunflow", "size": 8192},
+            {"name": "Sweet Home 3D", "size": 8192},
+            {"name": "Tachyon (software)", "size": 8192},
+            {"name": "Wings 3D", "size": 8192},
+            {"name": "XFOIL", "size": 8192},
+            {"name": "Z88 FEM software", "size": 8192}
+          ]},
+        {"name": "Computer simulation", "children":
+              [
+                {"name": "Blender (software)", "size": 8192},
+                {"name": "SimPy", "size": 8192},
+                {"name": "FlightGear", "size": 8192}
+              ]
+        },
+        {"name": "Finance", "children":
+          [
+            {"name": "Adempiere", "size": 8192},
+            {"name": "Bitco", "size": 8192},
+            {"name": "Bonita Open Solution", "size": 8192},
+            {"name": "Compiere", "size": 8192},
+            {"name": "Cyclos", "size": 8192},
+            {"name": "Dolibarr", "size": 8192},
+            {"name": "Ebase", "size": 8192},
+            {"name": "Frontaccounting", "size": 8192},
+            {"name": "GnuCash", "size": 8192},
+            {"name": "Grisbi", "size": 8192},
+            {"name": "HomeBank", "size": 8192},
+            {"name": "jFin", "size": 8192},
+            {"name": "JFire", "size": 8192},
+            {"name": "JGnash", "size": 8192},
+            {"name": "JQuantLib", "size": 8192},
+            {"name": "KMyMoney", "size": 8192},
+            {"name": "LedgerSMB", "size": 8192},
+            {"name": "Mifos", "size": 8192},
+            {"name": "Openbravo", "size": 8192},
+            {"name": "Odoo", "size": 8192},
+            {"name": "OrangeHRM", "size": 8192},
+            {"name": "Postbooks", "size": 8192},
+            {"name": "QuickFIX", "size": 8192},
+            {"name": "QuickFIX/J", "size": 8192},
+            {"name": "SQL Ledger", "size": 8192},
+            {"name": "SugarCRM", "size": 8192},
+            {"name": "Tryton", "size": 8192},
+            {"name": "TurboCASH", "size": 8192},
+            {"name": "vtiger CRM", "size": 8192},
+            {"name": "WebER", "size": 8192}
+          ]
+        },
+        {"name": "Integrated library system", "children":
+          [
+            {"name": "Evergreen", "size": 8192},
+            {"name": "Koha", "size": 8192},
+            {"name": "NewGenLib", "size": 8192},
+            {"name": "OpenBiblio", "size": 8192},
+            {"name": "PMB", "size": 8192},
+            {"name": "refbase", "size": 8192}
+          ]
+        },
+        {"name": "Graphics software", "children":
+          [
+            {"name": "Darktable", "size": 8192},
+            {"name": "digiKam", "size": 8192},
+            {"name": "GIMP", "size": 8192},
+            {"name": "Inkscape", "size": 8192}
+          ]
+        },
+        {"name": "Mathematics", "size": 8192},
+        {"name": "Reference management software", "size": 8192},
+        {"name": "Science", "children":
+          [
+        {"name": "Bioinformatics", "children": 
+          [
+            {"name": "AMPHORA", "size": 8192},
+            {"name": "Anduril", "size": 8192},
+            {"name": "AutoDock", "size": 8192},
+            {"name": "BALL", "size": 8192},
+            {"name": "Bioclipse", "size": 8192},
+            {"name": "Bioconductor", "size": 8192},
+            {"name": "BioJava", "size": 8192},
+            {"name": "BioJS", "size": 8192},
+            {"name": "BioMOBY", "size": 8192},
+            {"name": "BioPerl", "size": 8192},
+            {"name": "BioPHP", "size": 8192},
+            {"name": "Biopython", "size": 8192},
+            {"name": "BioRuby", "size": 8192},
+            {"name": "EMBOSS", "size": 8192},
+            {"name": "Galaxy (computational biology)", "size": 8192},
+            {"name": "GenePattern", "size": 8192},
+            {"name": "Geworkbench", "size": 8192},
+            {"name": "Generic Model Organism Database", "size": 8192},
+            {"name": "GenGIS", "size": 8192},
+            {"name": "Genomespace", "size": 8192},
+            {"name": "GENtle", "size": 8192},
+            {"name": "Integrated Genome Browser", "size": 8192},
+            {"name": "InterMine", "size": 8192},
+            {"name": "LabKey Server", "size": 8192},
+            {"name": "PathVisio", "size": 8192},
+            {"name": "Staden Package", "size": 8192},
+            {"name": "Taverna workbench", "size": 8192},
+            {"name": "UGENE", "size": 8192}
+          ]
+        },
+        {"name": "Cheminformatics", "children": 
+          [
+            {"name": "Chemistry Development Kit", "size": 8192},
+            {"name": "JOELib", "size": 8192},
+            {"name": "Open Babel", "size": 8192}
+          ]
+        },
+        {"name": "Geographic information system", "children": 
+          [
+            {"name": "Capaware", "size": 8192},
+            {"name": "Chameleon (GIS)", "size": 8192},
+            {"name": "Deegree", "size": 8192},
+            {"name": "FWTools", "size": 8192},
+            {"name": "GDAL", "size": 8192},
+            {"name": "Generic Mapping Tools", "size": 8192},
+            {"name": "GeoDA", "size": 8192},
+            {"name": "Geomajas", "size": 8192},
+            {"name": "GeoNetwork opensource", "size": 8192},
+            {"name": "GeoServer", "size": 8192},
+            {"name": "GeoTools", "size": 8192},
+            {"name": "GPSBabel", "size": 8192},
+            {"name": "GRASS GIS", "size": 8192},
+            {"name": "GvSIG", "size": 8192},
+            {"name": "ILWIS", "size": 8192},
+            {"name": "JOSM", "size": 8192},
+            {"name": "JUMP GIS", "size": 8192},
+            {"name": "Kosmo", "size": 8192},
+            {"name": "Leaflet (software)", "size": 8192},
+            {"name": "LibLAS", "size": 8192},
+            {"name": "Mapbender", "size": 8192},
+            {"name": "MapGuide Open Source", "size": 8192},
+            {"name": "Mapnik", "size": 8192},
+            {"name": "MapServer", "size": 8192},
+            {"name": "MapWindow GIS", "size": 8192},
+            {"name": "Open Source Geospatial Foundation", "size": 8192},
+            {"name": "OpenEV", "size": 8192},
+            {"name": "OpenLayers", "size": 8192},
+            {"name": "PostGIS", "size": 8192},
+            {"name": "Potlatch (software)", "size": 8192},
+            {"name": "Pycsw", "size": 8192},
+            {"name": "QGIS", "size": 8192},
+            {"name": "R.sun", "size": 8192},
+            {"name": "SAGA GIS", "size": 8192},
+            {"name": "TerraAmazon", "size": 8192},
+            {"name": "TerraLib", "size": 8192},
+            {"name": "TerraView", "size": 8192},
+            {"name": "UDig", "size": 8192},
+            {"name": "Whitebox Geospatial Analysis Tools", "size": 8192}
+          ]
+        },
+        {"name": "Microscope image processing", "children": 
+          [
+            {"name": "CellProfiler", "size": 8192},
+            {"name": "Endrov", "size": 8192},
+            {"name": "FIJI (software)", "size": 8192},
+            {"name": "ImageJ", "size": 8192}
+          ]
+        },
+        {"name": "Molecular dynamics", "children": 
+          [
+            {"name": "Ascalaph Designer", "size": 8192},
+            {"name": "GROMACS", "size": 8192},
+            {"name": "LAMMPS", "size": 8192},
+            {"name": "MDynaMix", "size": 8192},
+            {"name": "NAMD", "size": 8192}
+          ]
+        },
+        {"name": "Molecule editor", "children": 
+          [
+            {"name": "Avogadro", "size": 8192},
+            {"name": "BALLView", "size": 8192},
+            {"name": "Jmol", "size": 8192},
+            {"name": "Molekel", "size": 8192},
+            {"name": "MeshLab", "size": 8192},
+            {"name": "PyMOL", "size": 8192},
+            {"name": "QuteMol", "size": 8192},
+            {"name": "RasMol", "size": 8192}
+          ]
+        },
+        {"name": "Nanotechnology", "children": 
+          [
+            {"name": "Ninithi", "size": 8192}
+          ]
+        },
+        {"name": "Plot (graphics)", "children": 
+          [
+            {"name": "Descartes (plotting tool)", "size": 8192},
+            {"name": "EpsTk", "size": 8192},
+            {"name": "Fityk", "size": 8192},
+            {"name": "GGobi", "size": 8192},
+            {"name": "Ggplot2", "size": 8192},
+            {"name": "Gnuplot", "size": 8192},
+            {"name": "Grace (plotting tool)", "size": 8192},
+            {"name": "GraphCalc", "size": 8192},
+            {"name": "Graphics Layout Engine", "size": 8192},
+            {"name": "Gretl", "size": 8192},
+            {"name": "HippoDraw", "size": 8192},
+            {"name": "IDPS Software", "size": 8192},
+            {"name": "JavaGnuplotHybrid", "size": 8192},
+            {"name": "JFreeChart", "size": 8192},
+            {"name": "Kst (software)", "size": 8192},
+            {"name": "LabPlot", "size": 8192},
+            {"name": "Matplotlib", "size": 8192},
+            {"name": "MayaVi", "size": 8192},
+            {"name": "OpenPlaG", "size": 8192},
+            {"name": "OpenScientist", "size": 8192},
+            {"name": "Ploticus", "size": 8192},
+            {"name": "Plotutils", "size": 8192},
+            {"name": "PLplot", "size": 8192},
+            {"name": "QtiPlot", "size": 8192},
+            {"name": "R (programming language)", "size": 8192},
+            {"name": "ROOT", "size": 8192},
+            {"name": "SciDAVis", "size": 8192},
+            {"name": "Veusz", "size": 8192},
+            {"name": "VisIt", "size": 8192}
+          ]
+        }]},
+        {"name": "Statistics", "children": 
+          [
+            {"name": "ADaMSoft", "size": 8192},
+            {"name": "ADMB", "size": 8192},
+            {"name": "Armadillo (C++ library)", "size": 8192},
+            {"name": "DAP (software)", "size": 8192},
+            {"name": "Deeplearning4j", "size": 8192},
+            {"name": "Dlib", "size": 8192},
+            {"name": "Emacs Speaks Statistics", "size": 8192},
+            {"name": "GGobi", "size": 8192},
+            {"name": "Gretl", "size": 8192},
+            {"name": "HippoDraw", "size": 8192},
+            {"name": "Java Analysis Studio", "size": 8192},
+            {"name": "Julia (programming language)", "size": 8192},
+            {"name": "Knitr", "size": 8192},
+            {"name": "LIBSVM", "size": 8192},
+            {"name": "MLPACK (C++ library)", "size": 8192},
+            {"name": "Mlpy", "size": 8192},
+            {"name": "Mondrian (software)", "size": 8192},
+            {"name": "Neurophysiological Biomarker Toolbox", "size": 8192},
+            {"name": "OpenEpi", "size": 8192},
+            {"name": "Pandas (software)", "size": 8192},
+            {"name": "Programming with Big Data in R", "size": 8192},
+            {"name": "Ploticus", "size": 8192},
+            {"name": "PSPP", "size": 8192},
+            {"name": "R (programming language)", "size": 8192},
+            {"name": "RKWard", "size": 8192},
+            {"name": "Scikit-learn", "size": 8192},
+            {"name": "Shogun (toolbox)", "size": 8192},
+            {"name": "SOFA Statistics", "size": 8192},
+            {"name": "Sweave", "size": 8192},
+            {"name": "Torch (machine learning)", "size": 8192},
+            {"name": "X-12-ARIMA", "size": 8192}
+          ]
+        },
+        {"name": "Survey", "children": 
+          [
+            {"name": "LimeSurvey", "size": 8192}
+          ]
+        }
+      ]
+    },
+    {"name": "Assistive technology", "children":
+      [
+        {"name": "Speech", "children":
+          [
+            {"name": "CMU Sphinx", "size": 8192},
+            {"name": "Emacspeak", "size": 8192},
+            {"name": "ESpeak", "size": 8192},
+            {"name": "Festival Speech Synthesis System", "size": 8192},
+            {"name": "Modular Audio Recognition Framework", "size": 8192},
+            {"name": "NonVisual Desktop Access", "size": 8192},
+            {"name": "Text2Speech", "size": 8192}
+          ]
+        },
+        {"name": "Assistive technology", "children":
+          [
+            {"name": "Dasher", "size": 8192},
+            {"name": "Gnopernicus", "size": 8192},
+            {"name": "Virtual Magnifying Glass", "size": 8192}
+          ]
+        }
+      ]
+    },
+    {"name": "Computer data storage", "children":
+      [
+        {"name": "Backup software", "children":
+          [
+            {"name": "Advanced Maryland Automatic Network Disk Archiver", "size": 8192},
+            {"name": "Areca Backup", "size": 8192},
+            {"name": "Back In Time (software)", "size": 8192},
+            {"name": "BackupPC", "size": 8192},
+            {"name": "Bacula", "size": 8192},
+            {"name": "Box Backup", "size": 8192},
+            {"name": "Clonezilla", "size": 8192},
+            {"name": "Cobian Backup", "size": 8192},
+            {"name": "Cpio", "size": 8192},
+            {"name": "DirSync Pro", "size": 8192},
+            {"name": "Dump (program)", "size": 8192},
+            {"name": "Duplicati", "size": 8192},
+            {"name": "Duplicity (software)", "size": 8192},
+            {"name": "FlyBack", "size": 8192},
+            {"name": "Freedup", "size": 8192},
+            {"name": "FSArchiver", "size": 8192},
+            {"name": "Grsync", "size": 8192},
+            {"name": "LuckyBackup", "size": 8192},
+            {"name": "Mondo Rescue", "size": 8192},
+            {"name": "Partclone", "size": 8192},
+            {"name": "Partimage", "size": 8192},
+            {"name": "PING (software)", "size": 8192},
+            {"name": "QtdSync", "size": 8192},
+            {"name": "Redo Backup and Recovery", "size": 8192},
+            {"name": "Rsync", "size": 8192},
+            {"name": "Synkron", "size": 8192},
+            {"name": "Tar (computing)", "size": 8192},
+            {"name": "UDPCast", "size": 8192}
+          ]
+        },
+        {"name": "Database management system", "children":
+          [
+           {"name": "Apache Accumulo", "size": 8192},
+           {"name": "Apache Derby", "size": 8192},
+           {"name": "BaseX", "size": 8192},
+           {"name": "Berkeley DB", "size": 8192},
+           {"name": "BlackRay", "size": 8192},
+           {"name": "C-Store", "size": 8192},
+           {"name": "Apache Cassandra", "size": 8192},
+           {"name": "Cdb (software)", "size": 8192},
+           {"name": "Comparison of database access", "size": 8192},
+           {"name": "ConceptBase", "size": 8192},
+           {"name": "Couchbase Server", "size": 8192},
+           {"name": "Couchbase, Inc.", "size": 8192},
+           {"name": "CouchDB", "size": 8192},
+           {"name": "CSQL", "size": 8192},
+           {"name": "CUBRID", "size": 8192},
+           {"name": "Cypher Query Language", "size": 8192},
+           {"name": "Database Deployment Manager", "size": 8192},
+           {"name": "Database Management Library", "size": 8192},
+           {"name": "Dataphor", "size": 8192},
+           {"name": "Db4o", "size": 8192},
+           {"name": "Dbm", "size": 8192},
+           {"name": "Drizzle (database server)", "size": 8192},
+           {"name": "Druid (database designer)", "size": 8192},
+           {"name": "Druid (open-source data store)", "size": 8192},
+           {"name": "EnterpriseDB", "size": 8192},
+           {"name": "EXist", "size": 8192},
+           {"name": "Firebird (database server)", "size": 8192},
+           {"name": "FlockDB", "size": 8192},
+           {"name": "Fyracle", "size": 8192},
+           {"name": "Gadfly (database)", "size": 8192},
+           {"name": "GCstar", "size": 8192},
+           {"name": "Gizzard (Scala framework)", "size": 8192},
+           {"name": "GNOME-DB", "size": 8192},
+           {"name": "GT.M", "size": 8192},
+           {"name": "H-Store", "size": 8192},
+           {"name": "H2 (DBMS)", "size": 8192},
+           {"name": "Apache HBase", "size": 8192},
+           {"name": "Hibari (database)", "size": 8192},
+           {"name": "HSQLDB", "size": 8192},
+           {"name": "Hypertable", "size": 8192},
+           {"name": "InfiniDB", "size": 8192},
+           {"name": "Infobright", "size": 8192},
+           {"name": "Ingres (database)", "size": 8192},
+           {"name": "JGnash", "size": 8192},
+           {"name": "Kexi", "size": 8192},
+           {"name": "LucidDB", "size": 8192},
+           {"name": "Maatkit", "size": 8192},
+           {"name": "MariaDB", "size": 8192},
+           {"name": "MemcacheDB", "size": 8192},
+           {"name": "Metakit", "size": 8192},
+           {"name": "Mnesia", "size": 8192},
+           {"name": "MonetDB", "size": 8192},
+           {"name": "MongoDB", "size": 8192},
+           {"name": "Mozilla Raindrop", "size": 8192},
+           {"name": "MSQL-JDBC", "size": 8192},
+           {"name": "MySQL", "size": 8192},
+           {"name": "Neo (object-relational toolset)", "size": 8192},
+           {"name": "Neo4j", "size": 8192},
+           {"name": "NeoDatis ODB", "size": 8192},
+           {"name": "SciDB", "size": 8192},
+           {"name": "OpenQM", "size": 8192},
+           {"name": "OrientDB", "size": 8192},
+           {"name": "Percona Server", "size": 8192},
+           {"name": "Perst", "size": 8192},
+           {"name": "PostgreSQL", "size": 8192},
+           {"name": "Rasdaman", "size": 8192},
+           {"name": "Redis", "size": 8192},
+           {"name": "Rel (DBMS)", "size": 8192},
+           {"name": "RRDtool", "size": 8192},
+           {"name": "Sedna (database)", "size": 8192},
+           {"name": "SmallSQL", "size": 8192},
+           {"name": "Sones GraphDB", "size": 8192},
+           {"name": "SQLite", "size": 8192},
+           {"name": "Strozzi NoSQL (RDBMS)", "size": 8192},
+           {"name": "Tarantool", "size": 8192},
+           {"name": "TokuDB", "size": 8192},
+           {"name": "TokuMX", "size": 8192},
+           {"name": "Trafodion", "size": 8192},
+           {"name": "TreapDB", "size": 8192},
+           {"name": "TxtSQL", "size": 8192},
+           {"name": "Virtuoso Universal Server", "size": 8192},
+           {"name": "VoltDB", "size": 8192},
+           {"name": "Wakanda (software)", "size": 8192},
+           {"name": "WebScaleSQL", "size": 8192},
+           {"name": "Zope Object Database", "size": 8192}
+          ]
+        },
+        {"name": "Data mining", "children":
+          [
+            {"name": "Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI)", "size": 8192},
+            {"name": "SCaViS", "size": 8192},
+            {"name": "Konstanz Information Miner (KNIME)", "size": 8192},
+            {"name": "OpenNN", "size": 8192},
+            {"name": "Orange (software)", "size": 8192},
+            {"name": "RapidMiner", "size": 8192},
+            {"name": "Scriptella ETL", "size": 8192},
+            {"name": "Weka", "size": 8192},
+            {"name": "JasperSoft", "size": 8192}
+          ]
+        },
+        {"name": "Data visualization", "children":
+          [
+            {"name": "ParaView", "size": 8192},
+            {"name": "VTK", "size": 8192}
+          ]
+        },
+        {"name": "Digital asset management", "children":
+          [
+            {"name": "OpenDAM", "size": 8192}
+          ]
+        },
+        {"name": "Disk partitioning software", "children":
+          [
+            {"name": "Cfdisk", "size": 8192},
+            {"name": "FIPS (computer program)", "size": 8192},
+            {"name": "GNU Parted", "size": 8192},
+            {"name": "GParted", "size": 8192},
+            {"name": "KDE Partition Manager", "size": 8192},
+            {"name": "Ntfsresize", "size": 8192}
+          ]
+        },
+        {"name": "Enterprise search", "children":
+          [
+            {"name": "ApexKB", "size": 8192},
+            {"name": "Lucene", "size": 8192},
+            {"name": "Nutch", "size": 8192},
+            {"name": "Solr", "size": 8192},
+            {"name": "Xapian", "size": 8192}
+          ]
+        },
+        {"name": "Extract, transform, load", "children":
+          [
+            {"name": "CloverETL (Community Edition)", "size": 8192},
+            {"name": "Konstanz Information Miner (KNIME)", "size": 8192},
+            {"name": "Pentaho", "size": 8192},
+            {"name": "SpagoBI", "size": 8192},
+            {"name": "Talend", "size": 8192}
+          ]
+        },
+        {"name": "File archiver", "children":
+          [
+            {"name": "7-Zip", "size": 8192},
+            {"name": "7z", "size": 8192},
+            {"name": "AdvanceCOMP", "size": 8192},
+            {"name": "Ark (software)", "size": 8192},
+            {"name": "B1 Free Archiver", "size": 8192},
+            {"name": "Bzip2", "size": 8192},
+            {"name": "Dar (disk archiver)", "size": 8192},
+            {"name": "File Roller", "size": 8192},
+            {"name": "FreeArc", "size": 8192},
+            {"name": "Gzip", "size": 8192},
+            {"name": "Info-ZIP", "size": 8192},
+            {"name": "KGB Archiver", "size": 8192},
+            {"name": "Lempel–Ziv–Oberhumer", "size": 8192},
+            {"name": "Liblzg", "size": 8192},
+            {"name": "Libzip", "size": 8192},
+            {"name": "LZ4 (compression algorithm)", "size": 8192},
+            {"name": "Lzip", "size": 8192},
+            {"name": "Lzop", "size": 8192},
+            {"name": "LZRW", "size": 8192},
+            {"name": "OptiPNG", "size": 8192},
+            {"name": "PAQ", "size": 8192},
+            {"name": "PeaZip", "size": 8192},
+            {"name": "Pngcrush", "size": 8192},
+            {"name": "QUAD (compressor)", "size": 8192}
+          ]
+        },
+        {"name": "File System", "children":
+          [
+            {"name": "OpenAFS", "size": 8192},
+            {"name": "Tahoe-LAFS", "size": 8192},
+            {"name": "Ceph (software)", "size": 8192}
+          ]
+        }
+      ]
+    },
+    {"name": "Computer network", "children":
+      [
+        {"name": "Advertising", "children":
+          [
+            {"name": "OpenX", "size": 8192}
+          ]
+        },
+        {"name": "Communication", "children":
+          [
+            {"name": "Asterisk", "size": 8192},
+            {"name": "Ekiga", "size": 8192},
+            {"name": "FreePBX", "size": 8192},
+            {"name": "FreeSWITCH", "size": 8192},
+            {"name": "Jitsi", "size": 8192},
+            {"name": "QuteCom", "size": 8192},
+            {"name": "Enterprise Communications System sipXecs", "size": 8192},
+            {"name": "Slrn", "size": 8192},
+            {"name": "Twinkle", "size": 8192}
+          ]
+        },
+        {"name": "Email", "children":
+          [
+            {"name": "AfterLogic WebMail Lite", "size": 8192},
+            {"name": "Agorum core", "size": 8192},
+            {"name": "Alpine (email client)", "size": 8192},
+            {"name": "Amavis", "size": 8192},
+            {"name": "Anti-Spam SMTP Proxy", "size": 8192},
+            {"name": "Balsa (email client)", "size": 8192},
+            {"name": "Bogofilter", "size": 8192},
+            {"name": "Citadel/UX", "size": 8192},
+            {"name": "Claws Mail", "size": 8192},
+            {"name": "Cronos II", "size": 8192},
+            {"name": "Dada Mail", "size": 8192},
+            {"name": "DSPAM", "size": 8192},
+            {"name": "Enigmail", "size": 8192},
+            {"name": "Evolution (software)", "size": 8192},
+            {"name": "Exim", "size": 8192},
+            {"name": "Fetchmail", "size": 8192},
+            {"name": "FreePOPs", "size": 8192},
+            {"name": "FUDforum", "size": 8192},
+            {"name": "Getmail", "size": 8192},
+            {"name": "GNUMail", "size": 8192},
+            {"name": "Gnus", "size": 8192},
+            {"name": "Gnuzilla", "size": 8192},
+            {"name": "GPGMail", "size": 8192},
+            {"name": "Group-Office", "size": 8192},
+            {"name": "GroupServer", "size": 8192},
+            {"name": "Hula (software)", "size": 8192},
+            {"name": "Hypermail", "size": 8192},
+            {"name": "IlohaMail", "size": 8192},
+            {"name": "Internet Messaging Program", "size": 8192},
+            {"name": "K-9 Mail", "size": 8192},
+            {"name": "Kolab", "size": 8192},
+            {"name": "Libremail", "size": 8192},
+            {"name": "MailScanner", "size": 8192},
+            {"name": "Mailx", "size": 8192},
+            {"name": "MH Message Handling System", "size": 8192},
+            {"name": "MIMEDefang", "size": 8192},
+            {"name": "Modest (email client)", "size": 8192},
+            {"name": "Movemail", "size": 8192},
+            {"name": "Mozilla Mail & Newsgroups", "size": 8192},
+            {"name": "Mozilla Thunderbird", "size": 8192},
+            {"name": "Mutt (email client)", "size": 8192},
+            {"name": "NeoMail", "size": 8192},
+            {"name": "OfflineIMAP", "size": 8192},
+            {"name": "Open-Xchange", "size": 8192},
+            {"name": "POPFile", "size": 8192},
+            {"name": "Qpopper", "size": 8192},
+            {"name": "Roundcube", "size": 8192},
+            {"name": "Scalix", "size": 8192},
+            {"name": "Smail", "size": 8192},
+            {"name": "SpamAssassin", "size": 8192},
+            {"name": "Spicebird", "size": 8192},
+            {"name": "SquirrelMail", "size": 8192},
+            {"name": "Sylpheed", "size": 8192},
+            {"name": "Sympa", "size": 8192},
+            {"name": "Trojitá", "size": 8192},
+            {"name": "Uebimiau", "size": 8192},
+            {"name": "UW IMAP", "size": 8192},
+            {"name": "Vpopmail", "size": 8192},
+            {"name": "Xuheki", "size": 8192},
+            {"name": "YAM (Yet Another Mailer)", "size": 8192},
+            {"name": "YPOPs!", "size": 8192},
+            {"name": "Zarafa (software)", "size": 8192},
+            {"name": "Zimbra", "size": 8192}
+          ]
+        },
+        {"name": "File transfer", "children":
+          [
+            {"name": "CwRsync", "size": 8192},
+            {"name": "FileZilla", "size": 8192},
+            {"name": "FreeNAS", "size": 8192},
+            {"name": "Freenet", "size": 8192},
+            {"name": "Infinit", "size": 8192},
+            {"name": "Mnet (peer-to-peer network)", "size": 8192},
+            {"name": "NAS4Free", "size": 8192},
+            {"name": "Openfiler", "size": 8192},
+            {"name": "OpenMediaVault", "size": 8192},
+            {"name": "ProFTPD", "size": 8192},
+            {"name": "Pure-FTPd", "size": 8192},
+            {"name": "Rsync", "size": 8192},
+            {"name": "Samba (software)", "size": 8192},
+            {"name": "Vfs acl xattr", "size": 8192},
+            {"name": "Vsftpd", "size": 8192},
+            {"name": "Waarp", "size": 8192},
+            {"name": "WinSCP", "size": 8192},
+            {"name": "WU-FTPD", "size": 8192}
+          ]
+        },
+        {"name": "Instant messaging", "children":
+          [
+            {"name": "Adium", "size": 8192},
+            {"name": "AMSN", "size": 8192},
+            {"name": "Ayttm", "size": 8192},
+            {"name": "BitlBee", "size": 8192},
+            {"name": "Bombus (software)", "size": 8192},
+            {"name": "Bombusmod", "size": 8192},
+            {"name": "Centericq", "size": 8192},
+            {"name": "Climm", "size": 8192},
+            {"name": "Coccinella (software)", "size": 8192},
+            {"name": "Cryptocat", "size": 8192},
+            {"name": "Ekiga", "size": 8192},
+            {"name": "Emesene", "size": 8192},
+            {"name": "Empathy (software)", "size": 8192},
+            {"name": "Fama IM", "size": 8192},
+            {"name": "Finch (software)", "size": 8192},
+            {"name": "Fire (instant messaging client)", "size": 8192},
+            {"name": "Gajim", "size": 8192},
+            {"name": "Instantbird", "size": 8192},
+            {"name": "JabberMixClient", "size": 8192},
+            {"name": "Jimm", "size": 8192},
+            {"name": "Jitsi", "size": 8192},
+            {"name": "Kadu (software)", "size": 8192},
+            {"name": "Kopete", "size": 8192},
+            {"name": "Marabunta", "size": 8192},
+            {"name": "Miranda IM", "size": 8192},
+            {"name": "Naim (software)", "size": 8192},
+            {"name": "Pidgin (software)", "size": 8192},
+            {"name": "Profanity (instant messaging client)", "size": 8192},
+            {"name": "Psi (instant messaging client)", "size": 8192},
+            {"name": "QuteCom", "size": 8192},
+            {"name": "RetroShare", "size": 8192},
+            {"name": "SFLphone", "size": 8192},
+            {"name": "Tapioca (framework)", "size": 8192},
+            {"name": "KDE Telepathy", "size": 8192},
+            {"name": "Telepathy (software)", "size": 8192},
+            {"name": "TextSecure", "size": 8192},
+            {"name": "Tkabber", "size": 8192},
+            {"name": "Tmsnc", "size": 8192},
+            {"name": "TNT (instant messenger)", "size": 8192},
+            {"name": "TorChat", "size": 8192},
+            {"name": "WASTE", "size": 8192},
+            {"name": "Wengo", "size": 8192},
+            {"name": "Zephyr (protocol)", "size": 8192}
+          ]
+        },
+        {"name": "Internet Relay Chat", "children":
+          [
+            {"name": "Ayttm", "size": 8192},
+            {"name": "Bersirc", "size": 8192},
+            {"name": "BitchX", "size": 8192},
+            {"name": "Centericq", "size": 8192},
+            {"name": "CGI:IRC", "size": 8192},
+            {"name": "ChatZilla", "size": 8192},
+            {"name": "Colloquy (software)", "size": 8192},
+            {"name": "Empathy (software)", "size": 8192},
+            {"name": "ERC (software)", "size": 8192},
+            {"name": "Finch (software)", "size": 8192},
+            {"name": "Fire (instant messaging client)", "size": 8192},
+            {"name": "HexChat", "size": 8192},
+            {"name": "Ii (IRC client)", "size": 8192},
+            {"name": "Instantbird", "size": 8192},
+            {"name": "IrcII", "size": 8192},
+            {"name": "Irssi", "size": 8192},
+            {"name": "Konversation", "size": 8192},
+            {"name": "Kopete", "size": 8192},
+            {"name": "KVIrc", "size": 8192},
+            {"name": "LeafChat", "size": 8192},
+            {"name": "LeetIRC", "size": 8192},
+            {"name": "Miranda IM", "size": 8192},
+            {"name": "Naim (software)", "size": 8192},
+            {"name": "Nettalk (IRC client)", "size": 8192},
+            {"name": "Orion (IRC client)", "size": 8192},
+            {"name": "Pidgin (software)", "size": 8192},
+            {"name": "PJIRC", "size": 8192},
+            {"name": "Rcirc", "size": 8192},
+            {"name": "Shareaza", "size": 8192},
+            {"name": "Smuxi", "size": 8192},
+            {"name": "KDE Telepathy", "size": 8192},
+            {"name": "Visual IRC", "size": 8192},
+            {"name": "WeeChat", "size": 8192},
+            {"name": "WLIrc", "size": 8192},
+            {"name": "XChat", "size": 8192}
+          ]
+        },
+        {"name": "Middleware", "children":
+          [
+            {"name": "Apache Axis2", "size": 8192},
+            {"name": "Apache Geronimo", "size": 8192},
+            {"name": "Bonita Open Solution(software)", "size": 8192},
+            {"name": "GlassFish Application Server", "size": 8192},
+            {"name": "Jakarta Tomcat", "size": 8192},
+            {"name": "JBoss Application Server", "size": 8192},
+            {"name": "ObjectWeb JOnAS", "size": 8192},
+            {"name": "TAO (software)", "size": 8192}
+          ]
+        },
+        {"name": "News aggregator", "children":
+          [
+            {"name": "Akregator", "size": 8192},
+            {"name": "Liferea", "size": 8192},
+            {"name": "RSS Bandit", "size": 8192},
+            {"name": "RSSOwl", "size": 8192},
+            {"name": "Sage (Mozilla Firefox extension)", "size": 8192}
+          ]
+        },
+        {"name": "Peer-to-peer file sharing", "children":
+          [
+            {"name": "AMule", "size": 8192},
+            {"name": "Ares Galaxy", "size": 8192},
+            {"name": "Cabos", "size": 8192},
+            {"name": "DC++", "size": 8192},
+            {"name": "EMule", "size": 8192},
+            {"name": "FileScope", "size": 8192},
+            {"name": "FlylinkDC++", "size": 8192},
+            {"name": "FreeCast (software)", "size": 8192},
+            {"name": "Freenet", "size": 8192},
+            {"name": "FrostWire", "size": 8192},
+            {"name": "GiFT", "size": 8192},
+            {"name": "GnucDNA", "size": 8192},
+            {"name": "GNUnet", "size": 8192},
+            {"name": "Gtk-gnutella", "size": 8192},
+            {"name": "IFolder", "size": 8192},
+            {"name": "IMule", "size": 8192},
+            {"name": "JMule", "size": 8192},
+            {"name": "KCeasy", "size": 8192},
+            {"name": "KMLDonkey", "size": 8192},
+            {"name": "LimeWire", "size": 8192},
+            {"name": "LimeWire Pirate Edition", "size": 8192},
+            {"name": "Marabunta", "size": 8192},
+            {"name": "MLDonkey", "size": 8192},
+            {"name": "MorphXT", "size": 8192},
+            {"name": "PeerCast", "size": 8192},
+            {"name": "Phex", "size": 8192},
+            {"name": "Poisoned", "size": 8192},
+            {"name": "QBittorrent", "size": 8192},
+            {"name": "RetroShare", "size": 8192},
+            {"name": "RShare", "size": 8192},
+            {"name": "Shareaza", "size": 8192},
+            {"name": "Sharelin", "size": 8192},
+            {"name": "StealthNet", "size": 8192},
+            {"name": "Tahoe-LAFS", "size": 8192},
+            {"name": "Tribler", "size": 8192},
+            {"name": "Valknut (software)", "size": 8192},
+            {"name": "Virtuoso Universal Server", "size": 8192},
+            {"name": "WASTE", "size": 8192},
+            {"name": "XMule", "size": 8192},
+            {"name": "Xtreme Mod", "size": 8192}
+          ]
+        },
+        {"name": "Web portal", "children":
+          [
+            {"name": "Drupal", "size": 8192},
+            {"name": "eXo Platform", "size": 8192},
+            {"name": "Liferay", "size": 8192},
+            {"name": "Oxwall", "size": 8192},
+            {"name": "Sun Java System Portal Server", "size": 8192},
+            {"name": "uPortal", "size": 8192}
+          ]
+        },
+        {"name": "Remote Access Service", "children":
+          [
+            {"name": "FreeNX", "size": 8192},
+            {"name": "OpenVPN", "size": 8192},
+            {"name": "rdesktop", "size": 8192},
+            {"name": "Synergy", "size": 8192},
+            {"name": "VNC (RealVNC, TightVNC, UltraVNC)", "size": 8192},
+            {"name": "FreeRDP", "size": 8192},
+            {"name": "Remmina", "size": 8192}
+          ]
+        },
+        {"name": "Routing", "children":
+          [
+            {"name": "Bird Internet routing daemon", "size": 8192},
+            {"name": "BSD Router Project", "size": 8192},
+            {"name": "ClearOS", "size": 8192},
+            {"name": "Coyote Linux", "size": 8192},
+            {"name": "Flash proxy", "size": 8192},
+            {"name": "Fli4l", "size": 8192},
+            {"name": "Floppyfw", "size": 8192},
+            {"name": "FREESCO", "size": 8192},
+            {"name": "Gargoyle (router firmware)", "size": 8192},
+            {"name": "GNU Zebra", "size": 8192},
+            {"name": "HyperWRT", "size": 8192},
+            {"name": "I2P", "size": 8192},
+            {"name": "Intel Data Plane Development Kit", "size": 8192},
+            {"name": "IPCop", "size": 8192},
+            {"name": "LEAF Project", "size": 8192},
+            {"name": "LibreWRT", "size": 8192},
+            {"name": "Linux Router Project", "size": 8192},
+            {"name": "List of router and firewall distributions", "size": 8192},
+            {"name": "M0n0wall", "size": 8192},
+            {"name": "OpenAP", "size": 8192},
+            {"name": "OpenBGPD", "size": 8192},
+            {"name": "OpenOSPFD", "size": 8192},
+            {"name": "OpenWrt", "size": 8192},
+            {"name": "PfSense", "size": 8192},
+            {"name": "Quagga (software)", "size": 8192},
+            {"name": "SmartRouter", "size": 8192},
+            {"name": "SmoothWall", "size": 8192},
+            {"name": "Stone (software)", "size": 8192},
+            {"name": "Syndie", "size": 8192},
+            {"name": "Threenix", "size": 8192},
+            {"name": "Turtle F2F", "size": 8192},
+            {"name": "Vyatta", "size": 8192},
+            {"name": "VyOS", "size": 8192},
+            {"name": "WiFi-Box", "size": 8192},
+            {"name": "X-Wrt", "size": 8192},
+            {"name": "XORP", "size": 8192},
+            {"name": "Zentyal", "size": 8192},
+            {"name": "Zeroshell", "size": 8192}
+          ]
+        },
+        {"name": "Web browser", "children":
+          [
+            {"name": "Abaco (web browser)", "size": 8192},
+            {"name": "Amaya (web editor)", "size": 8192},
+            {"name": "Arachne (web browser)", "size": 8192},
+            {"name": "Arena (web browser)", "size": 8192},
+            {"name": "Arora (web browser)", "size": 8192},
+            {"name": "AWeb", "size": 8192},
+            {"name": "Beonex Communicator", "size": 8192},
+            {"name": "Camino", "size": 8192},
+            {"name": "Charon (web browser)", "size": 8192},
+            {"name": "Chromium (web browser)", "size": 8192},
+            {"name": "Classilla", "size": 8192},
+            {"name": "Conkeror", "size": 8192},
+            {"name": "Contiki", "size": 8192},
+            {"name": "Dillo", "size": 8192},
+            {"name": "Dooble", "size": 8192},
+            {"name": "ELinks", "size": 8192},
+            {"name": "Firefox", "size": 8192},
+            {"name": "Flock (web browser)", "size": 8192},
+            {"name": "Galeon", "size": 8192},
+            {"name": "Ghostzilla", "size": 8192},
+            {"name": "GNU IceCat", "size": 8192},
+            {"name": "Gnuzilla", "size": 8192},
+            {"name": "Grail (web browser)", "size": 8192},
+            {"name": "Iceweasel", "size": 8192},
+            {"name": "Java Embedding Plugin", "size": 8192},
+            {"name": "K-Meleon", "size": 8192},
+            {"name": "Kazehakase", "size": 8192},
+            {"name": "Konqueror", "size": 8192},
+            {"name": "Line Mode Browser", "size": 8192},
+            {"name": "Links (web browser)", "size": 8192},
+            {"name": "Lynx (web browser)", "size": 8192},
+            {"name": "Midori (web browser)", "size": 8192},
+            {"name": "Minimo", "size": 8192},
+            {"name": "Mothra (web browser)", "size": 8192},
+            {"name": "Mozilla Corporation software rebranded by the Debian project", "size": 8192},
+            {"name": "NetSurf", "size": 8192},
+            {"name": "Nightingale (software)", "size": 8192},
+            {"name": "Origyn Web Browser", "size": 8192},
+            {"name": "Pale Moon (web browser)", "size": 8192},
+            {"name": "Plucker", "size": 8192},
+            {"name": "QtWeb", "size": 8192},
+            {"name": "QupZilla", "size": 8192},
+            {"name": "Rekonq", "size": 8192},
+            {"name": "SeaMonkey", "size": 8192},
+            {"name": "Shiira", "size": 8192},
+            {"name": "Songbird (software)", "size": 8192},
+            {"name": "Surf (web browser)", "size": 8192},
+            {"name": "Swiftweasel", "size": 8192},
+            {"name": "TenFourFox", "size": 8192},
+            {"name": "TkWWW", "size": 8192},
+            {"name": "Uzbl", "size": 8192},
+            {"name": "Emacs/W3", "size": 8192},
+            {"name": "W3m", "size": 8192},
+            {"name": "Waterfox", "size": 8192},
+            {"name": "Web (web browser)", "size": 8192},
+            {"name": "WorldWideWeb", "size": 8192},
+            {"name": "X-Smiles", "size": 8192},
+            {"name": "Xombrero", "size": 8192}
+          ]
+        },
+        {"name": "Webcam", "children":
+          [
+            {"name": "Cheese", "size": 8192}
+          ]
+        },
+        {"name": "Webgrabber", "children":
+          [
+            {"name": "cURL", "size": 8192},
+            {"name": "HTTrack", "size": 8192},
+            {"name": "Wget", "size": 8192}
+          ]
+        },
+        {"name": "World Wide Web", "children":
+          [
+            {"name": "Apache Cocoon", "size": 8192},
+            {"name": "Apache", "size": 8192},
+            {"name": "AWStats", "size": 8192},
+            {"name": "BookmarkSync", "size": 8192},
+            {"name": "Cherokee", "size": 8192},
+            {"name": "curl-loader", "size": 8192},
+            {"name": "Hiawatha", "size": 8192},
+            {"name": "HTTP File Server", "size": 8192},
+            {"name": "lighttpd", "size": 8192},
+            {"name": "nginx", "size": 8192},
+            {"name": "NetKernel", "size": 8192},
+            {"name": "Piwik", "size": 8192},
+            {"name": "Qcodo", "size": 8192},
+            {"name": "Railo", "size": 8192},
+            {"name": "Squid (software)", "size": 8192},
+            {"name": "XAMPP", "size": 8192},
+            {"name": "Zope", "size": 8192}
+          ]
+        },
+        {"name": "Other networking programs", "children":
+          [
+            {"name": "JXplorer", "size": 8192},
+            {"name": "OpenLDAP", "size": 8192},
+            {"name": "openVXI", "size": 8192},
+            {"name": "YaCy", "size": 8192}
+          ]
+        }
+      ]
+    },
+    {"name": "Education", "children":
+      [
+        {"name": "Educational software", "children":
+          [
+            {"name": "ATutor", "size": 8192},
+            {"name": "Chamilo", "size": 8192},
+            {"name": "DoceboLMS", "size": 8192},
+            {"name": "eFront", "size": 8192},
+            {"name": "FlightPath", "size": 8192},
+            {"name": "GCompris", "size": 8192},
+            {"name": "Gnaural", "size": 8192},
+            {"name": "IUP Portfolio", "size": 8192},
+            {"name": "ILIAS", "size": 8192},
+            {"name": "Moodle", "size": 8192},
+            {"name": "Omeka", "size": 8192},
+            {"name": "openSIS", "size": 8192},
+            {"name": "Sakai Project", "size": 8192},
+            {"name": "SWAD", "size": 8192},
+            {"name": "Tux Paint", "size": 8192}
+          ]
+        },
+        {"name": "Geography", "children":
+          [
+            {"name": "KGeography", "size": 8192}
+          ]
+        },
+        {"name": "Virtual learning environment", "children":
+          [
+            {"name": "Chamilo", "size": 8192},
+            {"name": "Edu-sharing", "size": 8192},
+            {"name": "ELML", "size": 8192},
+            {"name": "Fle3", "size": 8192},
+            {"name": "FlightPath (software)", "size": 8192},
+            {"name": "GCompris", "size": 8192},
+            {"name": "LAMS", "size": 8192},
+            {"name": "LON-CAPA", "size": 8192},
+            {"name": "Moodle", "size": 8192},
+            {"name": "SWAD (software)", "size": 8192},
+            {"name": "TCExam", "size": 8192},
+            {"name": "XBlock", "size": 8192}
+          ]
+        },
+        {"name": "Language", "children":
+          [
+            {"name": "Kiten", "size": 8192},
+            {"name": "KVerbos", "size": 8192}
+          ]
+        },
+        {"name": "Typing", "children":
+          [
+            {"name": "KTouch", "size": 8192},
+            {"name": "Tux Typing", "size": 8192}
+          ]
+        },
+        {"name": "Other educational programs", "children":
+          [
+            {"name": "KEduca", "size": 8192}
+          ]
+        }
+      ]
+    },
+    {"name": "File manager", "children":
+      [
+        {"name": "7-Zip", "size": 8192},
+        {"name": "Advanced Renamer", "size": 8192},
+        {"name": "B1 Free Archiver", "size": 8192},
+        {"name": "Dired", "size": 8192},
+        {"name": "Dolphin (file manager)", "size": 8192},
+        {"name": "DOS Navigator", "size": 8192},
+        {"name": "EmelFM2", "size": 8192},
+        {"name": "Far Manager", "size": 8192},
+        {"name": "File System Visualizer", "size": 8192},
+        {"name": "Gentoo (file manager)", "size": 8192},
+        {"name": "GNOME Commander", "size": 8192},
+        {"name": "GPRename", "size": 8192},
+        {"name": "KGB Archiver", "size": 8192},
+        {"name": "Konqueror", "size": 8192},
+        {"name": "KRename", "size": 8192},
+        {"name": "Krusader", "size": 8192},
+        {"name": "Métamorphose (renamer)", "size": 8192},
+        {"name": "Midnight Commander", "size": 8192},
+        {"name": "Mtools", "size": 8192},
+        {"name": "MuCommander", "size": 8192},
+        {"name": "GNOME Files", "size": 8192},
+        {"name": "Nemo (file manager)", "size": 8192},
+        {"name": "OpenTracker", "size": 8192},
+        {"name": "PCMan File Manager", "size": 8192},
+        {"name": "PeaZip", "size": 8192},
+        {"name": "Ranger (file manager)", "size": 8192},
+        {"name": "ROX Desktop", "size": 8192},
+        {"name": "SpaceFM", "size": 8192},
+        {"name": "Thunar", "size": 8192},
+        {"name": "Tkdesk", "size": 8192},
+        {"name": "Tracker (file manager)", "size": 8192},
+        {"name": "Xfe", "size": 8192},
+        {"name": "Xfm (file manager)", "size": 8192},
+        {"name": "Xnc", "size": 8192}
+      ]
+    },
+    {"name": "PC game", "children":
+        [
+            {"name": "Application layer", "children":
+                [ 
+                    {"name": "WINE", "size": 8192}
+                ]
+            },
+            {"name": "0 A.D.", "size": 8192},
+            {"name": "2048", "size": 8192},
+            {"name": "Advanced Strategic Command", "size": 8192},
+            {"name": "Andy's Super Great Park", "size": 8192},
+            {"name": "Adventure 1976", "size": 8192},
+            {"name": "Ancient Beast", "size": 8192},
+            {"name": "Angband", "size": 8192},
+            {"name": "Ardentryst", "size": 8192},
+            {"name": "Armagetron Advanced", "size": 8192},
+            {"name": "AstroMenace", "size": 8192},
+            {"name": "Battle for Wesnoth", "size": 8192},
+            {"name": "Battle City", "size": 8192},
+            {"name": "Beyond the Titanic", "size": 8192},
+            {"name": "Biniax", "size": 8192},
+            {"name": "Bitfighter", "size": 8192},
+            {"name": "Blades of Exile", "size": 8192},
+            {"name": "Blob Wars: Blob And Conquer", "size": 8192},
+            {"name": "Blob Wars: Metal Blob Solid", "size": 8192},
+            {"name": "BomberClone", "size": 8192},
+            {"name": "Bombermaaan", "size": 8192},
+            {"name": "Bos Wars", "size": 8192},
+            {"name": "British Bingo", "size": 8192},
+            {"name": "BZFlag", "size": 8192},
+            {"name": "Cataclysm: Dark Days Ahead", "size": 8192},
+            {"name": "Chaotic Rage", "size": 8192},
+            {"name": "Cheeseman the Game", "size": 8192},
+            {"name": "Chocolate Doom", "size": 8192},
+            {"name": "Crack Attack", "size": 8192},
+            {"name": "Crimson Fields", "size": 8192},
+            {"name": "Chromium B.S.U.", "size": 8192},
+            {"name": "Crossfire", "size": 8192},
+            {"name": "Dead Meat", "size": 8192},
+            {"name": "Doolfy's Brain Surgery", "size": 8192},
+            {"name": "Dungeon Crawl Stone Soup", "size": 8192},
+            {"name": "Eat The Whistle", "size": 8192},
+            {"name": "Emilia Pinball", "size": 8192},
+            {"name": "Enigma", "size": 8192},
+            {"name": "Epic Inventor", "size": 8192},
+            {"name": "Fish Fillets NG", "size": 8192},
+            {"name": "FLARE", "size": 8192},
+            {"name": "FlightGear", "size": 8192},
+            {"name": "Freeciv", "size": 8192},
+            {"name": "FreeCol", "size": 8192},
+            {"name": "Freedoom", "size": 8192},
+            {"name": "Freedroid", "children":
+              [ 
+                {"name": "FreedroidRPG", "size": 8192},
+                {"name": "FreedroidClassic", "size": 8192}
+              ]
+            },
+            {"name": "FreeOrion", "size": 8192},
+            {"name": "FreeVial", "size": 8192},
+            {"name": "Frets on Fire", "size": 8192},
+            {"name": "Frets on Fire X", "size": 8192},
+            {"name": "Frozen Bubble", "size": 8192},
+            {"name": "Gang Garrison 2", "size": 8192},
+            {"name": "Glest", "size": 8192},
+            {"name": "Globulation 2", "size": 8192},
+            {"name": "GLtron", "size": 8192},
+            {"name": "GNOME Games", "size": 8192},
+            {"name": "GNU Chess", "size": 8192},
+            {"name": "GNU FreeDink", "size": 8192},
+            {"name": "GNU Go", "size": 8192},
+            {"name": "Green Mahjong", "size": 8192},
+            {"name": "Gunroar", "size": 8192},
+            {"name": "Gusanos", "size": 8192},
+            {"name": "Haxima/Nazghul", "size": 8192},
+            {"name": "Hedgewars", "size": 8192},
+            {"name": "Iter Vehemens ad Necem", "size": 8192},
+            {"name": "KDEGames", "size": 8192},
+            {"name": "Kernel Panic", "size": 8192},
+            {"name": "Kiki the nano bot", "size": 8192},
+            {"name": "Kobo Deluxe", "size": 8192},
+            {"name": "Kroz", "size": 8192},
+            {"name": "The Legend of Edgar", "size": 8192},
+            {"name": "Lincity", "size": 8192},
+            {"name": "LinCity-NG", "size": 8192},
+            {"name": "Linley's Dungeon Crawl", "size": 8192},
+            {"name": "Liquid War", "size": 8192},
+            {"name": "M.A.X.R. (Mechanized Assault and eXploration Reloaded)", "size": 8192},
+            {"name": "The Mana World", "size": 8192},
+            {"name": "MegaGlest", "size": 8192},
+            {"name": "MegaMek", "size": 8192},
+            {"name": "Micropolis", "size": 8192},
+            {"name": "2008 (as Micropolis)", "size": 8192},
+            {"name": "Microwar", "size": 8192},
+            {"name": "Minetest", "size": 8192},
+            {"name": "Moria", "size": 8192},
+            {"name": "NetHack", "size": 8192},
+            {"name": "Netrek", "size": 8192},
+            {"name": "Neverball", "size": 8192},
+            {"name": "Nexuiz", "size": 8192},
+            {"name": "Oolite", "size": 8192},
+            {"name": "OpenArena", "size": 8192},
+            {"name": "OpenClonk", "size": 8192},
+            {"name": "OpenCity", "size": 8192},
+            {"name": "Omega", "size": 8192},
+            {"name": "OpenHexagon", "size": 8192},
+            {"name": "OpenTTD", "size": 8192},
+            {"name": "Paintown", "size": 8192},
+            {"name": "Pathological", "size": 8192},
+            {"name": "Paku paku", "size": 8192},
+            {"name": "Pingus", "size": 8192},
+            {"name": "Pioneer", "size": 8192},
+            {"name": "PokerTH", "size": 8192},
+            {"name": "PySol", "size": 8192},
+            {"name": "Red Eclipse", "size": 8192},
+            {"name": "Rigs of Rods", "size": 8192},
+            {"name": "Rocks'n'Diamonds", "size": 8192},
+            {"name": "Ryzom", "size": 8192},
+            {"name": "Scorched 3D", "size": 8192},
+            {"name": "Secret Maryo Chronicles", "size": 8192},          
+            {"name": "Sintel The Game", "size": 8192},
+            {"name": "Simutrans", "size": 8192},
+            {"name": "Smash Battle", "size": 8192},
+            {"name": "StepMania", "size": 8192},
+            {"name": "Sokoban", "size": 8192},
+            {"name": "Solarwolf", "size": 8192},
+            {"name": "Sopwith", "size": 8192},
+            {"name": "Space Station", "size": 8192},
+            {"name": "SpaceZero", "size": 8192},
+            {"name": "Speed Dream", "size": 8192},
+            {"name": "Supernova", "size": 8192},
+            {"name": "SuperTux", "size": 8192},
+            {"name": "SuperTuxKart", "size": 8192},
+            {"name": "Teeworlds", "size": 8192},
+            {"name": "Tenés Empanadas Graciela", "size": 8192},
+            {"name": "The Bub's Brothers", "size": 8192},
+            {"name": "Thousand Parsec", "size": 8192},
+            {"name": "Tile World", "size": 8192},
+            {"name": "Torus Trooper", "size": 8192},
+            {"name": "TORCS", "size": 8192},
+            {"name": "Tremulous", "size": 8192},
+            {"name": "TripleA", "size": 8192},
+            {"name": "Tux Racer", "size": 8192},
+            {"name": "Tux, of Math Command", "size": 8192},          
+            {"name": "UFO: Alien Invasion", "size": 8192},
+            {"name": "UltraStar Deluxe", "size": 8192},
+            {"name": "Unknown Horizons", "size": 8192},
+            {"name": "Unvanquished", "size": 8192},
+            {"name": "Vega Strike", "size": 8192},
+            {"name": "VoltAir", "size": 8192},
+            {"name": "WarMUX", "size": 8192},
+            {"name": "Warzone 2100", "size": 8192},
+            {"name": "Widelands", "size": 8192},
+            {"name": "Word Whiz", "size": 8192},
+            {"name": "WorldForge", "size": 8192},
+            {"name": "Xbattle", "size": 8192},
+            {"name": "Xconq", "size": 8192},
+            {"name": "XEvil", "size": 8192},
+            {"name": "Xonotic", "size": 8192},
+            {"name": "XPilot", "size": 8192},
+            {"name": "X-Moto", "size": 8192},
+            {"name": "Yo Frankie!", "size": 8192}
+        ]
+    },
+    {"name": "Genealogy", "children":
+        [
+            {"name": "Family.Show", "size": 8192},
+            {"name": "GenealogyJ", "size": 8192},
+            {"name": "Geneotree", "size": 8192},
+            {"name": "GeneWeb", "size": 8192},
+            {"name": "Gramps", "size": 8192},
+            {"name": "HuMo-gen", "size": 8192},
+            {"name": "LifeLines", "size": 8192},
+            {"name": "PhpGedView", "size": 8192},
+            {"name": "Webtrees", "size": 8192}
+        ]
+    },
+    {"name": "Graphical user interface", "children":
+      [
+        {"name": "Desktop environment", "children":
+            [
+                {"name": "Ambient (desktop environment)", "size": 8192},
+                {"name": "Cinnamon (software)", "size": 8192},
+                {"name": "EDE", "size": 8192},
+                {"name": "Enlightenment (software)", "size": 8192},
+                {"name": "Étoilé", "size": 8192},
+                {"name": "FVWM-Crystal", "size": 8192},
+                {"name": "FVWM95", "size": 8192},
+                {"name": "IceWM", "size": 8192},
+                {"name": "JWM", "size": 8192},
+                {"name": "K Desktop Environment 3", "size": 8192},
+                {"name": "KDE Software Compilation", "size": 8192},
+                {"name": "LXDE", "size": 8192},
+                {"name": "MATE (software)", "size": 8192},
+                {"name": "Metisse", "size": 8192},
+                {"name": "Mezzo (desktop environment)", "size": 8192},
+                {"name": "MoonLightDE", "size": 8192},
+                {"name": "Project Looking Glass", "size": 8192},
+                {"name": "Razor-qt", "size": 8192},
+                {"name": "ROX Desktop", "size": 8192},
+                {"name": "Sakura HyperMedia Desktop", "size": 8192},
+                {"name": "Sugar (software)", "size": 8192},
+                {"name": "Tango Desktop Project", "size": 8192},
+                {"name": "UDE", "size": 8192},
+                {"name": "Unity (user interface)", "size": 8192},
+                {"name": "XFast", "size": 8192},
+                {"name": "Xfce", "size": 8192},
+                {"name": "Xito", "size": 8192}
+            ]
+        },
+        {"name": "Window manager", "children":
+            [
+                {"name": "9wm", "size": 8192},
+                {"name": "AfterStep", "size": 8192},
+                {"name": "Awesome (window manager)", "size": 8192},
+                {"name": "Blackbox", "size": 8192},
+                {"name": "Compiz", "size": 8192},
+                {"name": "CTWM", "size": 8192},
+                {"name": "Cwm (window manager)", "size": 8192},
+                {"name": "Dwm", "size": 8192},
+                {"name": "Enlightenment (software)", "size": 8192},
+                {"name": "Fluxbox", "size": 8192},
+                {"name": "FLWM", "size": 8192},
+                {"name": "FVWM", "size": 8192},
+                {"name": "FVWM95", "size": 8192},
+                {"name": "Gala Window Manager", "size": 8192},
+                {"name": "Hackedbox", "size": 8192},
+                {"name": "I3 (window manager)", "size": 8192},
+                {"name": "IceWM", "size": 8192},
+                {"name": "JWM", "size": 8192},
+                {"name": "KWin", "size": 8192},
+                {"name": "Larswm", "size": 8192},
+                {"name": "Macintosh-Like Virtual Window Manager", "size": 8192},
+                {"name": "MaslowWM", "size": 8192},
+                {"name": "Matchbox (window manager)", "size": 8192},
+                {"name": "Metacity", "size": 8192},
+                {"name": "Muffin (software)", "size": 8192},
+                {"name": "Mutter (software)", "size": 8192},
+                {"name": "Openbox", "size": 8192},
+                {"name": "Oroboros (window manager)", "size": 8192},
+                {"name": "PekWM", "size": 8192},
+                {"name": "PLWM", "size": 8192},
+                {"name": "PWM (window manager)", "size": 8192},
+                {"name": "Qtile", "size": 8192},
+                {"name": "Qvwm", "size": 8192},
+                {"name": "Ratpoison", "size": 8192},
+                {"name": "Sawfish (window manager)", "size": 8192},
+                {"name": "Scwm", "size": 8192},
+                {"name": "StumpWM", "size": 8192},
+                {"name": "Swm", "size": 8192},
+                {"name": "Tvtwm", "size": 8192},
+                {"name": "Twm", "size": 8192},
+                {"name": "Ultrix Window Manager", "size": 8192},
+                {"name": "Vtwm", "size": 8192},
+                {"name": "Window Maker", "size": 8192},
+                {"name": "WindowLab", "size": 8192},
+                {"name": "Wm2", "size": 8192},
+                {"name": "Wmii", "size": 8192},
+                {"name": "Xfwm", "size": 8192},
+                {"name": "Xmonad", "size": 8192}
+            ]
+        },
+        {"name": "Windowing system", "children":
+            [
+                {"name": "EGL (API)", "size": 8192},
+                {"name": "FreeGEM", "size": 8192},
+                {"name": "Fresco (windowing system)", "size": 8192},
+                {"name": "Graphical Environment Manager", "size": 8192},
+                {"name": "Mir (software)", "size": 8192},
+                {"name": "OpenGEM", "size": 8192},
+                {"name": "Rio (windowing system)", "size": 8192},
+                {"name": "Twin (windowing system)", "size": 8192},
+                {"name": "VirtualGL", "size": 8192},
+                {"name": "X Window System", "size": 8192},
+                {"name": "XaAES", "size": 8192},
+                {"name": "XFree86", "size": 8192},
+                {"name": "Xynth", "size": 8192}
+            ]
+        }
+        ]
+    },
+    {"name": "Collaborative software", "children":
+        [
+            {"name": "Content management system", "children":
+                [
+                    {"name": "Agorum core", "size": 8192},
+                    {"name": "Aiki Framework", "size": 8192},
+                    {"name": "Alfresco (software)", "size": 8192},
+                    {"name": "Ametys CMS", "size": 8192},
+                    {"name": "Annotum", "size": 8192},
+                    {"name": "Apache Lenya", "size": 8192},
+                    {"name": "Apache Roller", "size": 8192},
+                    {"name": "AutoTheme", "size": 8192},
+                    {"name": "B2evolution", "size": 8192},
+                    {"name": "BEdita", "size": 8192},
+                    {"name": "Blosxom", "size": 8192},
+                    {"name": "BlueBream", "size": 8192},
+                    {"name": "Bricolage (software)", "size": 8192},
+                    {"name": "BrowserCMS", "size": 8192},
+                    {"name": "Campsite (software)", "size": 8192},
+                    {"name": "Chamilo", "size": 8192},
+                    {"name": "Chyrp", "size": 8192},
+                    {"name": "Citadel/UX", "size": 8192},
+                    {"name": "CMS Made Simple", "size": 8192},
+                    {"name": "CMSimple", "size": 8192},
+                    {"name": "Concrete", "size": 8192},
+                    {"name": "Contao", "size": 8192},
+                    {"name": "Cotonti", "size": 8192},
+                    {"name": "Croogo", "size": 8192},
+                    {"name": "Cyclone", "size": 8192},
+                    {"name": "Cyn.in", "size": 8192},
+                    {"name": "Daisy (software)", "size": 8192},
+                    {"name": "Directus", "size": 8192},
+                    {"name": "Dotclear", "size": 8192},
+                    {"name": "DotNetNuke", "size": 8192},
+                    {"name": "Drupal", "size": 8192},
+                    {"name": "DynPG", "size": 8192},
+                    {"name": "EasyBlog", "size": 8192},
+                    {"name": "Edu-sharing", "size": 8192},
+                    {"name": "EXo Platform", "size": 8192},
+                    {"name": "Exponent CMS", "size": 8192},
+                    {"name": "EZ Publish", "size": 8192},
+                    {"name": "Feng Office Community Edition", "size": 8192},
+                    {"name": "Foswiki", "size": 8192},
+                    {"name": "Geeklog", "size": 8192},
+                    {"name": "GetSimple CMS", "size": 8192},
+                    {"name": "Group-Office", "size": 8192},
+                    {"name": "Habari", "size": 8192},
+                    {"name": "Hippo CMS", "size": 8192},
+                    {"name": "IDSlot", "size": 8192},
+                    {"name": "ImpressCMS", "size": 8192},
+                    {"name": "ImpressPages", "size": 8192},
+                    {"name": "Jamroom", "size": 8192},
+                    {"name": "Jekyll (software)", "size": 8192},
+                    {"name": "Joomla", "size": 8192},
+                    {"name": "Joomsef", "size": 8192},
+                    {"name": "Kajona", "size": 8192},
+                    {"name": "KnowledgeTree", "size": 8192},
+                    {"name": "Kooboo", "size": 8192},
+                    {"name": "LifeType", "size": 8192},
+                    {"name": "LiveJournal", "size": 8192},
+                    {"name": "Lyceum (software)", "size": 8192},
+                    {"name": "Magnolia (CMS)", "size": 8192},
+                    {"name": "Mambo (software)", "size": 8192},
+                    {"name": "MediaGoblin", "size": 8192},
+                    {"name": "MediaWiki", "size": 8192},
+                    {"name": "MiaCMS", "size": 8192},
+                    {"name": "Midgard (software)", "size": 8192},
+                    {"name": "Midgard Lite", "size": 8192},
+                    {"name": "MMBase", "size": 8192},
+                    {"name": "MODX", "size": 8192},
+                    {"name": "MojoPortal", "size": 8192},
+                    {"name": "Moodle", "size": 8192},
+                    {"name": "Movable Type", "size": 8192},
+                    {"name": "Naaya", "size": 8192},
+                    {"name": "Newscoop", "size": 8192},
+                    {"name": "Nucleus CMS", "size": 8192},
+                    {"name": "Nuxeo", "size": 8192},
+                    {"name": "OcPortal", "size": 8192},
+                    {"name": "Omeka", "size": 8192},
+                    {"name": "Open Semantic Framework", "size": 8192},
+                    {"name": "OpenCms", "size": 8192},
+                    {"name": "OpenWGA", "size": 8192},
+                    {"name": "Orchard Project", "size": 8192},
+                    {"name": "OrfeoGPL", "size": 8192},
+                    {"name": "Papaya CMS", "size": 8192},
+                    {"name": "Phire CMS", "size": 8192},
+                    {"name": "Phoca Download", "size": 8192},
+                    {"name": "Phoca Gallery", "size": 8192},
+                    {"name": "PHP-Fusion", "size": 8192},
+                    {"name": "PHP-Nuke", "size": 8192},
+                    {"name": "PhpWebSite", "size": 8192},
+                    {"name": "Pimcore", "size": 8192},
+                    {"name": "PivotX", "size": 8192},
+                    {"name": "Plone (software)", "size": 8192},
+                    {"name": "Plumi", "size": 8192},
+                    {"name": "PmWiki", "size": 8192},
+                    {"name": "ProcessWire", "size": 8192},
+                    {"name": "Pushit", "size": 8192},
+                    {"name": "Qcodo", "size": 8192},
+                    {"name": "Radiant (software)", "size": 8192},
+                    {"name": "RavenNuke", "size": 8192},
+                    {"name": "Refinery CMS", "size": 8192},
+                    {"name": "Roockbuilder", "size": 8192},
+                    {"name": "Sakai Project", "size": 8192},
+                    {"name": "SBLOG", "size": 8192},
+                    {"name": "SchoolTool", "size": 8192},
+                    {"name": "Seagull PHP Framework", "size": 8192},
+                    {"name": "SecureDrop", "size": 8192},
+                    {"name": "SilverStripe", "size": 8192},
+                    {"name": "SkoleSYS", "size": 8192},
+                    {"name": "Jakarta Slide", "size": 8192},
+                    {"name": "SOBI", "size": 8192},
+                    {"name": "SPINE (software)", "size": 8192},
+                    {"name": "SPIP", "size": 8192},
+                    {"name": "Squiz", "size": 8192},
+                    {"name": "TangoCMS", "size": 8192},
+                    {"name": "Textpattern", "size": 8192},
+                    {"name": "Tiki Wiki CMS Groupware", "size": 8192},
+                    {"name": "TWiki", "size": 8192},
+                    {"name": "Typo (software)", "size": 8192},
+                    {"name": "TYPO3", "size": 8192},
+                    {"name": "TYPO3 Flow", "size": 8192},
+                    {"name": "Umbraco", "size": 8192},
+                    {"name": "Vosao CMS", "size": 8192},
+                    {"name": "WakkaWiki", "size": 8192},
+                    {"name": "Web2py", "size": 8192},
+                    {"name": "WebGUI", "size": 8192},
+                    {"name": "WikkaWiki", "size": 8192},
+                    {"name": "Wolf CMS", "size": 8192},
+                    {"name": "WordPress", "size": 8192},
+                    {"name": "Xaraya", "size": 8192},
+                    {"name": "XBlock", "size": 8192},
+                    {"name": "XOOPS", "size": 8192},
+                    {"name": "XWiki", "size": 8192},
+                    {"name": "Yanel", "size": 8192},
+                    {"name": "Zend Framework", "size": 8192},
+                    {"name": "Zikula", "size": 8192},
+                    {"name": "Zope", "size": 8192},
+                    {"name": "Zope 2", "size": 8192},
+                    {"name": "Zwiki", "size": 8192}
+                ]
+            },
+            {"name": "Wiki software", "children":
+                [
+                    {"name": "Apache Allura", "size": 8192},
+                    {"name": "Apache Bloodhound", "size": 8192},
+                    {"name": "BlueSpice for MediaWiki", "size": 8192},
+                    {"name": "CLiki", "size": 8192},
+                    {"name": "Cyn.in", "size": 8192},
+                    {"name": "DokuWiki", "size": 8192},
+                    {"name": "EXo Platform", "size": 8192},
+                    {"name": "FlexWiki", "size": 8192},
+                    {"name": "Fossil (software)", "size": 8192},
+                    {"name": "Foswiki", "size": 8192},
+                    {"name": "Gitit (software)", "size": 8192},
+                    {"name": "Ikiwiki", "size": 8192},
+                    {"name": "MediaWiki", "size": 8192},
+                    {"name": "Midgard (software)", "size": 8192},
+                    {"name": "Mindquarry", "size": 8192},
+                    {"name": "MoinMoin", "size": 8192},
+                    {"name": "OpenProject", "size": 8192},
+                    {"name": "PhpWiki", "size": 8192},
+                    {"name": "PmWiki", "size": 8192},
+                    {"name": "Redmine", "size": 8192},
+                    {"name": "The Bug Genie", "size": 8192},
+                    {"name": "TiddlyWiki", "size": 8192},
+                    {"name": "Tiki Wiki CMS Groupware", "size": 8192},
+                    {"name": "Trac", "size": 8192},
+                    {"name": "TWiki", "size": 8192},
+                    {"name": "UseModWiki", "size": 8192},
+                    {"name": "WackoWiki", "size": 8192},
+                    {"name": "WakkaWiki", "size": 8192},
+                    {"name": "WikiCalc", "size": 8192},
+                    {"name": "WikiWikiWeb", "size": 8192},
+                    {"name": "WikkaWiki", "size": 8192},
+                    {"name": "XWiki", "size": 8192},
+                    {"name": "Zim (software)", "size": 8192},
+                    {"name": "Zwiki", "size": 8192}
+                ]
+            },
+        
+            {"name": "Agorum core", "size": 8192},
+            {"name": "Beehive Forum", "size": 8192},
+            {"name": "BigBlueButton", "size": 8192},
+            {"name": "Citadel/UX", "size": 8192},
+            {"name": "Collabtive", "size": 8192},
+            {"name": "Covide", "size": 8192},
+            {"name": "Cyn.in", "size": 8192},
+            {"name": "EGroupWare", "size": 8192},
+            {"name": "EsoTalk", "size": 8192},
+            {"name": "Exchange4linux", "size": 8192},
+            {"name": "EXo Platform", "size": 8192},
+            {"name": "Feng Office Community Edition", "size": 8192},
+            {"name": "FUDforum", "size": 8192},
+            {"name": "FusionForge", "size": 8192},
+            {"name": "GForge", "size": 8192},
+            {"name": "Gobby", "size": 8192},
+            {"name": "Group-Office", "size": 8192},
+            {"name": "GroupDAV", "size": 8192},
+            {"name": "Horde (software)", "size": 8192},
+            {"name": "Hula (software)", "size": 8192},
+            {"name": "Icy Phoenix", "size": 8192},
+            {"name": "Iko (software)", "size": 8192},
+            {"name": "Knomos", "size": 8192},
+            {"name": "Kolab", "size": 8192},
+            {"name": "Kune (software)", "size": 8192},
+            {"name": "LibreSource", "size": 8192},
+            {"name": "LogicalDOC", "size": 8192},
+            {"name": "Mayan (software)", "size": 8192},
+            {"name": "Mindquarry", "size": 8192},
+            {"name": "ModernBB", "size": 8192},
+            {"name": "Open-Xchange", "size": 8192},
+            {"name": "OpenKM", "size": 8192},
+            {"name": "Phorum", "size": 8192},
+            {"name": "PhpBB", "size": 8192},
+            {"name": "PhpGroupWare", "size": 8192},
+            {"name": "PunBB", "size": 8192},
+            {"name": "Scalix", "size": 8192},
+            {"name": "Simple Groupware", "size": 8192},
+            {"name": "SOGo", "size": 8192},
+            {"name": "Tiki Wiki CMS Groupware", "size": 8192},
+            {"name": "Tine 2.0", "size": 8192},
+            {"name": "Vanilla Forums", "size": 8192},
+            {"name": "Zarafa (software)", "size": 8192},
+            {"name": "Zimbra", "size": 8192}
+        ]
+    },
+    {"name": "Medical software", "children":
+        [
+            {"name": "Public health and biosurveillance", "children":
+                [
+                    {"name": "Epi Info", "size": 8192},
+                    {"name": "Spatiotemporal Epidemiological Modeler", "size": 8192}
+                ]
+            },
+            {"name": "Dental management and patient record", "children":
+                [
+                    {"name": "Open Dental", "size": 8192}
+                ]
+              
+            },
+            {"name": "Electronic health or medical record", "children":
+                [
+                    {"name": "CottageMed", "size": 8192},
+                    {"name": "FreeMED", "size": 8192},
+                    {"name": "GaiaEHR", "size": 8192},
+                    {"name": "GNUmed", "size": 8192},
+                    {"name": "GNU Health", "size": 8192},
+                    {"name": "Hospital OS", "size": 8192},
+                    {"name": "HOSxP", "size": 8192},                    
+                    {"name": "Mirth (software)", "size": 8192},
+                    {"name": "openEHR", "size": 8192},
+                    {"name": "OpenEMR", "size": 8192},
+                    {"name": "OpenMRS", "size": 8192},
+                    {"name": "OSCAR McMaster", "size": 8192},
+                    {"name": "THIRRA (EHR)", "size": 8192},
+                    {"name": "VistA", "size": 8192},
+                    {"name": "ZEPRS", "size": 8192},
+                    {"name": "SmartCare", "size": 8192}
+                ]
+            },
+            {"name": "Medical practice management software", "children":
+                [
+                    {"name": "ClearHealth", "size": 8192},
+                    {"name": "FreeMED", "size": 8192},
+                    {"name": "GNU Health", "size": 8192},
+                    {"name": "MedinTux", "size": 8192},
+                    {"name": "Open Dental", "size": 8192},
+                    {"name": "OpenEMR", "size": 8192}
+                ]
+            },
+            {"name": "Health system management", "children":
+                    [
+                        {"name": "DHIS", "size": 8192},
+                        {"name": "HRHIS", "size": 8192}
+                    ]
+            },
+            {"name": "Imaging/visualization", "children":
+                [ 
+                    {"name": "Drishti", "size": 8192},
+                    {"name": "Endrov", "size": 8192},
+                    {"name": "ITK", "size": 8192},
+                    {"name": "InVesalius", "size": 8192},
+                    {"name": "ITK-SNAP", "size": 8192},
+                    {"name": "Ginkgo CADx", "size": 8192},
+                    {"name": "MITK", "size": 8192},
+                    {"name": "Orthanc", "size": 8192},
+                    {"name": "OsiriX", "size": 8192},
+                    {"name": "ParaView", "size": 8192},
+                    {"name": "3DSlicer", "size": 8192},
+                    {"name": "Voreen volume rendering engine", "size": 8192},
+                    {"name": "VTK visualization toolkit", "size": 8192},
+                    {"name": "Xebra (medical imaging software)", "size": 8192},
+                    {"name": "GIMIAS", "size": 8192}
+                ]
+            },
+            {"name": "Medical information system", "children":
+                [
+                    {"name": "Caisis", "size": 8192}
+                ]
+            },
+            {"name": "Research", "children":
+                [
+                    {"name": "LabKey Server", "size": 8192}
+                ]
+            },
+            {"name": "Mobile device", "children":
+                [
+                    {"name": "Ushahidi", "size": 8192}
+                ]
+            },
+            {"name": "Out-of-the-box distribution", "children":
+                [
+                    {"name": "BioLinux", "size": 8192},
+                    {"name": "Debian-Med", "size": 8192},
+                    {"name": "Ubuntu-Med", "size": 8192}
+                ]
+            },
+            {"name": "Interoperability testing", "children":
+                [
+                    {"name": "The Office of the National Coordinator for Health Information Technology (ONC) tasked MITRE with developing an open-source program called Cypress to test EHR software for compliance with the Meaningful Use Stage 2 Clinical Quality Measures.[2]", "size": 8192},
+                    {"name": "The Certification Commission for Healthcare Information Technology (CCHIT) and MITRE developed an open-source program called Laika to test EHR software for compliance with CCHIT interoperability data standards, including the HITSP C32 XML and HL7 v2 Lab messages.", "size": 8192}
+                ]
+            }
+        ]
+    },
+    {"name": "Multimedia", "children":
+        [
+            {"name": "2D animation", "children":
+                [
+                    {"name": "KToon", "size": 8192},
+                    {"name": "Pencil", "size": 8192},
+                    {"name": "Synfig", "size": 8192},
+                    {"name": "Tupi", "size": 8192}
+                ]
+            },
+            {"name": "3D animation", "children":
+                [
+                    {"name": "Art of Illusion", "size": 8192},
+                    {"name": "Blender", "size": 8192},
+                    {"name": "K-3D", "size": 8192},
+                    {"name": "OpenFX", "size": 8192},
+                    {"name": "Seamless3d", "size": 8192}
+                ]
+            },
+            {"name": "Audio editors / audio management", "children":
+                [
+                    {"name": "Audio analysis", "children":
+                        [
+                            {"name": "Baudline", "size": 8192},
+                            {"name": "BRP-PACU", "size": 8192},
+                            {"name": "lxsndtest", "size": 8192},
+                            {"name": "Praat", "size": 8192},
+                            {"name": "Sonic Visualiser", "size": 8192},
+                            {"name": "Spek", "size": 8192},
+                            {"name": "WaveSurfer", "size": 8192}
+                        ]
+                    },
+                    {"name": "Converters", "children":
+                        [
+                            {"name": "Max", "size": 8192},
+                            {"name": "FFmpeg", "size": 8192},
+                            {"name": "Libav", "size": 8192},
+                            {"name": "MPlayer", "size": 8192},
+                            {"name": "fre:ac", "size": 8192}
+                        ]
+                    },
+                    {"name": "DJ Software", "children":
+                        [
+                            {"name": "Mixxx", "size": 8192},
+                            {"name": "VirtualDJ", "size": 8192},
+                            {"name": "Traktor", "size": 8192},
+                            {"name": "Xwax", "size": 8192}
+                        ]
+                    },
+                    {"name": "Modular system", "children":
+                        [
+                            {"name": "jMax", "size": 8192},
+                            {"name": "SynFactory", "size": 8192},
+                            {"name": "VisualAp", "size": 8192},
+                            {"name": "aRts", "size": 8192},
+                            {"name": "Libvisual", "size": 8192}
+                        ]
+                    },
+                    {"name": "Platform", "children":
+                        [
+                            {"name": "Ubuntu Studio", "size": 8192},
+                            {"name": "AVLinux", "size": 8192},
+                            {"name": "dyne:bolic", "size": 8192},
+                            {"name": "AGNULA", "size": 8192},
+                            {"name": "Musix", "size": 8192},
+                            {"name": "64 Studio", "size": 8192},
+                            {"name": "Planet CCRMA", "size": 8192}
+                        ]
+                    },
+                    {"name": "Player", "children":
+                        [
+                            {"name": "Comparison of audio player software", "children":
+                                [
+                                    {"name": "AlsaPlayer", "size": 8192},
+                                    {"name": "Aqualung", "size": 8192},
+                                    {"name": "Audacious", "size": 8192},
+                                    {"name": "Beep Media Player", "size": 8192},
+                                    {"name": "Bluemindo", "size": 8192},
+                                    {"name": "Decibel Audio Player", "size": 8192},
+                                    {"name": "Muine", "size": 8192},
+                                    {"name": "Pogo", "size": 8192},
+                                    {"name": "DeaDBeeFdbeef", "size": 8192},
+                                    {"name": "qmmp", "size": 8192},
+                                    {"name": "XiXMusicPlayer", "size": 8192},
+                                    {"name": "XMMS", "size": 8192},
+                                    {"name": "Amarok", "size": 8192},
+                                    {"name": "aTunes", "size": 8192},
+                                    {"name": "Banshee", "size": 8192},
+                                    {"name": "Clementine", "size": 8192},
+                                    {"name": "Exaile", "size": 8192},
+                                    {"name": "Gmusicbrowser", "size": 8192},
+                                    {"name": "Guayadeque", "size": 8192},
+                                    {"name": "JuK", "size": 8192},
+                                    {"name": "Jajuk", "size": 8192},
+                                    {"name": "Listen", "size": 8192},
+                                    {"name": "Musique", "size": 8192},
+                                    {"name": "Nightingale", "size": 8192},
+                                    {"name": "Evince", "size": 8192},
+                                    {"name": "Quod Libet", "size": 8192},
+                                    {"name": "Rhythmbox", "size": 8192},
+                                    {"name": "Tomahawk", "size": 8192},
+                                    {"name": "Songbird", "size": 8192},
+                                    {"name": "Mixxx", "size": 8192}
+                                ]
+                            }
+                        ]
+                    },
+                    {"name": "Audio programming language", "children":
+                        [
+                            {"name": "Csound", "size": 8192},
+                            {"name": "SuperCollider", "size": 8192},
+                            {"name": "Nyquist", "size": 8192}, 
+                            {"name": "Pure Data", "size": 8192}
+                        ]
+                    },
+                    {"name": "Radio broadcasting", "children":
+                        [
+
+                            {"name": "Airtime", "size": 8192},
+                            {"name": "ARAS", "size": 8192},
+                            {"name": "Campcaster", "size": 8192},
+                            {"name": "OpenBroadcaster", "size": 8192},
+                            {"name": "RadioDJ", "size": 8192},
+                            {"name": "Rivendell", "size": 8192}
+                        ]
+                    },
+                    {"name": "Recording and editing", "children":
+                        [
+                            {"name": "Ardour", "size": 8192},
+                            {"name": "Audacity", "size": 8192},
+                            {"name": "Calf Studio Gear", "size": 8192},
+                            {"name": "cutmp3", "size": 8192},
+                            {"name": "Ecasound", "size": 8192},
+                            {"name": "Eisenkraut", "size": 8192},
+                            {"name": "harmonySEQ", "size": 8192},
+                            {"name": "Jokosher", "size": 8192},
+                            {"name": "LMMS", "size": 8192}
+                        ]
+                    },
+                    {"name": "Digital audio workstation", "children":
+                        [
+                            {"name": "MusE", "size": 8192},
+                            {"name": "Qtractor", "size": 8192},
+                            {"name": "ReZound", "size": 8192},
+                            {"name": "Rosegarden", "size": 8192},
+                            {"name": "SoX", "size": 8192},
+                            {"name": "Sweep", "size": 8192},
+                            {"name": "Traverso DAW", "size": 8192},
+                            {"name": "WaveSurfer", "size": 8192},
+                            {"name": "WavoSaur", "size": 8192}
+                        ]
+                    },
+                    {"name": "Softsynth", "children":
+                        [
+                            {"name": "FluidSynth", "size": 8192},
+                            {"name": "TiMidity++", "size": 8192},
+                            {"name": "ZynAddSubFX", "size": 8192},
+                            {"name": "Lm3jo", "size": 8192}
+                        ]
+                    },
+                    {"name": "Streaming", "children":
+                        [
+                            {"name": "Icecast", "size": 8192},
+                            {"name": "PeerCast", "size": 8192},
+                            {"name": "Firefly Media Server", "size": 8192},
+                            {"name": "VideoLAN", "size": 8192}
+                        ]
+                    },
+                    {"name": "Sound recording and reproduction", "children":
+                        [
+                            {"name": "Advanced Linux Sound Architecture (ALSA)", "size": 8192},
+                            {"name": "DSSI", "size": 8192},
+                            {"name": "GStreamer", "size": 8192},
+                            {"name": "JACK Audio Connection Kit (JACK)", "size": 8192},
+                            {"name": "Linux Audio Developers Simple Plugin API (LADSPA)", "size": 8192},
+                            {"name": "Open Sound System", "size": 8192},
+                            {"name": "PulseAudio", "size": 8192}
+                        ]
+                    },
+                    {"name": "Music tracker", "children":
+                        [
+
+                            {"name": "CheeseTracker", "size": 8192},
+                            {"name": "MilkyTracker", "size": 8192},
+                            {"name": "OpenMPT", "size": 8192},
+                            {"name": "Psycle", "size": 8192},
+                            {"name": "SoundTracker", "size": 8192}
+                        ]
+                    },
+                    {"name": "Audio", "children":
+                        [
+                            {"name": "Aria", "size": 8192},
+                            {"name": "Cythar Sequencer", "size": 8192},
+                            {"name": "Giada", "size": 8192},
+                            {"name": "Gnaural", "size": 8192},
+                            {"name": "GNU LilyPond", "size": 8192},
+                            {"name": "Hydrogen", "size": 8192},
+                            {"name": "Impro-Visor", "size": 8192},
+                            {"name": "orDrumbox", "size": 8192},
+                            {"name": "Kangas Sound Editor", "size": 8192},
+                            {"name": "libsndfile", "size": 8192},
+                            {"name": "Levelator", "size": 8192}
+                        ]
+                    }
+                ]
+            },
+            {"name": "Optical disc authoring", "children":
+                [
+                    {"name": "AcetoneISO", "size": 8192},
+                    {"name": "Brasero (software)", "size": 8192},
+                    {"name": "Cdrdao", "size": 8192},
+                    {"name": "Cdrkit", "size": 8192},
+                    {"name": "Cdrtools", "size": 8192},
+                    {"name": "DeVeDe", "size": 8192},
+                    {"name": "Dvd+rw-tools", "size": 8192},
+                    {"name": "GnomeBaker", "size": 8192},
+                    {"name": "InfraRecorder", "size": 8192},
+                    {"name": "ISO Master cont.", "size": 8192},
+                    {"name": "ISO Recorder Power Toy", "size": 8192},
+                    {"name": "K3b", "size": 8192},
+                    {"name": "Libburnia", "size": 8192},
+                    {"name": "X-CD-Roast", "size": 8192}
+                ]
+            },
+            {"name": "Flash animation", "children":
+                [
+                    {"name": "Pencil Animation", "size": 8192},
+                    {"name": "SWFTools", "size": 8192}
+                ]
+            },
+            {"name": "Graphics", "children":
+                [
+                    {"name": "2Geom", "size": 8192},
+                    {"name": "Apophysis (software)", "size": 8192},
+                    {"name": "Asymptote (vector graphics language)", "size": 8192},
+                    {"name": "AutoREALM", "size": 8192},
+                    {"name": "AVLinux", "size": 8192},
+                    {"name": "Calligra Suite", "size": 8192},
+                    {"name": "CloudCompare", "size": 8192},
+                    {"name": "CombineZ", "size": 8192},
+                    {"name": "Create Project", "size": 8192},
+                    {"name": "DrQueue", "size": 8192},
+                    {"name": "EGL (API)", "size": 8192},
+                    {"name": "Embroidermodder", "size": 8192},
+                    {"name": "Enlightenment Foundation Libraries", "size": 8192},
+                    {"name": "FITS Liberator", "size": 8192},
+                    {"name": "FlashDP", "size": 8192},
+                    {"name": "Fusionviewer", "size": 8192},
+                    {"name": "GIMP", "size": 8192},
+                    {"name": "GOCR", "size": 8192},
+                    {"name": "GPhoto", "size": 8192},
+                    {"name": "Graphics Layout Engine", "size": 8192},
+                    {"name": "GraphicsMagick", "size": 8192},
+                    {"name": "Hugin (software)", "size": 8192},
+                    {"name": "ImageMagick", "size": 8192},
+                    {"name": "Inkscape", "size": 8192},
+                    {"name": "Interactive Digital Photomontage", "size": 8192},
+                    {"name": "Little CMS", "size": 8192},
+                    {"name": "Lphoto", "size": 8192},
+                    {"name": "MeshLab", "size": 8192},
+                    {"name": "MilkDrop", "size": 8192},
+                    {"name": "Netpbm", "size": 8192},
+                    {"name": "OpenEXR", "size": 8192},
+                    {"name": "OptiPNG", "size": 8192},
+                    {"name": "OsiriX", "size": 8192},
+                    {"name": "Paintbrush (software)", "size": 8192},
+                    {"name": "Panorama Tools", "size": 8192},
+                    {"name": "BlueMarine", "size": 8192},
+                    {"name": "Pinta (software)", "size": 8192},
+                    {"name": "Pngcrush", "size": 8192},
+                    {"name": "Rawstudio", "size": 8192},
+                    {"name": "RawTherapee", "size": 8192},
+                    {"name": "Scrot", "size": 8192},
+                    {"name": "Seashore (software)", "size": 8192},
+                    {"name": "Skencil", "size": 8192},
+                    {"name": "Synfig", "size": 8192},
+                    {"name": "TISFAT Zero", "size": 8192},
+                    {"name": "Toonloop", "size": 8192},
+                    {"name": "UFRaw", "size": 8192},
+                    {"name": "X Image Extension", "size": 8192},
+                    {"name": "X Window System", "size": 8192},
+                    {"name": "Xara Xtreme LX", "size": 8192}
+                ]
+            },
+            {"name": "Image gallery", "children":
+                [
+            
+                    {"name": "Album Shaper", "size": 8192},
+                    {"name": "Coppermine Photo Gallery", "size": 8192},
+                    {"name": "Gallery Project", "size": 8192},
+                    {"name": "MediaGoblin", "size": 8192},
+                    {"name": "Openclipart", "size": 8192},
+                    {"name": "Phoca Gallery", "size": 8192},
+                    {"name": "PhpGraphy", "size": 8192},
+                    {"name": "Piwigo", "size": 8192},
+                    {"name": "Plogger", "size": 8192},
+                    {"name": "ResourceSpace", "size": 8192},
+                    {"name": "TinyWebGallery", "size": 8192}
+                ]
+            },
+            {"name": "Image viewer", "children":
+                [
+                    {"name": "Eye of GNOME", "size": 8192},
+                    {"name": "F-spot", "size": 8192},
+                    {"name": "Geeqie", "size": 8192},
+                    {"name": "Gthumb", "size": 8192},
+                    {"name": "Gwenview", "size": 8192},
+                    {"name": "Kphotoalbum", "size": 8192},
+                    {"name": "Opticks", "size": 8192}
+                ]
+            },
+            {"name": "Codec", "size": 8192},
+            {"name": "Television", "children":
+                [
+                    {"name": "Aegisub", "size": 8192},
+                    {"name": "Boxee", "size": 8192},
+                    {"name": "Fxtv", "size": 8192},
+                    {"name": "GeeXboX", "size": 8192},
+                    {"name": "Kdetv", "size": 8192},
+                    {"name": "LinHES", "size": 8192},
+                    {"name": "LinuxMCE", "size": 8192},
+                    {"name": "LinuxTV", "size": 8192},
+                    {"name": "MediaPortal", "size": 8192},
+                    {"name": "Mythbuntu", "size": 8192},
+                    {"name": "MythDora", "size": 8192},
+                    {"name": "MythTV", "size": 8192},
+                    {"name": "Sabbu", "size": 8192},
+                    {"name": "SubRip", "size": 8192},
+                    {"name": "Tvtime", "size": 8192},
+                    {"name": "Xawtv", "size": 8192},
+                    {"name": "ZoneMinder", "size": 8192}
+                ]
+            },
+            {"name": "Transcoding", "children":
+                [
+                    {"name": "Dr. DivX", "size": 8192},
+                    {"name": "FFmpeg", "size": 8192},
+                    {"name": "GPAC Project on Advanced Content", "size": 8192},
+                    {"name": "HandBrake", "size": 8192},
+                    {"name": "Libav", "size": 8192},
+                    {"name": "Libdash", "size": 8192},
+                    {"name": "MEncoder", "size": 8192},
+                    {"name": "OggConvert", "size": 8192},
+                    {"name": "StaxRip", "size": 8192},
+                    {"name": "Transcode (software)", "size": 8192}
+                ]
+            },
+            {"name": "Video editing software", "children":
+                [  
+                    {"name": "Avidemux", "size": 8192},
+                    {"name": "AviSynth", "size": 8192},
+                    {"name": "Blender", "size": 8192},
+                    {"name": "Cinelerra", "size": 8192},
+                    {"name": "DScaler", "size": 8192},
+                    {"name": "DVD Flick", "size": 8192},
+                    {"name": "Kaltura", "size": 8192},
+                    {"name": "Kdenlive", "size": 8192},
+                    {"name": "Kino", "size": 8192},
+                    {"name": "LiVES", "size": 8192},
+                    {"name": "OpenShot Video Editor", "size": 8192},
+                    {"name": "Pitivi", "size": 8192},
+                    {"name": "VirtualDub", "size": 8192},
+                    {"name": "VirtualDubMod", "size": 8192},
+                    {"name": "VideoLAN Movie Creator", "size": 8192}
+                ]
+            },
+            {"name": "Video encoder", "children":
+                [  
+                    {"name": "Avidemux", "size": 8192},
+                    {"name": "HandBrake", "size": 8192}
+                ]
+            },
+            {"name": "Media player", "children":
+                [  
+                    {"name": "VLC media player", "size": 8192},
+                    {"name": "Media Player Classic", "size": 8192}
+                ]
+            },
+            {"name": "Other media packages", "children":
+                [  
+                    {"name": "Celtx", "size": 8192},
+                    {"name": "Gnome Subtitles", "size": 8192}
+                ]
+            }
+        ]
+    },
+    {"name": "Operating system", "children":
+        [
+            {"name": "Emulator", "children":
+                [  
+                    {"name": "1964 (emulator)", "size": 8192},
+                    {"name": "AppleWin", "size": 8192},
+                    {"name": "Basilisk II", "size": 8192},
+                    {"name": "Bnetd", "size": 8192},
+                    {"name": "Bochs", "size": 8192},
+                    {"name": "ConEmu", "size": 8192},
+                    {"name": "Cygwin", "size": 8192},
+                    {"name": "DOSBox", "size": 8192},
+                    {"name": "Fuse (emulator)", "size": 8192},
+                    {"name": "GNOME Boxes", "size": 8192},
+                    {"name": "GNS3", "size": 8192},
+                    {"name": "GXemul", "size": 8192},
+                    {"name": "Hatari (emulator)", "size": 8192},
+                    {"name": "Hercules (emulator)", "size": 8192},
+                    {"name": "Higan (emulator)", "size": 8192},
+                    {"name": "JPC (emulator)", "size": 8192},
+                    {"name": "Kernel-based Virtual Machine", "size": 8192},
+                    {"name": "Mac-on-Linux", "size": 8192},
+                    {"name": "Mac-on-Mac", "size": 8192},
+                    {"name": "Mupen64Plus", "size": 8192},
+                    {"name": "OpenEmulator", "size": 8192},
+                    {"name": "OpenMSX", "size": 8192},
+                    {"name": "PCSX2", "size": 8192},
+                    {"name": "PearPC", "size": 8192},
+                    {"name": "Play!", "size": 8192},
+                    {"name": "PPSSPP", "size": 8192},
+                    {"name": "Previous (emulator)", "size": 8192},
+                    {"name": "PvPGN", "size": 8192},
+                    {"name": "QEMU", "size": 8192},
+                    {"name": "RPCS3", "size": 8192},
+                    {"name": "SheepShaver", "size": 8192},
+                    {"name": "SIMH", "size": 8192},
+                    {"name": "TiEmu", "size": 8192},
+                    {"name": "UAE (emulator)", "size": 8192},
+                    {"name": "VICE", "size": 8192},
+                    {"name": "VirtualBox", "size": 8192},
+                    {"name": "VisualBoyAdvance", "size": 8192},
+                    {"name": "Xenia (emulator)", "size": 8192},
+                    {"name": "ZSNES", "size": 8192}
+                ]
+            },
+            {"name": "Virtualization", "children":
+                [
+                    {"name": "Bhyve", "size": 8192},
+                    {"name": "Chroot", "size": 8192},
+                    {"name": "Cooperative Linux", "size": 8192},
+                    {"name": "EmbeddedXEN", "size": 8192},
+                    {"name": "Free Java implementations", "size": 8192},
+                    {"name": "FreeBSD jail", "size": 8192},
+                    {"name": "GNOME Boxes", "size": 8192},
+                    {"name": "Kernel-based Virtual Machine", "size": 8192},
+                    {"name": "Lguest", "size": 8192},
+                    {"name": "Libguestfs", "size": 8192},
+                    {"name": "Libvirt", "size": 8192},
+                    {"name": "Linux-VServer", "size": 8192},
+                    {"name": "LXC", "size": 8192},
+                    {"name": "LynxSecure", "size": 8192},
+                    {"name": "Marionnet", "size": 8192},
+                    {"name": "OpenJDK", "size": 8192},
+                    {"name": "OpenVZ", "size": 8192},
+                    {"name": "QEMU", "size": 8192},
+                    {"name": "ResidualVM", "size": 8192},
+                    {"name": "ScummVM", "size": 8192},
+                    {"name": "Ulteo Open Virtual Desktop", "size": 8192},
+                    {"name": "User-mode Linux", "size": 8192},
+                    {"name": "Virtual Machine Manager", "size": 8192},
+                    {"name": "VirtualBox", "size": 8192},
+                    {"name": "Xen", "size": 8192},
+                    {"name": "XtratuM", "size": 8192},
+                    {"name": "ZeroVM", "size": 8192}
+                ]
+            },    
+            {"name": "386BSD", "size": 8192},
+            {"name": "Arch BSD", "size": 8192},
+            {"name": "Arch Hurd", "size": 8192},
+            {"name": "AROS Research Operating System", "size": 8192},
+            {"name": "AtheOS", "size": 8192},
+            {"name": "BareMetal", "size": 8192},
+            {"name": "Berkeley Software Distribution", "size": 8192},
+            {"name": "BeRTOS", "size": 8192},
+            {"name": "Bluebottle OS", "size": 8192},
+            {"name": "Caldera OpenDOS", "size": 8192},
+            {"name": "CapROS", "size": 8192},
+            {"name": "ChibiOS/RT", "size": 8192},
+            {"name": "Concurrent CP/M", "size": 8192},
+            {"name": "Concurrent CP/M-68K", "size": 8192},
+            {"name": "Concurrent CP/M-86", "size": 8192},
+            {"name": "Contiki", "size": 8192},
+            {"name": "Cosmos (operating system)", "size": 8192},
+            {"name": "CP/M", "size": 8192},
+            {"name": "CP/M-86", "size": 8192},
+            {"name": "CP/M 8-16", "size": 8192},
+            {"name": "CP/M Plus", "size": 8192},
+            {"name": "CP/M-68K", "size": 8192},
+            {"name": "CP/M-80", "size": 8192},
+            {"name": "CP/M-8000", "size": 8192},
+            {"name": "CP/M-86 Plus", "size": 8192},
+            {"name": "CP/M-86/80", "size": 8192},
+            {"name": "Darwin (operating system)", "size": 8192},
+            {"name": "DexOS", "size": 8192},
+            {"name": "DragonFly BSD", "size": 8192},
+            {"name": "DuinOS", "size": 8192},
+            {"name": "ECos", "size": 8192},
+            {"name": "EmuTOS", "size": 8192},
+            {"name": "Es (operating system)", "size": 8192},
+            {"name": "Ethernut", "size": 8192},
+            {"name": "FMI/OS", "size": 8192},
+            {"name": "Free-DOS", "size": 8192},
+            {"name": "FreeDOS", "size": 8192},
+            {"name": "FreeRTOS", "size": 8192},
+            {"name": "GeckOS", "size": 8192},
+            {"name": "GNU", "size": 8192},
+            {"name": "GNU variants", "size": 8192},
+            {"name": "Haiku (operating system)", "size": 8192},
+            {"name": "HDOS", "size": 8192},
+            {"name": "HelenOS", "size": 8192},
+            {"name": "House (operating system)", "size": 8192},
+            {"name": "ILIOS", "size": 8192},
+            {"name": "JX (operating system)", "size": 8192},
+            {"name": "K42", "size": 8192},
+            {"name": "KolibriOS", "size": 8192},
+            {"name": "LINX (IPC)", "size": 8192},
+            {"name": "LiteOS", "size": 8192},
+            {"name": "LSE/OS", "size": 8192},
+            {"name": "LUnix", "size": 8192},
+            {"name": "Managed Operation System Alliance", "size": 8192},
+            {"name": "MenuetOS", "size": 8192},
+            {"name": "MINIX", "size": 8192},
+            {"name": "MINIX 3", "size": 8192},
+            {"name": "Minix-vmd", "size": 8192},
+            {"name": "MiNT", "size": 8192},
+            {"name": "MonaOS", "size": 8192},
+            {"name": "Movitz", "size": 8192},
+            {"name": "MP/M", "size": 8192},
+            {"name": "MP/M 8-16", "size": 8192},
+            {"name": "MP/M II", "size": 8192},
+            {"name": "MP/M-286", "size": 8192},
+            {"name": "MP/M-80", "size": 8192},
+            {"name": "MP/M-86", "size": 8192},
+            {"name": "MS/8", "size": 8192},
+            {"name": "Multics", "size": 8192},
+            {"name": "Nano-RK", "size": 8192},
+            {"name": "Nemesis (operating system)", "size": 8192},
+            {"name": "Oberon (operating system)", "size": 8192},
+            {"name": "OpenDOS", "size": 8192},
+            {"name": "OS/VX", "size": 8192},
+            {"name": "PD-DOS", "size": 8192},
+            {"name": "Personal CP/M", "size": 8192},
+            {"name": "Personal CP/M-80", "size": 8192},
+            {"name": "Personal CP/M-86", "size": 8192},
+            {"name": "Phantom OS", "size": 8192},
+            {"name": "Phoenix-RTOS", "size": 8192},
+            {"name": "Pintos", "size": 8192},
+            {"name": "Prex", "size": 8192},
+            {"name": "QP (framework)", "size": 8192},
+            {"name": "ReactOS", "size": 8192},
+            {"name": "Robot Operating System", "size": 8192},
+            {"name": "Sanos", "size": 8192},
+            {"name": "SHARE Operating System", "size": 8192},
+            {"name": "SharpOS (operating system)", "size": 8192},
+            {"name": "Soft Hard Real-Time Kernel", "size": 8192},
+            {"name": "SPIN (operating system)", "size": 8192},
+            {"name": "Syllable Desktop", "size": 8192},
+            {"name": "SymbOS", "size": 8192},
+            {"name": "Tinix", "size": 8192},
+            {"name": "Trix (operating system)", "size": 8192},
+            {"name": "TUD:OS", "size": 8192},
+            {"name": "VA Kernel", "size": 8192},
+            {"name": "Version 6 Unix", "size": 8192},
+            {"name": "Version 7 Unix", "size": 8192},
+            {"name": "VSTa", "size": 8192},
+            {"name": "Whitix", "size": 8192},
+            {"name": "Xv6", "size": 8192}
+        ]
+    },
+    {"name": "Password management", "children":
+        [
+            {"name": "KeePass", "size": 8192},
+            {"name": "Password Safe", "size": 8192},
+            {"name": "Mitro", "size": 8192}
+        ]
+    },
+    {"name": "Personal information manager", "children":
+        [
+            {"name": "Chandler", "size": 8192},
+            {"name": "KAddressBook", "size": 8192},
+            {"name": "Kontact", "size": 8192},
+            {"name": "KOrganizer", "size": 8192},
+            {"name": "Mozilla Calendar", "size": 8192},
+            {"name": "Novell Evolution", "size": 8192},
+            {"name": "OpenSync (software)", "size": 8192},
+            {"name": "Project.net", "size": 8192},
+            {"name": "TeamLab", "size": 8192}
+        ]
+    },
+    {"name": "Computer programming", "children":
+        [
+            {"name": "Bug tracker", "children":
+                [
+                    {"name": "Bugzilla", "size": 8192},
+                    {"name": "Mantis", "size": 8192},
+                    {"name": "Mindquarry", "size": 8192},
+                    {"name": "Redmine", "size": 8192},
+                    {"name": "Trac", "size": 8192}
+                ]
+            },
+            {"name": "Code generator", "children":
+                [
+                    {"name": "Bison", "size": 8192},
+                    {"name": "CodeSynthesis XSD", "size": 8192},
+                    {"name": "CodeSynthesis XSD/e", "size": 8192},
+                    {"name": "Flex lexical analyser", "size": 8192},
+                    {"name": "Kodos", "size": 8192},
+                    {"name": "Open Scene Graph", "size": 8192},
+                    {"name": "OpenSCDP", "size": 8192},
+                    {"name": "phpCodeGenie", "size": 8192},
+                    {"name": "SableCC", "size": 8192},
+                    {"name": "SWIG", "size": 8192},
+                    {"name": "^txt2regex$", "size": 8192},
+                    {"name": "xmlbeansxx", "size": 8192},
+                    {"name": "YAKINDU", "size": 8192}
+                ]
+            },
+            {"name": "Configuration software", "children":
+                [
+                    {"name": "Autoconf", "size": 8192},
+                    {"name": "Automake", "size": 8192},
+                    {"name": "CMake", "size": 8192}
+                ]
+            },
+            {"name": "Debugger", "children":
+                [
+                    {"name": "GNU Debugger", "size": 8192},
+                    {"name": "Memtest86", "size": 8192},
+                    {"name": "Xnee", "size": 8192}
+                ]
+            },
+            {"name": "Integrated development environment", "children":
+                [
+                    {"name": "Android Studio", "size": 8192},
+                    {"name": "Anjuta", "size": 8192},
+                    {"name": "Apache Flex", "size": 8192},
+                    {"name": "AppFlower", "size": 8192},
+                    {"name": "Aptana", "size": 8192},
+                    {"name": "Basic For Qt", "size": 8192},
+                    {"name": "Bluefish (software)", "size": 8192},
+                    {"name": "BlueJ", "size": 8192},
+                    {"name": "Cameleon (software)", "size": 8192},
+                    {"name": "Climacs", "size": 8192},
+                    {"name": "Cloud9 IDE", "size": 8192},
+                    {"name": "Code::Blocks", "size": 8192},
+                    {"name": "CodeLite", "size": 8192},
+                    {"name": "CWEB", "size": 8192},
+                    {"name": "Dev-C++", "size": 8192},
+                    {"name": "Dev-Pascal", "size": 8192},
+                    {"name": "DJGCC", "size": 8192},
+                    {"name": "DJGPP", "size": 8192},
+                    {"name": "DogmaModeler", "size": 8192},
+                    {"name": "EasyEclipse", "size": 8192},
+                    {"name": "Eclipse (software)", "size": 8192},
+                    {"name": "EiffelStudio", "size": 8192},
+                    {"name": "Emacs", "size": 8192},
+                    {"name": "Eric Python IDE", "size": 8192},
+                    {"name": "FlashDevelop", "size": 8192},
+                    {"name": "Fresh (IDE)", "size": 8192},
+                    {"name": "Gambas", "size": 8192},
+                    {"name": "Geany", "size": 8192},
+                    {"name": "General Architecture for Text Engineering", "size": 8192},
+                    {"name": "GNAT Programming Studio", "size": 8192},
+                    {"name": "GNAVI", "size": 8192},
+                    {"name": "GNU Emacs", "size": 8192},
+                    {"name": "GNU MIX Development Kit", "size": 8192},
+                    {"name": "Greenfoot", "size": 8192},
+                    {"name": "HBasic", "size": 8192},
+                    {"name": "IcyOwl", "size": 8192},
+                    {"name": "IDLE (Python)", "size": 8192},
+                    {"name": "IntelliJ IDEA", "size": 8192},
+                    {"name": "JUDO (computer programming environment)", "size": 8192},
+                    {"name": "KDevelop", "size": 8192},
+                    {"name": "Komodo Edit", "size": 8192},
+                    {"name": "Kuzya", "size": 8192},
+                    {"name": "Lava (programming language)", "size": 8192},
+                    {"name": "Lazarus (IDE)", "size": 8192},
+                    {"name": "MCU 8051 IDE", "size": 8192},
+                    {"name": "Megido (Free Pascal)", "size": 8192},
+                    {"name": "MonoDevelop", "size": 8192},
+                    {"name": "NeOn Toolkit", "size": 8192},
+                    {"name": "NetBeans", "size": 8192},
+                    {"name": "Ninja-IDE", "size": 8192},
+                    {"name": "Nodeclipse", "size": 8192},
+                    {"name": "OntoWiki", "size": 8192},
+                    {"name": "Padre (software)", "size": 8192},
+                    {"name": "Photran", "size": 8192},
+                    {"name": "PHPEclipse", "size": 8192},
+                    {"name": "PIDA", "size": 8192},
+                    {"name": "Protégé (software)", "size": 8192},
+                    {"name": "PyDev", "size": 8192},
+                    {"name": "PyScripter", "size": 8192},
+                    {"name": "QDevelop", "size": 8192},
+                    {"name": "Qt Creator", "size": 8192},
+                    {"name": "Quanta Plus", "size": 8192},
+                    {"name": "RadRails", "size": 8192},
+                    {"name": "SharpDevelop", "size": 8192},
+                    {"name": "SLIME", "size": 8192},
+                    {"name": "SmallBASIC", "size": 8192},
+                    {"name": "Spyder (software)", "size": 8192},
+                    {"name": "Stani's Python Editor", "size": 8192},
+                    {"name": "TIGCC", "size": 8192},
+                    {"name": "Ultimate++", "size": 8192},
+                    {"name": "WaveMaker", "size": 8192},
+                    {"name": "WideStudio", "size": 8192},
+                    {"name": "WxDev-C++", "size": 8192},
+                    {"name": "YAKINDU Statechart Tools", "size": 8192},
+                    {"name": "ZeroBrane Studio", "size": 8192},
+                    {"name": "ZGameEditor", "size": 8192}
+                ]
+            },
+            {"name": "Version control system", "children":
+                [
+                    {"name": "Aegis (management software)", "size": 8192},
+                    {"name": "GNU arch", "size": 8192},
+                    {"name": "ArX (revision control)", "size": 8192},
+                    {"name": "GNU Bazaar", "size": 8192},
+                    {"name": "Bonsai (software)", "size": 8192},
+                    {"name": "Cervisia", "size": 8192},
+                    {"name": "Codeville", "size": 8192},
+                    {"name": "Cogito (software)", "size": 8192},
+                    {"name": "Concurrent Versions System", "size": 8192},
+                    {"name": "CVSNT", "size": 8192},
+                    {"name": "Darcs", "size": 8192},
+                    {"name": "Distributed Concurrent Versions System", "size": 8192},
+                    {"name": "Distributed revision control", "size": 8192},
+                    {"name": "Fossil (software)", "size": 8192},
+                    {"name": "Git (software)", "size": 8192},
+                    {"name": "Hgsubversion", "size": 8192},
+                    {"name": "Mercurial", "size": 8192},
+                    {"name": "Monotone (software)", "size": 8192},
+                    {"name": "OpenGrok", "size": 8192},
+                    {"name": "QVCS", "size": 8192},
+                    {"name": "Revision Control System", "size": 8192},
+                    {"name": "Source Code Control System", "size": 8192},
+                    {"name": "Apache Subversion", "size": 8192},
+                    {"name": "SVK", "size": 8192},
+                    {"name": "TortoiseCVS", "size": 8192},
+                    {"name": "TortoiseHg", "size": 8192},
+                    {"name": "Vesta (Software configuration management)", "size": 8192}
+                ]
+            }
+        ]
+    },
+    {"name": "Screensaver", "children":
+        [
+            {"name": "Boinc", "size": 8192},
+            {"name": "Electric Sheep", "size": 8192},
+            {"name": "XScreenSaver", "size": 8192}
+        ]
+    },
+    {"name": "Security", "children":
+        [
+            {"name": "Antivirus software", "children":
+                [
+                    {"name": "ClamAV", "size": 8192},
+                    {"name": "ClamWin", "size": 8192},
+                    {"name": "Gateway Anti-Virus", "size": 8192},
+                    {"name": "Lynis", "size": 8192}
+                ]
+            },
+            {"name": "Data loss prevention software", "children":
+                [
+                    {"name": "MyDLP", "size": 8192}
+                ]
+            },
+            {"name": "Data recovery","children":
+                [
+                    {"name": "dvdisaster", "size": 8192},
+                    {"name": "Foremost", "size": 8192},
+                    {"name": "PhotoRec", "size": 8192},
+                    {"name": "TestDisk", "size": 8192}
+                ]
+            },
+            {"name": "Forensics","children":
+                [
+                    {"name": "The Coroner's Toolkit", "size": 8192},
+                    {"name": "The Sleuth Kit", "size": 8192}
+                ]
+            },
+            {"name": "Disk erasing","children":
+                [
+                    {"name": " DBAN", "size": 8192},
+                    {"name": "srm", "size": 8192}
+                ]
+            },
+            {"name": "Encryption","children":
+              [
+                {"name": "GnuPG", "size": 8192},
+                {"name": "GnuTLS", "size": 8192},
+                {"name": "KGPG", "size": 8192},
+                {"name": "OpenSSL", "size": 8192},
+                {"name": "Seahorse", "size": 8192}
+              ]
+            },
+            {"name": "Disk encryption", "children":
+                [  
+                    {"name": "CrossCrypt", "size": 8192},
+                    {"name": "FreeOTFE and FreeOTFE Explorer", "size": 8192},
+                    {"name": "eCryptfs", "size": 8192}
+                ]
+            },
+            {"name": "Firewall", "children":
+                [  
+                    {"name": "Coyote Linux", "size": 8192},
+                    {"name": "Firestarter", "size": 8192},
+                    {"name": "IPCop", "size": 8192},
+                    {"name": "IPFilter", "size": 8192},
+                    {"name": "IPFire", "size": 8192},
+                    {"name": "ipfw", "size": 8192},
+                    {"name": "Iptables", "size": 8192},
+                    {"name": "M0n0wall", "size": 8192},
+                    {"name": "PeerGuardian", "size": 8192},
+                    {"name": "PF", "size": 8192},
+                    {"name": "pfSense", "size": 8192},
+                    {"name": "Rope", "size": 8192},
+                    {"name": "Shorewall", "size": 8192},
+                    {"name": "SmoothWall", "size": 8192},
+                    {"name": "Untangle", "size": 8192},
+                    {"name": "Vyatta", "size": 8192}
+                ]
+            },
+            {"name": "Network security", "children":
+                [  
+                    {"name": "Admon", "size": 8192},
+                    {"name": "Argus (monitoring software)", "size": 8192},
+                    {"name": "Arping", "size": 8192},
+                    {"name": "Arpwatch", "size": 8192},
+                    {"name": "Big Sister (software)", "size": 8192},
+                    {"name": "Cacti (software)", "size": 8192},
+                    {"name": "CFEngine", "size": 8192},
+                    {"name": "Check MK", "size": 8192},
+                    {"name": "Collectd", "size": 8192},
+                    {"name": "Conserver", "size": 8192},
+                    {"name": "DSniff", "size": 8192},
+                    {"name": "EtherApe", "size": 8192},
+                    {"name": "FreeNATS", "size": 8192},
+                    {"name": "Ganglia (software)", "size": 8192},
+                    {"name": "Ganymede (software)", "size": 8192},
+                    {"name": "Icinga", "size": 8192},
+                    {"name": "Ipsectrace", "size": 8192},
+                    {"name": "Justniffer", "size": 8192},
+                    {"name": "M23 software distribution system", "size": 8192},
+                    {"name": "Mausezahn", "size": 8192},
+                    {"name": "Multi Router Traffic Grapher", "size": 8192},
+                    {"name": "Munin (software)", "size": 8192},
+                    {"name": "N2rrd", "size": 8192},
+                    {"name": "Nagios", "size": 8192},
+                    {"name": "Nconf", "size": 8192},
+                    {"name": "NeDi", "size": 8192},
+                    {"name": "Net-SNMP", "size": 8192},
+                    {"name": "Netcat", "size": 8192},
+                    {"name": "Netdisco", "size": 8192},
+                    {"name": "Netsniff-ng", "size": 8192},
+                    {"name": "Network Console on Acid", "size": 8192},
+                    {"name": "Network Security Toolkit", "size": 8192},
+                    {"name": "Network weathermap", "size": 8192},
+                    {"name": "NetXMS", "size": 8192},
+                    {"name": "Ngrep", "size": 8192},
+                    {"name": "Nmap", "size": 8192},
+                    {"name": "NMIS", "size": 8192},
+                    {"name": "Observium", "size": 8192},
+                    {"name": "OpenNMS", "size": 8192},
+                    {"name": "Opsi", "size": 8192},
+                    {"name": "Opsview", "size": 8192},
+                    {"name": "Packet Sender", "size": 8192},
+                    {"name": "PacketFence", "size": 8192},
+                    {"name": "Packetsquare", "size": 8192},
+                    {"name": "Pandora FMS", "size": 8192},
+                    {"name": "Paping", "size": 8192},
+                    {"name": "Pcap", "size": 8192},
+                    {"name": "Pinba", "size": 8192},
+                    {"name": "Ping (networking utility)", "size": 8192},
+                    {"name": "Plink", "size": 8192},
+                    {"name": "Prefix WhoIs", "size": 8192},
+                    {"name": "RANCID (software)", "size": 8192},
+                    {"name": "Rrd4j", "size": 8192},
+                    {"name": "RRDtool", "size": 8192},
+                    {"name": "Sguil", "size": 8192},
+                    {"name": "Shinken (software)", "size": 8192},
+                    {"name": "SNMPTT", "size": 8192},
+                    {"name": "Snoop (software)", "size": 8192},
+                    {"name": "Subterfuge", "size": 8192},
+                    {"name": "Synctool", "size": 8192},
+                    {"name": "TclMon", "size": 8192},
+                    {"name": "TCP Gender Changer", "size": 8192},
+                    {"name": "Tcpdump", "size": 8192},
+                    {"name": "Tcptrace", "size": 8192},
+                    {"name": "Thresh (software)", "size": 8192},
+                    {"name": "Traceroute", "size": 8192},
+                    {"name": "W3af", "size": 8192},
+                    {"name": "WarVOX", "size": 8192},
+                    {"name": "Wireshark", "size": 8192},
+                    {"name": "Xplico", "size": 8192},
+                    {"name": "Xymon", "size": 8192},
+                    {"name": "Zabbix", "size": 8192},
+                    {"name": "Zenoss", "size": 8192},
+                    {"name": "Zentyal", "size": 8192}
+                ]
+            },
+            {"name": "Secure Shell", "children":
+              [
+                {"name": "Cyberduck", "size": 8192},
+                {"name": "Lsh", "size": 8192},
+                {"name": "OpenSSH", "size": 8192},
+                {"name": "PuTTY", "size": 8192}
+              ]
+            },
+            {"name": "Security software", "children":
+              [
+                {"name": "ACARM-ng", "size": 8192},
+                {"name": "Aircrack-ng", "size": 8192},
+                {"name": "Tails (operating system)", "size": 8192},
+                {"name": "Apache Shiro", "size": 8192},
+                {"name": "Armitage (computing)", "size": 8192},
+                {"name": "Arptables", "size": 8192},
+                {"name": "Autopsy (software)", "size": 8192},
+                {"name": "Bro (software)", "size": 8192},
+                {"name": "Buck-security", "size": 8192},
+                {"name": "Central Authentication Service", "size": 8192},
+                {"name": "Chntpw", "size": 8192},
+                {"name": "Clam AntiVirus", "size": 8192},
+                {"name": "ClamWin", "size": 8192},
+                {"name": "Cloudvpn", "size": 8192},
+                {"name": "Cryptlib", "size": 8192},
+                {"name": "Cryptmount", "size": 8192},
+                {"name": "Cryptocat", "size": 8192},
+                {"name": "DaveGrohl (software)", "size": 8192},
+                {"name": "DenyHosts", "size": 8192},
+                {"name": "Digital Forensics Framework", "size": 8192},
+                {"name": "DiskCryptor", "size": 8192},
+                {"name": "Distributed Access Control System", "size": 8192},
+                {"name": "Dropbear (software)", "size": 8192},
+                {"name": "DSploit", "size": 8192},
+                {"name": "Fail2ban", "size": 8192},
+                {"name": "FireHOL", "size": 8192},
+                {"name": "FLAIM", "size": 8192},
+                {"name": "FreeOTFE", "size": 8192},
+                {"name": "FreeS/WAN", "size": 8192},
+                {"name": "Gateway Anti-Virus", "size": 8192},
+                {"name": "GnuTLS", "size": 8192},
+                {"name": "Gpg4win", "size": 8192},
+                {"name": "GPGTools", "size": 8192},
+                {"name": "Hash Code cracker", "size": 8192},
+                {"name": "HijackThis", "size": 8192},
+                {"name": "HTTP Switchboard", "size": 8192},
+                {"name": "Immunix", "size": 8192},
+                {"name": "Ipchains", "size": 8192},
+                {"name": "IPCop", "size": 8192},
+                {"name": "IPFire", "size": 8192},
+                {"name": "Java Anon Proxy", "size": 8192},
+                {"name": "John the Ripper", "size": 8192},
+                {"name": "Ksplice", "size": 8192},
+                {"name": "Libgcrypt", "size": 8192},
+                {"name": "LibreSSL", "size": 8192},
+                {"name": "Libreswan", "size": 8192},
+                {"name": "Lsh", "size": 8192},
+                {"name": "Lynis", "size": 8192},
+                {"name": "MatrixSSL", "size": 8192},
+                {"name": "Metasploit Project", "size": 8192},
+                {"name": "MyDLP", "size": 8192},
+                {"name": "Nessus (software)", "size": 8192},
+                {"name": "Netfilter", "size": 8192},
+                {"name": "Nettle (cryptographic library)", "size": 8192},
+                {"name": "Nikto Web Scanner", "size": 8192},
+                {"name": "NoScript", "size": 8192},
+                {"name": "NotScripts", "size": 8192},
+                {"name": "NuFW", "size": 8192},
+                {"name": "Off-the-Record Messaging", "size": 8192},
+                {"name": "Online Armor Personal Firewall", "size": 8192},
+                {"name": "Open Source Tripwire", "size": 8192},
+                {"name": "OpenConnect", "size": 8192},
+                {"name": "OpenDJ", "size": 8192},
+                {"name": "OpenDS", "size": 8192},
+                {"name": "OpenPAM", "size": 8192},
+                {"name": "OpenPuff", "size": 8192},
+                {"name": "OpenSSH", "size": 8192},
+                {"name": "OpenSSL", "size": 8192},
+                {"name": "Openswan", "size": 8192},
+                {"name": "OpenVAS", "size": 8192},
+                {"name": "OpenVPN", "size": 8192},
+                {"name": "Ophcrack", "size": 8192},
+                {"name": "OSSEC", "size": 8192},
+                {"name": "PolarSSL", "size": 8192},
+                {"name": "Prey (software)", "size": 8192},
+                {"name": "Pwdump", "size": 8192},
+                {"name": "Sagan (software)", "size": 8192},
+                {"name": "Selective file dumper", "size": 8192},
+                {"name": "The Sleuth Kit", "size": 8192},
+                {"name": "Snort (software)", "size": 8192},
+                {"name": "SSL-Explorer: Community Edition", "size": 8192},
+                {"name": "Stealthy", "size": 8192},
+                {"name": "Stockade (software)", "size": 8192},
+                {"name": "StrongSwan", "size": 8192},
+                {"name": "Stunnel", "size": 8192},
+                {"name": "Suricata (software)", "size": 8192},
+                {"name": "SystemRescueCD", "size": 8192},
+                {"name": "TCP Wrapper", "size": 8192},
+                {"name": "TextSecure", "size": 8192},
+                {"name": "Thresh (software)", "size": 8192},
+                {"name": "TorChat", "size": 8192},
+                {"name": "Uncomplicated Firewall", "size": 8192},
+                {"name": "UT-VPN", "size": 8192},
+                {"name": "Dacloud.me", "size": 8192},
+                {"name": "VPNBook", "size": 8192},
+                {"name": "VTun", "size": 8192},
+                {"name": "Vyatta", "size": 8192},
+                {"name": "VyOS", "size": 8192},
+                {"name": "W3af", "size": 8192},
+                {"name": "WarVOX", "size": 8192},
+                {"name": "X-Wrt", "size": 8192},
+                {"name": "Zentyal", "size": 8192}
+              ]
+            }
+          ]
+        },
+    {"name": "Theology", "children":
+      [
+        {"name": "Bible study tools", "children":
+          [
+            {"name": "BibleDesktop", "size": 8192},
+            {"name": "BibleTime", "size": 8192},
+            {"name": "Go Bible", "size": 8192},
+            {"name": "jSword", "size": 8192},
+            {"name": "MacSword", "size": 8192},
+            {"name": "Marcionr", "size": 8192},
+            {"name": "openlp.org", "size": 8192},
+            {"name": "SwordBible", "size": 8192},
+            {"name": "The SWORD Project for Windows", "size": 8192},
+            {"name": "Xiphos", "size": 8192}
+          ]
+        }
+      ]
+    },
+    {"name": "Typesetting", "children":
+      [
+        {"name": "FIGlet", "size": 8192},
+        {"name": "FreeType", "size": 8192},
+        {"name": "Graphite (SIL)", "size": 8192},
+        {"name": "Groff (software)", "size": 8192},
+        {"name": "IText", "size": 8192},
+        {"name": "LaTeX", "size": 8192},
+        {"name": "Lout (software)", "size": 8192},
+        {"name": "Scribus", "size": 8192},
+        {"name": "Troff", "size": 8192}
+      ]
+    }
+  ]
+}
