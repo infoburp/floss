@@ -1498,7 +1498,9 @@
                     {"name": "Zwiki", "size": 1024}
                 ]
             },
-        
+        ,
+  {"name": "Collaboration software", "children":
+        [
             {"name": "Agorum core", "size": 1024},
             {"name": "Beehive Forum", "size": 1024},
             {"name": "BigBlueButton", "size": 1024},
@@ -1544,7 +1546,7 @@
             {"name": "Zarafa (software)", "size": 1024},
             {"name": "Zimbra", "size": 1024}
         ]
-    },
+            },
     {"name": "Medical", "children":
         [
             {"name": "Public health and biosurveillance", "children":
