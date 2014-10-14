@@ -342,7 +342,7 @@
       ]
     },
     
-    {"name": "Computer data storage", "children":
+    {"name": "Storage", "children":
       [
         {"name": "Backup software", "children":
           [
@@ -554,7 +554,7 @@
         }
       ]
     },
-    {"name": "Computer network", "children":
+    {"name": "Networking", "children":
       [
         {"name": "Advertising", "children":
           [
@@ -1042,7 +1042,7 @@
         }
       ]
     },
-    {"name": "File manager", "children":
+    {"name": "Files", "children":
       [
         {"name": "7-Zip", "size": 1024},
         {"name": "Advanced Renamer", "size": 1024},
@@ -1080,7 +1080,7 @@
         {"name": "Xnc", "size": 1024}
       ]
     },
-    {"name": "PC game", "children":
+    {"name": "Games", "children":
         [
             {"name": "Application layer", "children":
                 [ 
@@ -1214,7 +1214,7 @@
             {"name": "Yo Frankie!", "size": 1024}
         ]
     },
-    {"name": "Graphical user interface", "children":
+    {"name": "GUI", "children":
       [
         {"name": "Desktop environment", "children":
             [
@@ -1318,7 +1318,7 @@
         }
         ]
     },
-    {"name": "Collaborative software", "children":
+    {"name": "Collaboration", "children":
         [
             {"name": "Content management system", "children":
                 [
@@ -1545,7 +1545,7 @@
             {"name": "Zimbra", "size": 1024}
         ]
     },
-    {"name": "Medical software", "children":
+    {"name": "Medical", "children":
         [
             {"name": "Public health and biosurveillance", "children":
                 [
@@ -2211,7 +2211,7 @@
     },
     
 
-    {"name": "Computer programming", "children":
+    {"name": "Programming", "children":
         [
             {"name": "Bug tracker", "children":
                 [
@@ -2633,7 +2633,7 @@
           ]
         },
         {
-      "name": "General purpose",
+      "name": "General",
       "children": [
     {"name": "Assistive technology", "children":
       [
