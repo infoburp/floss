@@ -131,9 +131,9 @@ d3.json("datasized.json", function(error, root) {
 			type: 'all',
 			customSelector: ''
 		});
-  }
+  
   $("div").show();
-  }
+  }else{$("div").hide();}
 
   function zoomTo(v) {
     var k = diameter / v[2]; view = v;
