@@ -102,6 +102,17 @@ d3.json("datasized.json", function(error, root) {
         .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
         .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
+        
+    $('#article').wikiblurb(
+		{
+			wikiURL: "http://en.wikipedia.org/",
+			apiPath: 'w',
+			section: 0,
+			page: d.name,
+			removeLinks: false,
+			type: 'all',
+			customSelector: ''
+		});
   }
 
   function zoomTo(v) {
