@@ -123,7 +123,7 @@ d3.json("datasized.json", function(error, root) {
         .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
     $("div").hide();
     if(!d.children) {   
-    	  setTimeout(function(){$("div").show()}, 8000);
+    	  setTimeout(function(){$("div").show()}, 750);
 
     $('#article').wikiblurb(
 		{
