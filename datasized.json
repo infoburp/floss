@@ -1545,6 +1545,8 @@
             {"name": "Zarafa (software)", "size": 1024},
             {"name": "Zimbra", "size": 1024}
         ]
+    }
+  ]
             },
     {"name": "Medical", "children":
         [
