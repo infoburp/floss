@@ -69,10 +69,10 @@ var pack = d3.layout.pack()
     .value(function(d) { return d.size; })
 
 var svg = d3.select("body").append("svg")
-    .attr("width", diameter)
+    .attr("width",Math.max(document.documentElement.clientWidth, window.innerWidth || 0))
     .attr("height", diameter)
   .append("g")
-    .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
+    .attr("transform", "translate(" + Math.max(document.documentElement.clientWidth, window.innerWidth || 0) / 2 + "," + diameter / 2 + ")");
 
 d3.json("datasized.json", function(error, root) {
   if (error) return console.error(error);
