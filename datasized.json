@@ -2030,7 +2030,7 @@
             }
         ]
     },
-    {"name": "Operating system", "children":
+    {"name": "Operating systems", "children":
         [
             {"name": "Emulator", "children":
                 [  
