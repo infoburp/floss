@@ -341,28 +341,7 @@
         }
       ]
     },
-    {"name": "Assistive technology", "children":
-      [
-        {"name": "Speech", "children":
-          [
-            {"name": "CMU Sphinx", "size": 1024},
-            {"name": "Emacspeak", "size": 1024},
-            {"name": "ESpeak", "size": 1024},
-            {"name": "Festival Speech Synthesis System", "size": 1024},
-            {"name": "Modular Audio Recognition Framework", "size": 1024},
-            {"name": "NonVisual Desktop Access", "size": 1024},
-            {"name": "Speech synthesis", "size": 1024}
-          ]
-        },
-        {"name": "Assistive technology", "children":
-          [
-            {"name": "Dasher (software)", "size": 1024},
-            {"name": "Gnopernicus", "size": 1024},
-            {"name": "Virtual Magnifying Glass", "size": 1024}
-          ]
-        }
-      ]
-    },
+    
     {"name": "Computer data storage", "children":
       [
         {"name": "Backup software", "children":
@@ -1233,19 +1212,6 @@
             {"name": "XPilot", "size": 1024},
             {"name": "X-Moto", "size": 1024},
             {"name": "Yo Frankie!", "size": 1024}
-        ]
-    },
-    {"name": "Genealogy", "children":
-        [
-            {"name": "Family.Show", "size": 1024},
-            {"name": "GenealogyJ", "size": 1024},
-            {"name": "Geneotree", "size": 1024},
-            {"name": "GeneWeb", "size": 1024},
-            {"name": "Gramps", "size": 1024},
-            {"name": "HuMo-gen", "size": 1024},
-            {"name": "LifeLines", "size": 1024},
-            {"name": "PhpGedView", "size": 1024},
-            {"name": "Webtrees", "size": 1024}
         ]
     },
     {"name": "Graphical user interface", "children":
@@ -2250,19 +2216,7 @@
             {"name": "Mitro", "size": 1024}
         ]
     },
-    {"name": "Personal information manager", "children":
-        [
-            {"name": "Chandler", "size": 1024},
-            {"name": "KAddressBook", "size": 1024},
-            {"name": "Kontact", "size": 1024},
-            {"name": "KOrganizer", "size": 1024},
-            {"name": "Mozilla Calendar", "size": 1024},
-            {"name": "Novell Evolution", "size": 1024},
-            {"name": "OpenSync (software)", "size": 1024},
-            {"name": "Project.net", "size": 1024},
-            {"name": "TeamLab", "size": 1024}
-        ]
-    },
+
     {"name": "Computer programming", "children":
         [
             {"name": "Bug tracker", "children":
@@ -2418,13 +2372,7 @@
             }
         ]
     },
-    {"name": "Screensaver", "children":
-        [
-            {"name": "Boinc", "size": 1024},
-            {"name": "Electric Sheep", "size": 1024},
-            {"name": "XScreenSaver", "size": 1024}
-        ]
-    },
+  
     {"name": "Security", "children":
         [
             {"name": "Antivirus software", "children":
@@ -2690,8 +2638,66 @@
             }
           ]
         },
+        {
+      "name": "General purpose",
+      "children": [
+    {"name": "Assistive technology", "children":
+      [
+            {"name": "Genealogy", "children":
+        [
+            {"name": "Family.Show", "size": 1024},
+            {"name": "GenealogyJ", "size": 1024},
+            {"name": "Geneotree", "size": 1024},
+            {"name": "GeneWeb", "size": 1024},
+            {"name": "Gramps", "size": 1024},
+            {"name": "HuMo-gen", "size": 1024},
+            {"name": "LifeLines", "size": 1024},
+            {"name": "PhpGedView", "size": 1024},
+            {"name": "Webtrees", "size": 1024}
+        ]
+    },
+        {"name": "Speech", "children":
+          [
+            {"name": "CMU Sphinx", "size": 1024},
+            {"name": "Emacspeak", "size": 1024},
+            {"name": "ESpeak", "size": 1024},
+            {"name": "Festival Speech Synthesis System", "size": 1024},
+            {"name": "Modular Audio Recognition Framework", "size": 1024},
+            {"name": "NonVisual Desktop Access", "size": 1024},
+            {"name": "Speech synthesis", "size": 1024}
+          ]
+        },
+        {"name": "Assistive technology", "children":
+          [
+            {"name": "Dasher (software)", "size": 1024},
+            {"name": "Gnopernicus", "size": 1024},
+            {"name": "Virtual Magnifying Glass", "size": 1024}
+          ]
+        }
+      ]
+    },
+        {"name": "Personal information manager", "children":
+        [
+            {"name": "Chandler", "size": 1024},
+            {"name": "KAddressBook", "size": 1024},
+            {"name": "Kontact", "size": 1024},
+            {"name": "KOrganizer", "size": 1024},
+            {"name": "Mozilla Calendar", "size": 1024},
+            {"name": "Novell Evolution", "size": 1024},
+            {"name": "OpenSync (software)", "size": 1024},
+            {"name": "Project.net", "size": 1024},
+            {"name": "TeamLab", "size": 1024}
+        ]
+    },
     {"name": "Theology", "children":
       [
+          {"name": "Screensaver", "children":
+        [
+            {"name": "Boinc", "size": 1024},
+            {"name": "Electric Sheep", "size": 1024},
+            {"name": "XScreenSaver", "size": 1024}
+        ]
+    },
         {"name": "Bible study tools", "children":
           [
             {"name": "BibleDesktop", "size": 1024},
@@ -2722,4 +2728,6 @@
       ]
     }
   ]
+}
+]
 }
