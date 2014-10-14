@@ -2209,13 +2209,7 @@
             {"name": "Xv6", "size": 1024}
         ]
     },
-    {"name": "Password management", "children":
-        [
-            {"name": "KeePass", "size": 1024},
-            {"name": "Password Safe", "size": 1024},
-            {"name": "Mitro", "size": 1024}
-        ]
-    },
+    
 
     {"name": "Computer programming", "children":
         [
@@ -2713,6 +2707,13 @@
           ]
         }
       ]
+    },
+    {"name": "Password management", "children":
+        [
+            {"name": "KeePass", "size": 1024},
+            {"name": "Password Safe", "size": 1024},
+            {"name": "Mitro", "size": 1024}
+        ]
     },
     {"name": "Typesetting", "children":
       [
