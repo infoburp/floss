@@ -1498,7 +1498,6 @@
                     {"name": "Zwiki", "size": 1024}
                 ]
             },
-        ,
   {"name": "Collaboration software", "children":
         [
             {"name": "Agorum core", "size": 1024},
@@ -2762,6 +2761,8 @@
       ]
     }
   ]
+}
+]
 }
 ]
 }
