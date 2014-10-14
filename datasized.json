@@ -1214,7 +1214,7 @@
             {"name": "Yo Frankie!", "size": 1024}
         ]
     },
-    {"name": "GUI", "children":
+    {"name": "GUIs", "children":
       [
         {"name": "Desktop environment", "children":
             [
