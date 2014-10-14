@@ -120,7 +120,14 @@ d3.json("datasized.json", function(error, root) {
         .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
         
-    $('#article').wikiblurb(
+
+  }
+
+  function zoomTo(v) {
+    var k = diameter / v[2]; view = v;
+    node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
+    circle.attr("r", function(d) { return d.r * k; });
+        $('#article').wikiblurb(
 		{
 			wikiURL: "http://en.wikipedia.org/",
 			apiPath: 'w',
@@ -130,12 +137,10 @@ d3.json("datasized.json", function(error, root) {
 			type: 'all',
 			customSelector: ''
 		});
-  }
-
-  function zoomTo(v) {
-    var k = diameter / v[2]; view = v;
-    node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
-    circle.attr("r", function(d) { return d.r * k; });
+	$("aticle").css("left", d.x-d.r);
+	$("aticle").css("top", d.y-d.r);
+	$("aticle").css("height", d.r * 2);
+	$("aticle").css("width", d.r * 2);
   }
 });
 
