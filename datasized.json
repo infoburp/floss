@@ -2154,7 +2154,7 @@
                   {"name": "Concurrent CP/M-86", "size": 1024},
                   {"name": "Personal CP/M", "size": 1024},
                   {"name": "Personal CP/M-80", "size": 1024},
-                  {"name": "Personal CP/M-86", "size": 1024},
+                  {"name": "Personal CP/M-86", "size": 1024}
                   ]
             },
             {"name": "Other", "children":
