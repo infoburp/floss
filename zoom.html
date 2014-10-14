@@ -119,7 +119,7 @@ d3.json("datasized.json", function(error, root) {
         .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
         .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
-        
+    if(!d.children) {   
     $('#article').wikiblurb(
 		{
 			wikiURL: "http://en.wikipedia.org/",
@@ -130,6 +130,7 @@ d3.json("datasized.json", function(error, root) {
 			type: 'all',
 			customSelector: ''
 		});
+  }
   }
 
   function zoomTo(v) {
