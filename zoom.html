@@ -12,10 +12,10 @@ body{overflow:hidden;}
 	background-color:white;
 	z-index:2;
 	position:fixed;
-	left:50%;
-	width:50%;
-	height:100%;
-	top:0px;
+	left:33%;
+	width:33%;
+	height:33%;
+	top:33%;
 	  font: 12px Impact, Charcoal, sans-serif;
 
 }
@@ -73,7 +73,7 @@ var svg = d3.select("body").append("svg")
     .attr("width", diameter)
     .attr("height", diameter)
   .append("g")
-    .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
+    .attr("transform", "translate(" + Math.max(document.documentElement.clientWidth, window.innerWidth / 2 + "," + diameter / 2 + ")");
 
 d3.json("datasized.json", function(error, root) {
   if (error) return console.error(error);
