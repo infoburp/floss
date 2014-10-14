@@ -17,6 +17,7 @@ body{overflow:hidden;}
 	height:33%;
 	top:33%;
 	  font: 12px Impact, Charcoal, sans-serif;
+	  display:none;
 
 }
 .node {
@@ -131,6 +132,7 @@ d3.json("datasized.json", function(error, root) {
 			customSelector: ''
 		});
   }
+  $("div").show();
   }
 
   function zoomTo(v) {
