@@ -120,6 +120,7 @@ d3.json("datasized.json", function(error, root) {
         .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
         .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
+        $("div").hide();
     if(!d.children) {   
     $('#article').wikiblurb(
 		{
@@ -133,7 +134,7 @@ d3.json("datasized.json", function(error, root) {
 		});
   
   $("div").show();
-  }else{$("div").hide();}
+  }
 
   function zoomTo(v) {
     var k = diameter / v[2]; view = v;
