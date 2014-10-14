@@ -54,7 +54,7 @@ body{overflow:hidden;}
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
-$( "#article" ).hide();
+//$( "#article" ).hide();
 var diameter = Math.min(Math.max(document.documentElement.clientWidth, window.innerWidth || 0), Math.max(document.documentElement.clientHeight, window.innerHeight || 0));
 
 
@@ -130,10 +130,10 @@ d3.json("datasized.json", function(error, root) {
 			type: 'all',
 			customSelector: ''
 		});
-		$( "#article" ).show();
+		//$( "#article" ).show();
   }
-  }else{
-  	$( "#article" ).hide();
+  else{
+  	//$( "#article" ).hide();
   }
 
   function zoomTo(v) {
