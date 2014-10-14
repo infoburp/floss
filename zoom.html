@@ -141,6 +141,18 @@ d3.json("datasized.json", function(error, root) {
 });
 
 d3.select(self.frameElement).style("height", diameter + "px");
-
+$(document).ready(function()
+{
+	$('#article').wikiblurb(
+	{
+		wikiURL: "http://en.wikipedia.org/",
+		apiPath: 'w',
+		section: 0,
+		page: 'Open-source_software',
+		removeLinks: false,
+		type: 'all',
+		customSelector: ''
+	});
+});
 </script>
 </body>
