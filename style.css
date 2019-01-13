@@ -1,7 +1,9 @@
 body{
-overflow-y: scroll;
-overflow-x: hidden;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	font-family: 'Lato', sans-serif;
 }
+
 .node {
   cursor: pointer;
 }
