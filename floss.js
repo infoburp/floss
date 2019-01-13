@@ -143,7 +143,7 @@ function click(d)
 		
 		$('#article').wikiblurb(
 		{
-			wikiURL: "http://en.wikipedia.org/",
+			wikiURL: "https://en.wikipedia.org/",
 			apiPath: 'w',
 			section: 0,
 			page: d.name,
@@ -158,7 +158,7 @@ $(document).ready(function()
 {
 	$('#article').wikiblurb(
 	{
-		wikiURL: "http://en.wikipedia.org/",
+		wikiURL: "https://en.wikipedia.org/",
 		apiPath: 'w',
 		section: 0,
 		page: 'Open-source_software',
