@@ -9,7 +9,7 @@ overflow-x: hidden;
 .node circle {
   fill: #ec7600;
   stroke: #ec7600;
-  stroke-width: 4px;
+  stroke-width: 6px;
 }
 
 .node text {
@@ -19,7 +19,7 @@ overflow-x: hidden;
 .link {
   fill: none;
   stroke: #808080;
-  stroke-width: 1px;
+  stroke-width: 3px;
 }
 svg{
 }
