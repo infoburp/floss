@@ -12,7 +12,7 @@ var diagonal = d3.svg.diagonal().projection(function(d)
 {
 	return [d.y, d.x];
 });
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#tree").append("svg")
     .attr("width", width + 16)
     .attr("height", height)
   .append("g")
@@ -62,6 +62,7 @@ function update(source)
 			return d._children ? "#191919" : "#191919";
 		});
 		nodeEnter.append("text")
+		.attr("class", "node-text")
       .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
       .attr("dy", ".35em")
       .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
@@ -84,6 +85,7 @@ function update(source)
 		}).remove();
 		nodeExit.select("circle").attr("r", 1e-6);
 		nodeExit.select("text").style("fill-opacity", 1e-6);
+		
 		// Update the links…
 		var link = svg.selectAll("path.link").data(links, function(d)
 		{
@@ -138,6 +140,7 @@ function click(d)
 	{
 		d.children = d._children;
 		d._children = null;
+		
 		$('#article').wikiblurb(
 		{
 			wikiURL: "http://en.wikipedia.org/",

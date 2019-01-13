@@ -1,49 +1,109 @@
 body{
-overflow-y: scroll;
-overflow-x: hidden;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	font-family: 'Lato', sans-serif;
+}
+::-webkit-scrollbar-track
+{
+	background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #e8eaf6;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: rgb(238, 110, 115);
+	
+	
 }
 .node {
   cursor: pointer;
 }
 
-.node circle {
-  fill: #ec7600;
-  stroke: #ec7600;
-  stroke-width: 4px;
+
+#wikititle {
+	margin-top: 2em;
 }
 
-.node text {
-  font: 12px Impact, Charcoal, sans-serif;
+.node circle {
+  fill: rgb(238, 110, 115);
+  stroke: rgb(238, 110, 115);
+  stroke-width: 6px;
 }
 
 .link {
   fill: none;
-  stroke: #808080;
-  stroke-width: 1px;
+  stroke: #c5cae9;
+  stroke-width: 3px;
 }
-svg{
+
+#tree {
+	margin-top: 3em;
 }
-#bloglink {
-	position:absolute;
-	top:0px;
-	left:12px;
-	z-index:4;
-	
-}
+
 #article {
-	background-color:white;
+	background-color:transparent;
 	z-index:2;
-	position:absolute;
-	left:60%;
-	width:40%;
-	top:0px;
-	  font: 12px Impact, Charcoal, sans-serif;
-
+	width: 100%;
 }
-#title {
-position:absolute;
-top:85%;
-left:12px;
-z-index:3;
 
+h1 {
+	color: #0d1f4b;
+}
+
+h2 {
+	color: #0d1f55;
+}
+
+blockquote {
+	color: #0d1f5f;
+}
+
+
+.card {
+	flex-basis: calc(50% - 1em);
+	margin-left: 0.5em!important;
+	margin-right: 0.5em!important;
+	min-width: calc(50% - 1em);
+	overflow-x: scroll;
+}
+
+.card-content {
+	padding-top: 16px !important;
+}
+
+.card-title {
+	position: absolute;
+}
+
+.cv {
+	display: -webkit-flex;
+	flex-wrap: wrap;
+}
+
+.contact-detail {
+	position: relative;
+	bottom: 9px;
+	margin-right: 1em;
+	margin-left: 0.5em;
+}
+
+.flow-text {
+	color: #c5cae9;
+	font-size: 150%;
+}
+
+.contact,
+p,
+.subtitle {
+	color: #e8eaf6;
+}
+
+.material-icons {
+	color: #c5cae9;
+	font-style: normal!important;
 }

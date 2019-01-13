@@ -66,6 +66,7 @@
 		    success: function (data, textStatus, jqXHR) {
 
 			try {
+				$('#wikititle').html(settings.page.replace('-', ' ').replace('_', ' '));
 			    var markup = data.parse.text["*"];
 			    var blurb = $('<div class="nbs-wikiblurb"></div>').html(markup);
 
